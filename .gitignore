@@ -1,0 +1,36 @@
+# Python cache — never commit
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# SQLite DBs — contain cached data and session state
+*.db
+*.sqlite
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (keep .log files in repo for history, but not rotated backups)
+*.log.bak
+*.log.old
+
+# Environment secrets
+.env
+!.env.example
+
+# Data files that regenerate on each run
+financial_report.json
+community_report.json
+seen_urls.json
+collect_metrics.json
+scraper.log
+community_feeds.log
