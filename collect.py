@@ -100,7 +100,14 @@ def entry_published_iso(entry: Any) -> Optional[str]:
     return None
 
 def entry_summary(entry: Any) -> Optional[str]:
-    """Extract summary/description/content from a feedparser entry."""
+    """Extract summary/description/content from a feedparser entry.
+    
+    Fallback chain:
+    1. summary / description field (standard RSS)
+    2. content blocks (Atom feeds like Bloomberg)
+    3. media:content caption (Yahoo Finance strips summaries — uses source title as hint)
+    4. None (title-only feeds — acceptable, logged in metrics)
+    """
     raw = entry.get("summary") or entry.get("description")
     if not raw and entry.get("content"):
         parts = []
@@ -109,6 +116,12 @@ def entry_summary(entry: Any) -> Optional[str]:
                 parts.append(block["value"])
         if parts:
             raw = " ".join(parts)
+    # Fallback: Yahoo Finance and some sources omit summary entirely.
+    # Use the publisher source title from media_credit as a minimal context hint.
+    if not raw:
+        source_info = entry.get("source")
+        if isinstance(source_info, dict) and source_info.get("title"):
+            raw = f"[via {source_info['title']}]"
     if raw:
         cleaned = clean_html(raw)
         return cleaned if cleaned else None
@@ -336,3 +349,4 @@ if __name__ == "__main__":
     loop_output = asyncio.run(ResilientScraper().run_pipeline())
     print("\n--- PIPELINE EXECUTION OUTPUT ---\n")
     print(json.dumps(loop_output, indent=2))
+
