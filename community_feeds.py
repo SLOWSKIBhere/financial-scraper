@@ -199,7 +199,19 @@ class CommunityFeedsScraper:
                 self.seen_urls.add(uhash)
 
                 title = getattr(entry, "title", "").replace("\n", " ").replace("\r", " ").strip()
-                summary = getattr(entry, "summary", None)
+                # Try summary first, then description, then content blocks
+                summary = (getattr(entry, "summary", None) or
+                           getattr(entry, "description", None))
+                if not summary and hasattr(entry, "content") and entry.content:
+                    for block in entry.content:
+                        if isinstance(block, dict) and block.get("value"):
+                            summary = block["value"]
+                            break
+                # Final fallback: use publisher source title (handles WSJ/SA/CoinDesk which strip summaries)
+                if not summary:
+                    src = getattr(entry, "source", None)
+                    if isinstance(src, dict) and src.get("title"):
+                        summary = f"[via {src['title']}]"
                 if summary:
                     summary = summary[:500].replace("\n", " ").strip()
 
@@ -320,3 +332,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
