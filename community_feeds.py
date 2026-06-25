@@ -199,19 +199,29 @@ class CommunityFeedsScraper:
                 self.seen_urls.add(uhash)
 
                 title = getattr(entry, "title", "").replace("\n", " ").replace("\r", " ").strip()
-                # Try summary first, then description, then content blocks
-                summary = (getattr(entry, "summary", None) or
-                           getattr(entry, "description", None))
+                # Multi-step summary extraction:
+                # 1. summary/description field (strip empty strings — WSJ/CoinDesk send "")
+                raw_summary = getattr(entry, "summary", None) or getattr(entry, "description", None)
+                summary = raw_summary.strip() if raw_summary and raw_summary.strip() else None
+                # 2. content blocks (Atom feeds — check value is non-empty)
                 if not summary and hasattr(entry, "content") and entry.content:
                     for block in entry.content:
-                        if isinstance(block, dict) and block.get("value"):
-                            summary = block["value"]
+                        val = block.get("value", "").strip() if isinstance(block, dict) else ""
+                        if val:
+                            summary = val
                             break
-                # Final fallback: use publisher source title (handles WSJ/SA/CoinDesk which strip summaries)
+                # 3. Author as context hint (Seeking Alpha / CoinDesk have author field)
                 if not summary:
-                    src = getattr(entry, "source", None)
-                    if isinstance(src, dict) and src.get("title"):
-                        summary = f"[via {src['title']}]"
+                    author = getattr(entry, "author", None)
+                    if author and author.strip():
+                        summary = f"[by {author.strip()}]"
+                # 4. Tags as context hint (Seeking Alpha has rich tags)
+                if not summary:
+                    tags = getattr(entry, "tags", [])
+                    if tags:
+                        tag_terms = [t.get("term","") for t in tags[:3] if isinstance(t, dict) and t.get("term")]
+                        if tag_terms:
+                            summary = f"[topics: {', '.join(tag_terms)}]"
                 if summary:
                     summary = summary[:500].replace("\n", " ").strip()
 
