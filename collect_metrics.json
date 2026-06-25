@@ -1,0 +1,87 @@
+{
+  "collected_at": "2026-06-24T14:39:30.616363+00:00",
+  "total_articles": 326,
+  "sources": [
+    {
+      "source": "Yahoo Finance",
+      "success": true,
+      "article_count": 44,
+      "summaries_present": 0,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "MarketWatch",
+      "success": true,
+      "article_count": 10,
+      "summaries_present": 10,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "CNBC",
+      "success": true,
+      "article_count": 30,
+      "summaries_present": 29,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "WSJ Markets",
+      "success": true,
+      "article_count": 61,
+      "summaries_present": 61,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "Business Insider",
+      "success": true,
+      "article_count": 20,
+      "summaries_present": 20,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "NPR Business",
+      "success": true,
+      "article_count": 10,
+      "summaries_present": 10,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "BBC Business",
+      "success": true,
+      "article_count": 56,
+      "summaries_present": 56,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "Bloomberg",
+      "success": true,
+      "article_count": 30,
+      "summaries_present": 30,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "Nasdaq Business",
+      "success": true,
+      "article_count": 15,
+      "summaries_present": 15,
+      "missing_dates": 0,
+      "errors": []
+    },
+    {
+      "source": "TheStreet",
+      "success": true,
+      "article_count": 50,
+      "summaries_present": 50,
+      "missing_dates": 0,
+      "errors": []
+    }
+  ],
+  "global_errors": []
+}

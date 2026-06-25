@@ -1,0 +1,9 @@
+2026-05-25 10:52:41,338 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-05-25 10:52:41,339 [INFO] Starting safe Reddit collector pipeline...
+2026-05-25 10:52:41,340 [ERROR] PRAW package is not installed. Please run: pip install praw
+2026-05-25 10:57:02,598 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-05-25 10:57:02,599 [INFO] Starting safe Reddit collector pipeline...
+2026-05-25 10:57:03,409 [WARNING] Reddit API credentials are not configured in reddit/.env.
+2026-05-25 11:35:19,603 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-05-25 11:35:19,603 [INFO] Starting safe Reddit collector pipeline...
+2026-05-25 11:35:20,229 [WARNING] Reddit API credentials are not configured in reddit/.env.

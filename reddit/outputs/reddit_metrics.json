@@ -1,0 +1,18 @@
+{
+  "execution_start": "2026-06-11T23:09:32.533637+00:00",
+  "execution_end": "2026-06-11T23:09:49.354848+00:00",
+  "duration_seconds": 16.821211,
+  "subreddits_scraped": [],
+  "total_posts_checked": 0,
+  "matched_posts_count": 0,
+  "matched_comments_count": 0,
+  "status": "FAILED_BLOCKED",
+  "errors": [
+    "HTTP 403 for https://www.reddit.com/r/webscraping/hot.json?limit=25",
+    "HTTP 403 for https://www.reddit.com/r/learnpython/hot.json?limit=25",
+    "HTTP 403 for https://www.reddit.com/r/Python/hot.json?limit=25",
+    "HTTP 403 for https://www.reddit.com/r/dataengineering/hot.json?limit=25",
+    "HTTP 403 for https://www.reddit.com/r/datascience/hot.json?limit=25",
+    "HTTP 403 for https://www.reddit.com/r/datasets/hot.json?limit=25"
+  ]
+}

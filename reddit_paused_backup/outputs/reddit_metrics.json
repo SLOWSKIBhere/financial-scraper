@@ -1,0 +1,13 @@
+{
+  "execution_start": "2026-05-25T15:35:19.602427+00:00",
+  "execution_end": "2026-05-25T15:35:20.230326+00:00",
+  "duration_seconds": 0.627899,
+  "subreddits_scraped": [],
+  "total_posts_checked": 0,
+  "matched_posts_count": 0,
+  "matched_comments_count": 0,
+  "status": "BLOCKED_CREDENTIALS",
+  "errors": [
+    "Reddit API credentials are not configured in reddit/.env."
+  ]
+}

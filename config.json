@@ -1,0 +1,77 @@
+{
+    "approved_sources":  [
+                             {
+                                 "name":  "Yahoo Finance",
+                                 "url":  "https://finance.yahoo.com/news/rssindex",
+                                 "fallback_url":  "https://finance.yahoo.com/news",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "MarketWatch",
+                                 "url":  "https://www.marketwatch.com/rss/topstories",
+                                 "fallback_url":  "https://www.marketwatch.com/latest-news",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "CNBC",
+                                 "url":  "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+                                 "fallback_url":  "https://www.cnbc.com/business/",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "WSJ Markets",
+                                 "url":  "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+                                 "fallback_url":  "https://www.wsj.com/news/markets",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "Business Insider",
+                                 "url":  "https://www.businessinsider.com/rss",
+                                 "fallback_url":  "https://www.businessinsider.com/finance",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "NPR Business",
+                                 "url":  "https://feeds.npr.org/1006/rss.xml",
+                                 "fallback_url":  "https://www.npr.org/sections/business/",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "BBC Business",
+                                 "url":  "http://feeds.bbci.co.uk/news/business/rss.xml",
+                                 "fallback_url":  "https://www.bbc.com/news/business",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "Bloomberg",
+                                 "url":  "https://feeds.bloomberg.com/markets/news.rss",
+                                 "fallback_url":  "https://www.bloomberg.com",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "Nasdaq Business",
+                                 "url":  "https://www.nasdaq.com/feed/rssoutbound?category=Business",
+                                 "fallback_url":  "https://www.nasdaq.com/news-and-insights/topic/business",
+                                 "type":  "rss"
+                             },
+                             {
+                                 "name":  "TheStreet",
+                                 "url":  "https://www.thestreet.com/.rss/full/",
+                                 "fallback_url":  "https://www.thestreet.com/markets",
+                                 "type":  "rss"
+                             }
+                         ],
+    "validation_rules":  {
+                             "require_fields":  [
+                                                    "title",
+                                                    "url",
+                                                    "published",
+                                                    "source"
+                                                ],
+                             "allow_null_fields":  [
+                                                       "summary"
+                                                   ],
+                             "enforce_iso_date":  true,
+                             "enforce_http_url":  true
+                         }
+}

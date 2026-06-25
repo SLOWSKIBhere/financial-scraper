@@ -1,0 +1,83 @@
+2026-05-25 10:52:41,338 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-05-25 10:52:41,339 [INFO] Starting safe Reddit collector pipeline...
+2026-05-25 10:52:41,340 [ERROR] PRAW package is not installed. Please run: pip install praw
+2026-05-25 10:57:02,598 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-05-25 10:57:02,599 [INFO] Starting safe Reddit collector pipeline...
+2026-05-25 10:57:03,409 [WARNING] Reddit API credentials are not configured in reddit/.env.
+2026-05-25 11:35:19,603 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-05-25 11:35:19,603 [INFO] Starting safe Reddit collector pipeline...
+2026-05-25 11:35:20,229 [WARNING] Reddit API credentials are not configured in reddit/.env.
+2026-06-11 19:08:38,756 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-06-11 19:08:38,756 [INFO] Querying subreddit: r/webscraping...
+2026-06-11 19:08:41,337 [INFO] Querying public URL: https://www.reddit.com/r/webscraping/hot.json?limit=25
+2026-06-11 19:08:41,488 [INFO] HTTP Request: GET https://www.reddit.com/r/webscraping/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:08:41,515 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:08:41,515 [WARNING] Could not parse public feed for r/webscraping
+2026-06-11 19:08:41,515 [INFO] Querying subreddit: r/learnpython...
+2026-06-11 19:08:43,849 [INFO] Querying public URL: https://www.reddit.com/r/learnpython/hot.json?limit=25
+2026-06-11 19:08:43,909 [INFO] HTTP Request: GET https://www.reddit.com/r/learnpython/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:08:43,932 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:08:43,932 [WARNING] Could not parse public feed for r/learnpython
+2026-06-11 19:08:43,932 [INFO] Querying subreddit: r/Python...
+2026-06-11 19:08:46,253 [INFO] Querying public URL: https://www.reddit.com/r/Python/hot.json?limit=25
+2026-06-11 19:08:46,312 [INFO] HTTP Request: GET https://www.reddit.com/r/Python/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:08:46,337 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:08:46,338 [WARNING] Could not parse public feed for r/Python
+2026-06-11 19:08:46,338 [INFO] Querying subreddit: r/dataengineering...
+2026-06-11 19:08:48,670 [INFO] Querying public URL: https://www.reddit.com/r/dataengineering/hot.json?limit=25
+2026-06-11 19:08:48,749 [INFO] HTTP Request: GET https://www.reddit.com/r/dataengineering/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:08:48,772 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:08:48,773 [WARNING] Could not parse public feed for r/dataengineering
+2026-06-11 19:08:48,773 [INFO] Querying subreddit: r/datascience...
+2026-06-11 19:08:51,088 [INFO] Querying public URL: https://www.reddit.com/r/datascience/hot.json?limit=25
+2026-06-11 19:08:51,157 [INFO] HTTP Request: GET https://www.reddit.com/r/datascience/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:08:51,185 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:08:51,186 [WARNING] Could not parse public feed for r/datascience
+2026-06-11 19:08:51,186 [INFO] Querying subreddit: r/datasets...
+2026-06-11 19:08:53,513 [INFO] Querying public URL: https://www.reddit.com/r/datasets/hot.json?limit=25
+2026-06-11 19:08:53,629 [INFO] HTTP Request: GET https://www.reddit.com/r/datasets/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:08:53,665 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:08:53,665 [WARNING] Could not parse public feed for r/datasets
+2026-06-11 19:08:53,665 [ERROR] All public endpoints returned empty payload. Datacenter IP blocking active.
+2026-06-11 19:08:53,669 [INFO] Metrics saved to C:\Users\16p30\agent-projects\financial-scraper\reddit\outputs\reddit_metrics.json
+2026-06-11 19:08:53,686 [INFO] VibeForge trends report saved to C:\Users\16p30\agent-projects\financial-scraper\reddit\outputs\vibeforge_trends.json
+2026-06-11 19:08:53,687 [INFO] VibeForge trends markdown saved to C:\Users\16p30\agent-projects\financial-scraper\reddit\outputs\vibeforge_trends.md
+2026-06-11 19:08:53,687 [INFO] Looking to merge trends array with root unified report: C:\Users\16p30\agent-projects\financial-scraper\financial_report.json
+2026-06-11 19:08:53,687 [INFO] No matching Reddit Trends matched to append. Skipping merge step.
+2026-06-11 19:09:32,534 [INFO] Loaded config: 6 subreddits, 15 keywords.
+2026-06-11 19:09:32,534 [INFO] Querying subreddit: r/webscraping...
+2026-06-11 19:09:35,029 [INFO] Querying public URL: https://www.reddit.com/r/webscraping/hot.json?limit=25
+2026-06-11 19:09:35,150 [INFO] HTTP Request: GET https://www.reddit.com/r/webscraping/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:09:35,181 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:09:35,182 [WARNING] Could not parse public feed for r/webscraping
+2026-06-11 19:09:35,182 [INFO] Querying subreddit: r/learnpython...
+2026-06-11 19:09:37,517 [INFO] Querying public URL: https://www.reddit.com/r/learnpython/hot.json?limit=25
+2026-06-11 19:09:37,570 [INFO] HTTP Request: GET https://www.reddit.com/r/learnpython/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:09:37,596 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:09:37,597 [WARNING] Could not parse public feed for r/learnpython
+2026-06-11 19:09:37,597 [INFO] Querying subreddit: r/Python...
+2026-06-11 19:09:40,456 [INFO] Querying public URL: https://www.reddit.com/r/Python/hot.json?limit=25
+2026-06-11 19:09:40,520 [INFO] HTTP Request: GET https://www.reddit.com/r/Python/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:09:40,545 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:09:40,546 [WARNING] Could not parse public feed for r/Python
+2026-06-11 19:09:40,546 [INFO] Querying subreddit: r/dataengineering...
+2026-06-11 19:09:43,333 [INFO] Querying public URL: https://www.reddit.com/r/dataengineering/hot.json?limit=25
+2026-06-11 19:09:43,441 [INFO] HTTP Request: GET https://www.reddit.com/r/dataengineering/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:09:43,474 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:09:43,475 [WARNING] Could not parse public feed for r/dataengineering
+2026-06-11 19:09:43,475 [INFO] Querying subreddit: r/datascience...
+2026-06-11 19:09:46,306 [INFO] Querying public URL: https://www.reddit.com/r/datascience/hot.json?limit=25
+2026-06-11 19:09:46,374 [INFO] HTTP Request: GET https://www.reddit.com/r/datascience/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:09:46,405 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:09:46,406 [WARNING] Could not parse public feed for r/datascience
+2026-06-11 19:09:46,407 [INFO] Querying subreddit: r/datasets...
+2026-06-11 19:09:49,242 [INFO] Querying public URL: https://www.reddit.com/r/datasets/hot.json?limit=25
+2026-06-11 19:09:49,325 [INFO] HTTP Request: GET https://www.reddit.com/r/datasets/hot.json?limit=25 "HTTP/1.1 403 Blocked"
+2026-06-11 19:09:49,352 [WARNING] HTTP 403 returned from endpoint.
+2026-06-11 19:09:49,353 [WARNING] Could not parse public feed for r/datasets
+2026-06-11 19:09:49,354 [ERROR] All public endpoints returned empty payload. Datacenter IP blocking active.
+2026-06-11 19:09:49,357 [INFO] Metrics saved to C:\Users\16p30\agent-projects\financial-scraper\reddit\outputs\reddit_metrics.json
+2026-06-11 19:09:49,359 [INFO] VibeForge trends report saved to C:\Users\16p30\agent-projects\financial-scraper\reddit\outputs\vibeforge_trends.json
+2026-06-11 19:09:49,361 [INFO] VibeForge trends markdown saved to C:\Users\16p30\agent-projects\financial-scraper\reddit\outputs\vibeforge_trends.md
+2026-06-11 19:09:49,362 [INFO] Looking to merge trends array with root unified report: C:\Users\16p30\agent-projects\financial-scraper\financial_report.json
+2026-06-11 19:09:49,362 [INFO] No matching Reddit Trends matched to append. Skipping merge step.
