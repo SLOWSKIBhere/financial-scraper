@@ -1,12 +1,12 @@
 {
-  "collected_at": "2026-06-24T14:39:30.616363+00:00",
-  "total_articles": 326,
+  "collected_at": "2026-07-05T16:02:26.296961+00:00",
+  "total_articles": 329,
   "sources": [
     {
       "source": "Yahoo Finance",
       "success": true,
-      "article_count": 44,
-      "summaries_present": 0,
+      "article_count": 50,
+      "summaries_present": 50,
       "missing_dates": 0,
       "errors": []
     },
@@ -22,15 +22,15 @@
       "source": "CNBC",
       "success": true,
       "article_count": 30,
-      "summaries_present": 29,
+      "summaries_present": 30,
       "missing_dates": 0,
       "errors": []
     },
     {
       "source": "WSJ Markets",
       "success": true,
-      "article_count": 61,
-      "summaries_present": 61,
+      "article_count": 60,
+      "summaries_present": 60,
       "missing_dates": 0,
       "errors": []
     },
@@ -53,8 +53,8 @@
     {
       "source": "BBC Business",
       "success": true,
-      "article_count": 56,
-      "summaries_present": 56,
+      "article_count": 54,
+      "summaries_present": 54,
       "missing_dates": 0,
       "errors": []
     },
@@ -83,5 +83,54 @@
       "errors": []
     }
   ],
-  "global_errors": []
+  "global_errors": [],
+  "run_summary": {
+    "total_collected": 329,
+    "new_articles": 329,
+    "duplicates": 0,
+    "total_seen": 571,
+    "sources": {
+      "Yahoo Finance": {
+        "total": 50,
+        "new": 50
+      },
+      "MarketWatch": {
+        "total": 10,
+        "new": 10
+      },
+      "CNBC": {
+        "total": 30,
+        "new": 30
+      },
+      "WSJ Markets": {
+        "total": 60,
+        "new": 60
+      },
+      "Business Insider": {
+        "total": 20,
+        "new": 20
+      },
+      "NPR Business": {
+        "total": 10,
+        "new": 10
+      },
+      "BBC Business": {
+        "total": 54,
+        "new": 54
+      },
+      "Bloomberg": {
+        "total": 30,
+        "new": 30
+      },
+      "Nasdaq Business": {
+        "total": 15,
+        "new": 15
+      },
+      "TheStreet": {
+        "total": 50,
+        "new": 50
+      }
+    }
+  },
+  "last_run": "2026-07-05T16:02:26"
 }
