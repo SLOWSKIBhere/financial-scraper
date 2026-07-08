@@ -1,9 +1,2647 @@
 {
-  "metadata": {
-    "collected_at": "2026-07-07T16:08:21.572813",
-    "total_articles": 0,
-    "note": "RSS feed servers unresponsive on 2026-07-07. Placeholder report created.",
-    "status": "ERROR_FEEDS_DOWN"
-  },
-  "articles": []
+  "results": [
+    {
+      "source": "Yahoo Finance",
+      "articles": [
+        {
+          "title": "Bank of America warns America now has 2 economies",
+          "summary": "[via TheStreet]",
+          "url": "https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html",
+          "published": "2026-07-07T20:23:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "The US-Iran conflict could still drive up food prices. How to get ahead of it.",
+          "summary": "[via Yahoo Personal Finance]",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/the-us-iran-conflict-could-still-drive-up-food-prices-how-to-get-ahead-of-it-135110483.html",
+          "published": "2026-04-16T13:51:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "The $2 trillion chip sell-off hits a make-or-break level: Chart of the Day",
+          "summary": "[via Yahoo Finance]",
+          "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-sell-off-hits-a-make-or-break-level-chart-of-the-day-155000822.html",
+          "published": "2026-07-08T15:50:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Good news, software developers: Job postings are ticking up post-Claude Code",
+          "summary": "[via Yahoo Finance]",
+          "url": "https://finance.yahoo.com/economy/policy/article/good-news-software-developers-job-postings-are-ticking-up-post-claude-code-154726595.html",
+          "published": "2026-07-08T15:47:26+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Match Group, IBD's Stock Of The Day, Pins Hopes On Hinge, Tinder And AI-Led Growth",
+          "summary": "[via Investor's Business Daily]",
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/match-stock-online-dating-hinge-tinder-ai/?src=A00220&yptr=yahoo",
+          "published": "2026-07-08T15:47:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Revenue and Growth Outlook Affirm Why Taiwan Semiconductor Manufacturing Co. (TSM) is a Top AI Stock on Wall Street’s Radar",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/revenue-growth-outlook-affirm-why-153912617.html",
+          "published": "2026-07-08T15:39:12+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "This is Why SAP SE (SAP) is A Top AI Stock on Wall Street Radar amid Reorganization Drive",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-sap-se-sap-top-153859414.html",
+          "published": "2026-07-08T15:38:59+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "JPMorgan Chase: Here's One Trade To Consider As Earnings Approach",
+          "summary": "[via Investor's Business Daily]",
+          "url": "https://www.investors.com/research/options/jpmorgan-chase-jpm-stock-bull-put-spread-options-2/?src=A00220&yptr=yahoo",
+          "published": "2026-07-08T15:38:56+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is Meta Platforms, Inc. (META) A Top AI Stock on Wall Street’s Radar?",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-153848270.html",
+          "published": "2026-07-08T15:38:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Snowflake Inc. (SNOW): A Top AI Stock on Wall Street’s Radar, Expanding in Europe",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-inc-snow-top-ai-153841482.html",
+          "published": "2026-07-08T15:38:41+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Daily Spotlight: Equities Post Strong First Half",
+          "summary": "[via Argus Research]",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47545_MarketOutlook_1783509782000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "published": "2026-07-08T11:23:02+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Datadog, Inc. (DDOG) A Top AI Stock on Wall Street’s Radar Downgraded at Bernstein SocGen",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/datadog-inc-ddog-top-ai-153830934.html",
+          "published": "2026-07-08T15:38:30+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "ASML Holding N.V. (ASML) Price Target Raised by Jefferies on Strong Semiconductor Outlook",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-153817672.html",
+          "published": "2026-07-08T15:38:17+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why a $1.8 Million Nest Egg at 65 Only Buys $54,000 of Real Annual Spending",
+          "summary": "[via 24/7 Wall St.]",
+          "url": "https://finance.yahoo.com/markets/articles/why-1-8-million-nest-153755354.html",
+          "published": "2026-07-08T15:37:55+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "$9.3B Japan Factory Expansion Assert Micron Technology Inc. (MU) as a Top AI Stock on Wall Street Radar",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/9-3b-japan-factory-expansion-153556918.html",
+          "published": "2026-07-08T15:35:56+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Bank of America Affirms Why NVIDIA Corp. (NVDA) is a Top AI Stock on Wall Street Radar",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-affirms-why-nvidia-153541031.html",
+          "published": "2026-07-08T15:35:41+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Daily – Vickers Top Insider Picks for 07/08/2026",
+          "summary": "[via Argus Research]",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47542_InsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "published": "2026-07-08T10:59:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unifies-copilot-strategy-153524054.html",
+          "published": "2026-07-08T15:35:24+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "What Does Freedom Broker’s Call on EQT Corp (EQT) Stock Reveal?",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-freedom-broker-call-eqt-153358094.html",
+          "published": "2026-07-08T15:33:58+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Dollar Benefits as Investors Seek Safe Havens",
+          "summary": "[via Barrons.com]",
+          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-070826/card/dollar-benefits-as-investors-seek-safe-havens-XDHjSzO8bYVFoDTcAu3f?siteid=yhoof2&yptr=yahoo",
+          "published": "2026-07-08T15:37:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Unity Software Inc (U) Stock: Raymond James Has a Message For Investors",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/unity-software-inc-u-stock-153350597.html",
+          "published": "2026-07-08T15:33:50+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "UBS Updates Its Call on United Airlines Holdings Inc (UAL) Stock. Here’s the Takeaway",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-updates-call-united-airlines-153340429.html",
+          "published": "2026-07-08T15:33:40+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Daily – Vickers Top Buyers & Sellers for 07/08/2026",
+          "summary": "[via Argus Research]",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47543_TopBottomInsiderActivity_1783508350000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "published": "2026-07-08T10:59:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Qnity Electronics Inc (Q): Dividend Is Coming. And That’s Not All",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qnity-electronics-inc-q-dividend-153329196.html",
+          "published": "2026-07-08T15:33:29+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil surges, Trump declares ceasefire 'over'",
+          "summary": "[via Yahoo Finance]",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-dow-sp-nasdaq-fall-oil-rise-230111117.html",
+          "published": "2026-07-07T23:01:11+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Broadcom Stock: The 1 Number That Could Tell You a Market Turn Is Coming",
+          "summary": "[via 24/7 Wall St.]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-1-number-could-153653838.html",
+          "published": "2026-07-08T15:36:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nokia (NOK) Taps SAP and Microsoft: Cloud and AI in Focus",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-taps-sap-microsoft-153314352.html",
+          "published": "2026-07-08T15:33:14+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Listen to What Benchmark Says About Rocket Companies Inc (RKT) Stock",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/listen-benchmark-says-rocket-companies-153258577.html",
+          "published": "2026-07-08T15:32:58+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Market Digest: RCL",
+          "summary": "[via Argus Research]",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_47539_MarketSummary_1783507894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "published": "2026-07-08T10:51:34+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Should You Buy Nucor Corp (NUE) Stock? Q2 Outlook Offers a Hint",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nucor-corp-nue-stock-153249719.html",
+          "published": "2026-07-08T15:32:49+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Cantor Fitzgerald Updates Call on ON Semiconductor Corp (ON) Stock",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-updates-call-semiconductor-153237889.html",
+          "published": "2026-07-08T15:32:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Wall Street Thinks AI Is Slowing. Wall Street Is Wrong",
+          "summary": "[via 24/7 Wall St.]",
+          "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-thinks-ai-slowing-153414199.html",
+          "published": "2026-07-08T15:34:14+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Cantor Fitzgerald Lifts Texas Instruments Inc (TXN) Price Target. Here’s Why",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-lifts-texas-instruments-153225855.html",
+          "published": "2026-07-08T15:32:25+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Hewlett Packard Enterprise Co (HPE) Broadens ScanSource Deal. Juniper In Focus",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/technology/articles/hewlett-packard-enterprise-co-hpe-153217879.html",
+          "published": "2026-07-08T15:32:17+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Tech stocks live: Tech stocks buffeted by AI bubble concerns, dip-buying",
+          "summary": "[via Yahoo Finance]",
+          "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-stocks-buffeted-by-ai-bubble-concerns-dip-buying-131003284.html",
+          "published": "2026-07-06T13:10:03+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Mexico’s trucking labor crunch intensifies, IRU warns",
+          "summary": "[via FreightWaves]",
+          "url": "https://finance.yahoo.com/economy/articles/mexico-trucking-labor-crunch-intensifies-152645742.html",
+          "published": "2026-07-08T15:26:45+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "JEPI vs. JEPQ: Which Is the Better Buy in July?",
+          "summary": "[via 24/7 Wall St.]",
+          "url": "https://finance.yahoo.com/markets/options/articles/jepi-vs-jepq-better-buy-153124679.html",
+          "published": "2026-07-08T15:31:24+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Ondas Just Built Autonomous Defense Powerhouse With This Major Acquisition",
+          "summary": "[via IPO-Edge.com]",
+          "url": "https://finance.yahoo.com/technology/articles/ondas-just-built-autonomous-defense-152539794.html",
+          "published": "2026-07-08T15:25:39+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "$14,000 dog grooming bills and 25% pricier flights: How the K-shaped economy is punishing the middle class",
+          "summary": "[via Moneywise]",
+          "url": "https://finance.yahoo.com/economy/articles/14-000-dog-grooming-bills-152500767.html",
+          "published": "2026-07-08T15:25:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is Genmab A/S (GMAB) Stock Undervalued After Positive Epkinly DLBCL Trial Results?",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/healthcare/articles/genmab-gmab-stock-undervalued-positive-150448785.html",
+          "published": "2026-07-08T15:04:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is Crinetics Pharmaceuticals, Inc. (CRNX) Stock a Buying Opportunity After a 44% Pullback?",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/healthcare/articles/crinetics-pharmaceuticals-inc-crnx-stock-150440290.html",
+          "published": "2026-07-08T15:04:40+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Salesforce vs ServiceNow: One Buys Back Shares, Other Buys Companies",
+          "summary": "[via 24/7 Wall St.]",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-servicenow-one-buys-153038717.html",
+          "published": "2026-07-08T15:30:38+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "When will gas prices go down? What to know as you plan your summer road trip.",
+          "summary": "[via Yahoo Personal Finance]",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-summer-road-trip-154506731.html",
+          "published": "2026-04-14T15:45:06+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Refinery Stocks Lead S&P 500 After Trump Ceasefire Comment",
+          "summary": "[via Investor's Business Daily]",
+          "url": "https://www.investors.com/news/trump-iran-ceasefire-oil-refinery-stocks/?src=A00220&yptr=yahoo",
+          "published": "2026-07-08T14:58:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AI memory stocks trim losses as investors buy the dip",
+          "summary": "[via Yahoo Finance]",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-memory-stocks-trim-losses-as-investors-buy-the-dip-122848703.html",
+          "published": "2026-07-08T12:28:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is TransMedics Group, Inc. (TMDX) Stock Still a MedTech Growth Opportunity After Analyst Target Cut?",
+          "summary": "[via Insider Monkey]",
+          "url": "https://finance.yahoo.com/healthcare/articles/transmedics-group-inc-tmdx-stock-145053504.html",
+          "published": "2026-07-08T14:50:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.663205+00:00",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "articles": [
+        {
+          "title": "Oil prices touch two-week highs  after Trump suggests U.S.-Iran cease-fire is over",
+          "summary": "Oil prices touched their highest levels in more than two weeks on Wednesday after President Donald Trump said he believed the cease-fire with Iran was over.",
+          "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+          "published": "2026-07-08T15:36:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
+          "summary": "Low-volatility stocks are having a moment after a long stretch of underperformance.",
+          "url": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories",
+          "published": "2026-07-08T15:02:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Insurance giant says it’s turning to AI to replace as many as 1,800 jobs",
+          "summary": "Allianz Partners will axe between 1,500 and 1,800 roles from its workforce of close to 23,000",
+          "url": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories",
+          "published": "2026-07-08T14:54:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
+          "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
+          "url": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+          "published": "2026-07-08T14:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+          "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
+          "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+          "published": "2026-07-08T14:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
+          "summary": "Even if you’re not worried about your normal spending anymore, a long-term-care need is still a problem for any budget.",
+          "url": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
+          "published": "2026-07-08T14:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "As a red-hot global stock market stumbles into bear territory, this Wall Street bull spots a dip worth buying",
+          "summary": "Tom Lee of Fundstrat says he’s buying the dip, and not scared off by Samsung’s losses",
+          "url": "https://www.marketwatch.com/story/as-a-once-hot-stock-market-tumbles-into-bear-territory-this-wall-street-bull-says-its-time-to-buy-the-dip-c8c2c72f?mod=mw_rss_topstories",
+          "published": "2026-07-08T13:41:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "We’re spending $7,000 to attend 7 weddings this year — and that’s after cutting corners",
+          "summary": "Plus: How to decline a wedding invitation without feeling like a jerk",
+          "url": "https://www.marketwatch.com/story/were-spending-7-000-to-attend-7-weddings-this-year-and-thats-after-cutting-corners-8e467037?mod=mw_rss_topstories",
+          "published": "2026-07-08T13:31:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Alibaba just had its best day in 10 months. Is it time for China techs to catch up?",
+          "summary": "Alibaba on Wednesday saw its best single share-price gain in 10 months, as the broader Chinese tech sector revved higher after missing the rally propelling U.S., Korean and Taiwanese companies.",
+          "url": "https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories",
+          "published": "2026-07-08T13:09:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Iran war will leave an inflation scar on the U.S. through 2027, IMF says",
+          "summary": "The conflict with Iran hasn’t hurt the U.S. and global economies as much as expected, but it will leave a lasting legacy: Another bout of high inflation that won’t disappear quickly.",
+          "url": "https://www.marketwatch.com/story/iran-war-will-leave-an-inflation-scar-on-the-u-s-through-2027-imf-says-909818b8?mod=mw_rss_topstories",
+          "published": "2026-07-08T13:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669266+00:00",
+          "source": "MarketWatch"
+        }
+      ]
+    },
+    {
+      "source": "CNBC",
+      "articles": [
+        {
+          "title": "Trump says Iran ceasefire is 'over,' U.S. will 'hit them hard tonight'",
+          "summary": "The president was asked about the ceasefire after an escalation of fighting in the Middle East.",
+          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
+          "published": "2026-07-08T13:59:28+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+          "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+          "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+          "published": "2026-07-08T14:28:30+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Delta launches 'basic business' fares without lounge access, seat selection",
+          "summary": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
+          "url": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
+          "published": "2026-07-08T15:03:58+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Kentucky Gov. Beshear presses McConnell to provide health update as speculation grows",
+          "summary": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14.",
+          "url": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+          "published": "2026-07-08T14:52:14+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
+          "summary": "The Manheim Used Vehicle Value Index for EVs — which tracks prices of used vehicles sold at its U.S. wholesale auctions — increased 12% compared to June 2025.",
+          "url": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
+          "published": "2026-07-08T15:14:54+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump opposes Carroll getting $5 million damages verdict, cites last-ditch Supreme Court bid",
+          "summary": "Trump has been found liable in two trials for defaming E. Jean Carroll when he denied her claim he sexually abused her in a New York department store.",
+          "url": "https://www.cnbc.com/2026/07/08/trump-e-jean-carroll-supreme-court-sex-abuse.html",
+          "published": "2026-07-08T15:48:04+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Waymo to start driverless rides in 4 more U.S. markets as expansion accelerates",
+          "summary": "Waymo has a big lead in the nascent U.S. robotaxi market, and is opening up in more cities.",
+          "url": "https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html",
+          "published": "2026-07-08T15:51:35+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Delaying Social Security reform raises risks for bond markets and the economy, research finds",
+          "summary": "Social Security's trust fund that helps pay retirement benefits is projected to run out in late 2032. New research finds that may pose serious economic risks.",
+          "url": "https://www.cnbc.com/2026/07/08/social-security-trust-fund-depletion.html",
+          "published": "2026-07-08T15:11:22+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, 'life is pretty grim'",
+          "summary": "Only 35% of U.S. adults define the American Dream as being part of a community. But one cannot thrive without the people around them, say experts.",
+          "url": "https://www.cnbc.com/2026/07/08/the-american-dream-is-missing-a-key-ingredient-says-expert-without-it-life-is-pretty-grim.html",
+          "published": "2026-07-08T14:00:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump says he doesn't want anything to do with Spain: 'Cut off all trade'",
+          "summary": "U.S. President Donald Trump slammed Spain for not contributing enough to NATO, as he attended the defense alliance summit in Turkey.",
+          "url": "https://www.cnbc.com/2026/07/08/trump-spain-nato-trade-summit.html",
+          "published": "2026-07-08T13:26:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump pours cold water on NATO allies' united front",
+          "summary": "Trump criticized NATO allies over defense spending, attacked Spain and renewed his Greenland push during the alliance’s summit in Turkey.",
+          "url": "https://www.cnbc.com/2026/07/08/nato-trump-rutte-russia-iran-greenland-ukraine.html",
+          "published": "2026-07-08T10:58:47+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bezos' Blue Origin valued at $130 billion in first outside fundraising round",
+          "summary": "Bezos' Blue Origin is raising outside capital in a round valuing the rocket company at $130 billion, sources told CNBC's Andrew Ross Sorkin.",
+          "url": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+          "published": "2026-07-08T15:58:59+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
+          "summary": "Apple is expanding its Broadcom partnership in a $30 billion-plus chipmaking agreement, its largest American manufacturing commitment to date.",
+          "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+          "published": "2026-07-08T10:36:15+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Mitch McConnell's health concerns grow amid 4th week in hospital with few details from aides",
+          "summary": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to the hospital on June 14.",
+          "url": "https://www.cnbc.com/2026/07/07/mitch-mcconnell-health-senate-gop.html",
+          "published": "2026-07-07T19:57:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "We're exiting our position in an AI chipmaker to lock in big gains",
+          "summary": "The sale will help us reduce overlapping exposure to the CPU renaissance.",
+          "url": "https://www.cnbc.com/2026/07/08/were-exiting-our-position-in-an-ai-chipmaker-to-lock-in-big-gains.html",
+          "published": "2026-07-08T15:46:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Healthy Returns: Employers aren't expanding coverage of GLP-1 obesity drugs – many are finding ways around it",
+          "summary": "Around 36% of employers said they provide coverage of GLP-1s for both diabetes and weight loss, the same as 2025 and up from 34% in 2024, the survey said.",
+          "url": "https://www.cnbc.com/2026/07/08/employers-arent-expanding-coverage-of-glp-1-obesity-drugs-survey.html",
+          "published": "2026-07-08T13:31:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits",
+          "summary": "OpenAI's chief rival, Anthropic, recently restored access to its latest models following a weeks-long clash with the government.",
+          "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+          "published": "2026-07-08T12:56:52+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "China warns about AI risks with Anthropic's Claude Code",
+          "summary": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
+          "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
+          "published": "2026-07-08T08:14:28+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Weekly mortgage demand drops as rates remain stuck in a narrow range",
+          "summary": "Mortgage rates barely moved last week and haven't moved much in more than a month. That is resulting in lackluster mortgage demand.",
+          "url": "https://www.cnbc.com/2026/07/08/weekly-mortgage-demand-drops-as-rates-remain-stuck-in-a-narrow-range.html",
+          "published": "2026-07-08T12:09:08+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Strait of Hormuz traffic won't return to normal until 2027 after latest setback, Kalshi traders predict",
+          "summary": "Speculators now see just a 44% chance that traffic flows return to normal by Dec. 1.",
+          "url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html",
+          "published": "2026-07-08T14:04:56+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump doubles down on push for control over Greenland as Denmark vows to defend it",
+          "summary": "U.S. President Donald Trump on Wednesday said the U.S. needs to control Greenland “for the protection of the world.\"",
+          "url": "https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html",
+          "published": "2026-07-08T09:47:29+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "This former Apple executive is betting on Shenzhen, not Silicon Valley, to create the 'next Apple'",
+          "summary": "Startups building consumer electronics will have a better shot at becoming the next Apple in Shenzhen than in Silicon Valley, said Will Wang, CEO of China's smart-glasses startup.",
+          "url": "https://www.cnbc.com/2026/07/08/apple-shenzhen-silicon-valley-even-realities.html",
+          "published": "2026-07-08T07:16:47+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Maine Senate race replacements circle amid pressure on Platner to drop out",
+          "summary": "Democrat Graham Platner has denied allegations of sexual assault leveled by Maine resident Jenny Racicot as calls for him to exit the pivotal race mount.",
+          "url": "https://www.cnbc.com/2026/07/07/graham-platner-sexual-assault-allegation-maine-senate.html",
+          "published": "2026-07-07T20:57:17+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
+          "summary": "FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.",
+          "url": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
+          "published": "2026-07-08T15:38:50+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "SambaNova hits $11 billion valuation as investors back Nvidia chip challengers",
+          "summary": "SambaNova is valued at $11 billion after fresh financing led by General Atlantic, as AI chip startups look to challenge Nvidia.",
+          "url": "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html",
+          "published": "2026-07-08T09:03:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "DeSantis-backed 'Stop WOKE' law meets appeals court block, teeing up possible Supreme Court fight",
+          "summary": "A Trump-appointed judge ruled against Gov. Ron DeSantis' \"Stop WOKE Act,\" leaving Florida’s college speech limits blocked as a Supreme Court appeal looms.",
+          "url": "https://www.cnbc.com/2026/07/07/florida-stop-woke-act-desantis-professors-first-amendment-dei.html",
+          "published": "2026-07-07T21:06:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Judge blocks DOJ subpoena for names of 2020 Fulton County, Georgia, election workers",
+          "summary": "President Donald Trump has focused on the ballot count in Fulton County, Georgia, to promote claims that he actually won the 2020 election",
+          "url": "https://www.cnbc.com/2026/07/07/doj-subpoena-fulton-county-georgia-election-trump.html",
+          "published": "2026-07-07T22:08:03+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI secures U.S. regulatory green light for GPT-5.6 rollout, Axios report says",
+          "summary": null,
+          "url": "https://www.cnbc.com/2026/07/08/openai-gets-us-regulatory-approval-for-gpt-5point6-rollout-axios-report.html",
+          "published": "2026-07-08T09:28:50+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+          "summary": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.",
+          "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+          "published": "2026-07-07T18:00:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies",
+          "summary": "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China.",
+          "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+          "published": "2026-07-08T05:01:55+00:00",
+          "fetched_at": "2026-07-08T16:02:18.669851+00:00",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "source": "WSJ Markets",
+      "articles": [
+        {
+          "title": "Stock Market Today: Oil Jumps After Trump Says Iran Ceasefire Is Over for Him",
+          "summary": "Dow industrials slide 800 points",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-08-2026?mod=rss_markets_main",
+          "published": "2026-07-08T07:45:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "JPMorgan Plans to Target Small-Company Deals as Part of M&A Push",
+          "summary": "The firm is moving into deals under $500 million, focusing on a generation of baby boomers who are planning business successions.",
+          "url": "https://www.wsj.com/finance/banking/jpmorgan-plans-to-target-small-company-deals-as-part-of-m-a-push-793b74f4?mod=rss_markets_main",
+          "published": "2026-07-08T13:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "SpaceX Analysts Are From Mars, Investors Are From Venus",
+          "summary": "Plus, the Iran ceasefire is ‘over.’",
+          "url": "https://www.wsj.com/finance/investing/spacex-analysts-are-from-mars-investors-are-from-venus-03270cbe?mod=rss_markets_main",
+          "published": "2026-07-08T10:34:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Trump-Backed Company Behind Family Crypto Wealth in Talks to Sell Core Business",
+          "summary": "The potential sale by AI Financial marks an abrupt reversal for a company that has channeled more than half a billion dollars to the Trumps.",
+          "url": "https://www.wsj.com/business/deals/trump-backed-company-behind-family-crypto-wealth-in-talks-to-sell-core-business-59a2c1c5?mod=rss_markets_main",
+          "published": "2026-07-08T09:56:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Anthropic’s Political Risks Are Real, but OpenAI’s Loom Even Larger",
+          "summary": "The U.S. government’s targeting of Anthropic might not last—especially if political winds shift.",
+          "url": "https://www.wsj.com/tech/ai/anthropics-political-risks-are-real-but-openais-loom-even-larger-9751791d?mod=rss_markets_main",
+          "published": "2026-07-08T09:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "SpaceX Shares Stumble in Nasdaq-100 Debut",
+          "summary": "The rocket maker’s stock fell below its first-day opening price amid a broader tech slump.",
+          "url": "https://www.wsj.com/finance/stocks/spacex-shares-stumble-in-nasdaq-100-debut-9ec10565?mod=rss_markets_main",
+          "published": "2026-07-07T20:45:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Samsung Fails To Impress",
+          "summary": "Plus, AI bonds and a jump in oil",
+          "url": "https://www.wsj.com/finance/stocks/samsung-fails-to-impress-8b61321c?mod=rss_markets_main",
+          "published": "2026-07-07T20:13:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Will Someone Finally Blink in the AI Spending War?",
+          "summary": "If Meta does rent out excess compute, it could signal that big tech has overbuilt.",
+          "url": "https://www.wsj.com/tech/ai/will-someone-finally-blink-in-the-ai-spending-war-0f59aa60?mod=rss_markets_main",
+          "published": "2026-07-07T09:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Michael Saylor’s Strategy Is Trapped by Its Own Broken Bitcoin Math",
+          "summary": "The bitcoin hoarder created a bespoke valuation metric that ignores market realities.",
+          "url": "https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main",
+          "published": "2026-07-06T14:26:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Liquor Stocks Are Priced for a Big Tobacco Moment",
+          "summary": "Declines in drinking are hurting distillers’ shares, but has the selloff gone too far?",
+          "url": "https://www.wsj.com/business/retail/liquor-stocks-are-priced-for-a-big-tobacco-moment-e3bb0481?mod=rss_markets_main",
+          "published": "2026-07-05T09:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Why Medicare Isn’t a Game Changer for Weight-Loss Drugmakers",
+          "summary": "Medicare is now covering weight-loss drugs for some seniors, in a win for patients. For Wall Street, the math is trickier.",
+          "url": "https://www.wsj.com/health/pharma/why-medicare-isnt-a-game-changer-for-weight-loss-drugmakers-36bdae96?mod=rss_markets_main",
+          "published": "2026-07-02T09:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Small-Engine Makers Gain Big Momentum in Data Centers",
+          "summary": "For data centers looking for off-grid power, small engines are cheap and readily available.",
+          "url": "https://www.wsj.com/business/energy-oil/small-engine-makers-gain-big-momentum-in-data-centers-32cd1254?mod=rss_markets_main",
+          "published": "2026-07-01T09:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "UniCredit Nears Control of Commerzbank After Takeover Push",
+          "summary": "UniCredit said it upped its stake in Commerzbank to nearly half, taking it close to majority control of the bank following a takeover push.",
+          "url": "https://www.wsj.com/business/unicredit-nearly-secures-majority-control-in-commerzbank-d76b290c?mod=rss_markets_main",
+          "published": "2026-07-08T11:19:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World",
+          "summary": "A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.",
+          "url": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb?mod=rss_markets_main",
+          "published": "2026-07-06T23:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Judge Rules JPMorgan Still Has to Pay for Charlie Javice’s Legal Defense",
+          "summary": "The entrepreneur, convicted of defrauding the bank, and her lawyers have racked up $144.2 million in bills, with receipts including gummy bears and cellulite butter.",
+          "url": "https://www.wsj.com/finance/banking/judge-rules-jpmorgan-still-has-to-pay-for-charlie-javices-legal-defense-375ddc6a?mod=rss_markets_main",
+          "published": "2026-07-02T23:04:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "America Needs More Weapons. JPMorgan Wants to Add Its Firepower.",
+          "summary": "Jamie Dimon is putting the bank’s own funds into defense and other vital industries and plans to broadly expand in the national-security sector.",
+          "url": "https://www.wsj.com/finance/banking/jamie-dimon-jpmorgan-investing-defense-091cfc4c?mod=rss_markets_main",
+          "published": "2026-06-30T01:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Women Were the Stars of JPMorgan’s CEO Succession Race—Until They Weren’t",
+          "summary": "The bank remains an industry leader in promoting women, but the female contenders for the top job are out of the running.",
+          "url": "https://www.wsj.com/business/jpmorgan-chase-ceo-search-women-7f593111?mod=rss_markets_main",
+          "published": "2026-06-26T17:23:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "OpenAI Investor Vinod Khosla Explains His Philosophy on Risk-Taking",
+          "summary": "The renowned venture capitalist behind Khosla Ventures says he doesn’t care that detractors think OpenAI is overvalued.",
+          "url": "https://www.wsj.com/business/how-vinod-khosla-started-khosla-ventures-ccfd0719?mod=rss_markets_main",
+          "published": "2026-07-08T16:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Dream Finders Boosts Beazer Buyout Bid to Highest Offer Yet",
+          "summary": "The homebuilder that it is willing to pay $32 per share in cash for Beazer, a 24% increase from a $25.75 per-share bid that was made public in May.",
+          "url": "https://www.wsj.com/finance/investing/dream-finders-boosts-beazer-buyout-bid-to-highest-offer-yet-19920ff9?mod=rss_markets_main",
+          "published": "2026-07-08T13:29:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Treasury Yields Rise as Hopes of Middle East Peace Fade",
+          "summary": "Treasury yields rose as hopes of Middle East peace faded, with bonds selling off around the globe.",
+          "url": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-168e6a33?mod=rss_markets_main",
+          "published": "2026-07-08T12:57:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Energy & Utilities Roundup: Market Talk",
+          "summary": "Find insight on Repsol, B.Grimm Power, and more in the latest Market Talks covering energy and utilities.",
+          "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b36f56f6?mod=rss_markets_main",
+          "published": "2026-07-08T11:28:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Financial Services Roundup: Market Talk",
+          "summary": "Find insight on Sermkij Leasing, Netwealth, and more in the latest Market Talks covering financial services.",
+          "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f133c0fb?mod=rss_markets_main",
+          "published": "2026-07-08T11:22:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "U.S. Stocks Drop After Trump Says Ceasefire Over",
+          "summary": "U.S. stocks were lower after President Trump said his ceasefire with Iran was done.",
+          "url": "https://www.wsj.com/finance/stocks/oil-rises-u-s-stock-futures-lower-as-sentiment-craters-1c9393d1?mod=rss_markets_main",
+          "published": "2026-07-08T14:13:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Auto & Transport Roundup: Market Talk",
+          "summary": "Find insight on Porsche, DHL Group,  J&T Global Express, and more in the latest Market Talks covering auto and transport.",
+          "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-20f17bb2?mod=rss_markets_main",
+          "published": "2026-07-08T11:44:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Global M&A Surged This Year With Massive AI Deals, Mergermarket Says",
+          "summary": "Blockbuster artificial-intelligence deals and a rush to lock down transactions in the U.S. powered global merger-and-acquisition volume to more than $3 trillion in the first half of 2026, according to Mergermarket data.",
+          "url": "https://www.wsj.com/finance/stocks/global-m-a-sent-surging-this-year-with-massive-ai-deals-22b7c5eb?mod=rss_markets_main",
+          "published": "2026-07-08T11:23:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Health Care Roundup: Market Talk",
+          "summary": "Find insight on Eli Lilly, ResMed, Vertex Pharmaceuticalsand more in the latest Market Talks covering health care.",
+          "url": "https://www.wsj.com/business/health-care-roundup-market-talk-25da01f2?mod=rss_markets_main",
+          "published": "2026-07-08T11:12:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "U.S. Stocks Retreat on Worries About AI Trade, Hormuz Fears",
+          "summary": "U.S. stocks fell as investors fled increasingly volatile artificial-intelligence investments in the wake of Samsung Electronics’ earnings report and renewed disruptions in the Strait of Hormuz.",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-retreat-on-worries-about-ai-trade-hormuz-fears-710d0e7e?mod=rss_markets_main",
+          "published": "2026-07-07T21:40:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Opinion | The Clock Isn’t the Problem",
+          "summary": "Financial markets now operate at speeds that make transient information asymmetries unavoidable.",
+          "url": "https://www.wsj.com/opinion/the-clock-isnt-the-problem-399a9e10?mod=rss_markets_main",
+          "published": "2026-07-08T15:18:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Opinion | Trump’s Crypto Impeachment?",
+          "summary": "The big question: Will Democrats, for a change, emerge with their image enhanced?",
+          "url": "https://www.wsj.com/opinion/trumps-crypto-impeachment-57b4dc71?mod=rss_markets_main",
+          "published": "2026-07-07T21:23:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Opinion | 250 Years of American Enterprise",
+          "summary": "A nation with a government, not the other way around.",
+          "url": "https://www.wsj.com/opinion/250-years-of-american-enterprise-954c07ad?mod=rss_markets_main",
+          "published": "2026-07-03T21:19:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Opinion | The Trump Family and ‘Honest Graft’",
+          "summary": "They are profiting off the Presidency in ways that demean the office.",
+          "url": "https://www.wsj.com/opinion/trump-family-finance-world-liberty-financial-steve-witkoff-binance-9187ba1c?mod=rss_markets_main",
+          "published": "2026-07-01T21:42:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Opinion | Are These Trade Vulnerabilities or Economic Privileges?",
+          "summary": "The Treasury secretary’s principles of economic statecraft are a bit contradictory.",
+          "url": "https://www.wsj.com/opinion/are-these-trade-vulnerabilities-or-economic-privileges-3b52eb38?mod=rss_markets_main",
+          "published": "2026-06-29T17:04:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Opinion | It Wasn’t That Microlending Failed",
+          "summary": "But that it can’t fulfill its promise for the world’s poor if it is bent to profit.",
+          "url": "https://www.wsj.com/opinion/it-wasnt-that-microlending-failed-ec088b6d?mod=rss_markets_main",
+          "published": "2026-06-29T17:02:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Oil Up 7% After Trump Warns of More Strikes on Iran",
+          "summary": "Oil prices climbed more than 7% after President Trump warned the U.S. would likely carry out more strikes on Iran and was considering reimposing a naval blockade on Tehran.",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-supply-disruption-fears-30598117?mod=rss_markets_main",
+          "published": "2026-07-08T15:08:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "U.S. Natural Gas Futures Edge Up in Early Trading",
+          "summary": "U.S. natural gas futures were higher as overnight weather models added some heat to forecasts and tensions flared up in the Middle East.",
+          "url": "https://www.wsj.com/articles/european-gas-prices-rise-as-u-s-iran-tensions-add-to-supply-concerns-ahead-of-winter-f8ed362e?mod=rss_markets_main",
+          "published": "2026-07-08T13:43:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Basic Materials Roundup: Market Talk",
+          "summary": "Find insight on lithium, gold, and more in the latest Market Talks covering basic materials.",
+          "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e828f1ba?mod=rss_markets_main",
+          "published": "2026-07-08T11:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Gold Above $4,100 an Ounce as Investors Await Fed Minutes",
+          "summary": "Gold prices edged lower, but have so far found support above $4,100 a troy ounce, as investors await the release of the Federal Reserve’s meeting minutes.",
+          "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-renewed-middle-east-tensions-17abb829?mod=rss_markets_main",
+          "published": "2026-07-08T07:53:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Basic Materials Roundup: Market Talk",
+          "summary": "Find insight on precious metals, London’s miners and more in the latest Market Talks covering basic materials.",
+          "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e0cfe53e?mod=rss_markets_main",
+          "published": "2026-07-07T21:01:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Dollar Benefits as Investors Seek Safe Havens",
+          "summary": "The dollar was gaining from broader risk aversion after the U.S. and Iran resumed attacks and President Trump announced that the ceasefire deal is over.",
+          "url": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-renewed-mideast-tensions-6f52d297?mod=rss_markets_main",
+          "published": "2026-07-08T15:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "WSJ Dollar Index Rises 0.15% to 97.40",
+          "summary": "The WSJ Dollar Index rose 0.2%, up for a second consecutive trading day.",
+          "url": "https://www.wsj.com/finance/currencies/yen-consolidates-amid-mixed-developments-661f16da?mod=rss_markets_main",
+          "published": "2026-07-07T21:48:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Coordinated Intervention Could Give Japanese Yen a Significant Boost",
+          "summary": "The yen’s weakness is excessive and fails to reflect the strength of the Japanese economy, a misalignment that could prompt central banks to launch coordinated intervention, said Michael Nizard, head of multi-asset and overlay at Edmond de Rothschild Asset Management.",
+          "url": "https://www.wsj.com/finance/currencies/coordinated-intervention-could-give-japanese-yen-a-significant-boost-a0b7e9b9?mod=rss_markets_main",
+          "published": "2026-07-07T12:51:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "WSJ Dollar Index Rises 0.04% to 97.26",
+          "summary": "The WSJ Dollar Index edged higher, snapping a two-trading-day losing streak.",
+          "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-possible-position-adjustments-a259ca37?mod=rss_markets_main",
+          "published": "2026-07-06T21:28:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin",
+          "summary": "The loss comes after the company, formerly known as MicroStrategy, sold 3,588 Bitcoin for less than it paid.",
+          "url": "https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d?mod=rss_markets_main",
+          "published": "2026-07-06T13:48:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "JPMorgan’s $4 Million ‘Salami Incident’ Is Fueling a Backlash From Banks",
+          "summary": "The industry’s push for rule changes has been galvanized by recent mega awards.",
+          "url": "https://www.wsj.com/finance/regulation/jpmorgans-4-million-salami-incident-is-fueling-a-backlash-from-banks-879cf5a4?mod=rss_markets_main",
+          "published": "2026-06-30T15:27:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Lawmakers Call for Federal Probe of Polymarket Over Deceptive Advertising",
+          "summary": "Two senators asked regulators to probe Polymarket’s promotion of fake bets following the Journal’s reporting.",
+          "url": "https://www.wsj.com/finance/regulation/lawmakers-call-for-investigation-into-deceptive-advertising-by-polymarket-267e1857?mod=rss_markets_main",
+          "published": "2026-06-26T21:22:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Big Banks Ace an Easier Annual Stress Test",
+          "summary": "JPMorgan and Bank of America passed the tests with flying colors after the Federal Reserve last year began releasing details of the tests in advance.",
+          "url": "https://www.wsj.com/finance/regulation/big-banks-ace-an-easier-annual-stress-test-6f85cdcc?mod=rss_markets_main",
+          "published": "2026-06-24T22:02:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Nonstop Trading, Loads of Leverage. How ‘Perp Futures’ Are Shaking Up Wall Street.",
+          "summary": "The CFTC’s approval of so-called perps has triggered a selloff in U.S. exchanges’ shares—and at least one high-profile lawsuit.",
+          "url": "https://www.wsj.com/finance/commodities-futures/nonstop-trading-loads-of-leverage-how-perp-futures-are-shaking-up-wall-street-59682069?mod=rss_markets_main",
+          "published": "2026-06-23T01:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Canada’s Bank Regulator Cuts Capital Buffer for Big Banks to Spur Lending",
+          "summary": "The move aims to boost lending as the government seeks to lure investment to kick-start the economy.",
+          "url": "https://www.wsj.com/finance/regulation/canadas-bank-regulator-cuts-capital-buffer-for-big-banks-to-spur-lending-9c749551?mod=rss_markets_main",
+          "published": "2026-06-19T14:40:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Private-Equity Firms Are Sitting on a Nine-Year Backlog",
+          "summary": "Investors’ artificial-intelligence worries weigh on efforts to exit software holdings.",
+          "url": "https://www.wsj.com/finance/investing/private-equity-firms-are-sitting-on-a-nine-year-backlog-dbec673a?mod=rss_markets_main",
+          "published": "2026-07-07T16:09:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Value Investing’s Comeback Is Just a Quirk (for Now)",
+          "summary": "Plus, you might own some SpaceX.",
+          "url": "https://www.wsj.com/finance/stocks/value-investings-comeback-is-just-a-quirk-for-now-8e345cc4?mod=rss_markets_main",
+          "published": "2026-07-07T10:44:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "SK Hynix’s Planned $28 Billion Offering Brings Korean Market Fever to the U.S.",
+          "summary": "The listing will make it easier to invest in one of the world’s biggest chip companies. The sector helped the Nasdaq composite rise 1.1%.",
+          "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-07-06-2026-e2b13bf1?mod=rss_markets_main",
+          "published": "2026-07-06T20:57:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Tech Stocks Go From Red to Green",
+          "summary": "Plus, another SpaceX landing and Strategy’s math problem.",
+          "url": "https://www.wsj.com/finance/stocks/tech-stocks-go-from-red-to-green-0386c09d?mod=rss_markets_main",
+          "published": "2026-07-06T20:10:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "World’s Hottest Market Risks Becoming a Squid Game",
+          "summary": "Plus, tech stocks’ red card repealed.",
+          "url": "https://www.wsj.com/finance/stocks/worlds-hottest-market-risks-becoming-a-squid-game-8703a489?mod=rss_markets_main",
+          "published": "2026-07-06T10:40:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Financial Lessons From People Who Had Lavish Weddings",
+          "summary": "Four couples give a behind-the-scenes look at what it took to stage their fairy tale weddings.",
+          "url": "https://www.wsj.com/articles/financial-lessons-from-people-who-had-lavish-weddings-2b09fbae?mod=rss_markets_main",
+          "published": "2026-07-03T00:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World",
+          "summary": "A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.",
+          "url": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb?mod=rss_markets_main",
+          "published": "2026-07-06T23:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Trump Made $1 Billion on Crypto Deals While His Fans Lost a Fortune",
+          "summary": "Roughly two-thirds of investors in the president’s memecoin are currently in the red.",
+          "url": "https://www.wsj.com/finance/currencies/trump-made-1-billion-on-crypto-deals-while-his-fans-lost-a-fortune-408754c9?mod=rss_markets_main",
+          "published": "2026-07-01T22:48:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "A Sudden Glut of Oil Threatens to Weaken Iran’s Hand in Talks",
+          "summary": "Cheaper, more plentiful crude offers countries a chance to refill stockpiles more quickly and counter Tehran’s ability to use the Strait of Hormuz for leverage.",
+          "url": "https://www.wsj.com/finance/commodities-futures/a-sudden-glut-of-oil-threatens-to-weaken-irans-hand-in-talks-adfcf7c0?mod=rss_markets_main",
+          "published": "2026-07-05T16:41:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "Michael Burry Cites ‘Beginning of the End’ With New AI Short Bets",
+          "summary": "Tesla, Caterpillar, Applied Materials and an ETF of chip stocks are in the idiosyncratic investor’s crosshairs.",
+          "url": "https://www.wsj.com/finance/stocks/michael-burry-cites-beginning-of-the-end-with-new-ai-short-bets-50793c12?mod=rss_markets_main",
+          "published": "2026-07-01T18:24:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+          "summary": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms to help you select a firm that could best connect you with a fiduciary financial advisor.",
+          "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+          "published": "2026-07-08T13:25:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
+          "summary": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor.",
+          "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
+          "published": "2026-04-15T19:29:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        },
+        {
+          "title": "10 of the Best Wealth Management Firms: Well-Known Fiduciary Investment Companies to Consider",
+          "summary": "We analyzed everything from advisor credentials to portfolio options to fees and customer support at some of the larger and more well-known registered investment advisor firms to help connect you with a fiduciary wealth manager.",
+          "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-wealth-management-firms?mod=rss_markets_main",
+          "published": "2026-06-17T20:29:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670310+00:00",
+          "source": "WSJ Markets"
+        }
+      ]
+    },
+    {
+      "source": "Business Insider",
+      "articles": [
+        {
+          "title": "I worked at a bridal salon for 7 years. Here are 6 big mistakes I saw brides make when buying a wedding dress.",
+          "summary": "I spent years helping brides find their wedding gowns. Here are some mistakes people make, from spending a lot to buying an outfit too quickly.",
+          "url": "https://www.businessinsider.com/biggest-dress-mistakes-brides-make-when-shopping-for-wedding-gown-2026-7",
+          "published": "2026-07-08T15:54:52+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "I'm a personal trainer who's been shopping at Trader Joe's for over 10 years. Here are 9 items I always buy.",
+          "summary": "As a personal trainer, I like to pick up high-protein and nutritious items at Trader Joe's. I especially love the store's marinated chicken.",
+          "url": "https://www.businessinsider.com/trader-joes-favorite-things-to-buy-personal-trainer-2026-7",
+          "published": "2026-07-08T15:02:33+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "The jobs US presidents had before taking office, from teachers to peanut farmers",
+          "summary": "Before they got to the White House, these US presidents worked as lawyers, journalists, and businessmen.",
+          "url": "https://www.businessinsider.com/jobs-us-presidents-had-before-they-took-office",
+          "published": "2026-07-08T14:50:15+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "I started grocery shopping at Dollar Tree to save money. Now, I swear by these 11 items I've found for under $1.50.",
+          "summary": "Grocery shopping at Dollar Tree has helped me save money on frozen vegetables, pantry staples, and snacks for my son. I've found great budget items.",
+          "url": "https://www.businessinsider.com/best-groceries-to-buy-dollar-tree-saving-money-staples-2026-7",
+          "published": "2026-07-08T14:31:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "The wreckage of a Boeing 737 cargo plane that disappeared off the coast of Pakistan has been found",
+          "summary": "The K2 Airways cargo plane from Pakistan, carrying five crew members, was recorded rapidly descending before losing contact.",
+          "url": "https://www.businessinsider.com/boeing-737-plane-disappeared-pakistan-2026-7",
+          "published": "2026-07-08T14:17:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "I moved to New York for my dream job, but my fiancé didn't come with me. After 2 years, we reached a compromise.",
+          "summary": "I left Maine and moved to New York City to pursue my dream job, but my partner didn't join me. After years of long-distance struggles, we compromised.",
+          "url": "https://www.businessinsider.com/moved-to-new-york-job-partner-stayed-behind-compromise-relationship-2026-7",
+          "published": "2026-07-08T13:39:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Tina Knowles reveals the one thing that irritates her after being in the entertainment industry for 3 decades",
+          "summary": "Tina Knowles opened up about embracing recognition, the business philosophies she's taught her daughters, and what's next for Mama Tina's Gumbo.",
+          "url": "https://www.businessinsider.com/tina-knowles-it-irritates-me-a-bit-that-im-underestimated-2026-7",
+          "published": "2026-07-08T13:34:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Men get cosmetic surgery, too. I spent $14,000 on plastic surgery, and I don't regret it.",
+          "summary": "Andrew Tagliarino had enlarged breast tissue, a condition known as gynecomastia. He chose cosmetic surgery that transformed his confidence.",
+          "url": "https://www.businessinsider.com/gynecomastia-after-weight-loss-liposuction-2026-7",
+          "published": "2026-07-08T12:59:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Madonna's longtime manager says the singer taught him to never think in a 'limited way'",
+          "summary": "\"She just doesn't celebrate her accomplishments. She just starts like it's a brand new day,\" Guy Oseary, Madonna's longtime manager, said.",
+          "url": "https://www.businessinsider.com/madonna-work-ethic-career-relentless-manager-guy-oseary-2026-7",
+          "published": "2026-07-08T12:26:07+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Ukraine is finally going to get Gripen fighters built for a Russia fight, but new jets come with new challenges",
+          "summary": "Swedish-made Gripen fighter jets have long been viewed as ideal for Ukraine's fight against Russia and it's long-term security.",
+          "url": "https://www.businessinsider.com/ukraines-getting-gripens-ideal-against-russia-but-with-new-complexity-2026-7",
+          "published": "2026-07-08T12:22:18+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "The breakout success of Fox's World Cup marketing: influencers",
+          "summary": "The Fox One streaming service's World Cup marketing playbook is all about letting the creators do the scoring.",
+          "url": "https://www.businessinsider.com/inside-fox-ones-world-cup-influencer-marketing-playbook-2026-7",
+          "published": "2026-07-08T11:45:41+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "The World Cup could make 2026 the 'summer of working from home,' says RTO guru Nicholas Bloom",
+          "summary": "The World Cup's late-night games, pricier commutes, and a heat wave could force employers to allow more working from home, a Stanford professor says.",
+          "url": "https://www.businessinsider.com/world-cup-wfh-boost-stanford-professor-nicholas-bloom-2026-7",
+          "published": "2026-07-08T11:42:55+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "My family moved around in Florida, and I struggled to make friends. I eventually built a community around cooking paella.",
+          "summary": "In Spain, I learned about the long tradition of cooking paella. Bringing that tradition home to Florida helped us connect with neighbors.",
+          "url": "https://www.businessinsider.com/make-friends-learned-cook-paella-2026-6",
+          "published": "2026-07-08T11:17:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Elon Musk is feuding with Tom Holland over 'The Odyssey.' No, not that Tom Holland.",
+          "summary": "The world's richest man has frequently criticized the upcoming adaptation of the Greek epic in the lead up to its release.",
+          "url": "https://www.businessinsider.com/elon-musk-tom-holland-the-odyssey-online-feud-christopher-nolan-2026-7",
+          "published": "2026-07-08T11:01:44+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Good Good and Dude Perfect's next trick: teaming up across products, events, and more",
+          "summary": "Two creator sports powerhouses, Good Good and Dude Perfect, are deepening their ties with an expansive partnership.",
+          "url": "https://www.businessinsider.com/sports-creators-good-good-dude-perfect-partnering-content-products-2026-7",
+          "published": "2026-07-08T11:00:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "OpenAI's most advanced AI model is breaking free — and colliding with Elon Musk's latest Grok release",
+          "summary": "OpenAI's new family of frontier models is no longer restricted and set to roll out more widely on Thursday. Enter, Elon Musk.",
+          "url": "https://www.businessinsider.com/openai-sol-terra-luna-gpt56-grok-elon-musk-sam-altman-2026-7",
+          "published": "2026-07-08T10:49:44+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "The New York Times' top editor explains why its new push into video is a 'race against time'",
+          "summary": "A new push into video is \"as big a transformation as the print-to-digital transformation,\" New York Times Executive Editor Joe Kahn tells me.",
+          "url": "https://www.businessinsider.com/new-york-times-nyt-editor-joe-kahn-explains-video-push-2026-7",
+          "published": "2026-07-08T10:00:02+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "This startup raised $50 million to help marketers figure out which events are actually worth attending",
+          "summary": "Marketers want to get back to in-person gatherings, and Vendelux, a live events information platform, just raised $50 million to capitalize.",
+          "url": "https://www.businessinsider.com/vendelux-just-raised-50-million-to-capitalize-live-b2b-events-2026-7",
+          "published": "2026-07-08T10:00:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Want a software engineering job? You'll need more than coding skills in the AI era.",
+          "summary": "Software engineers need more than coding skills to get hired today. Interviews now test judgment, AI skills, and problem solving.",
+          "url": "https://www.businessinsider.com/software-engineering-job-technical-interviews-hiring-ai-2026-7",
+          "published": "2026-07-08T09:46:47+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        },
+        {
+          "title": "A woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it's like to live with it",
+          "summary": "Bryan Johnson was diagnosed with autoimmune gastritis, which destroys cells that produce stomach acid. Here's what it's like to live with it.",
+          "url": "https://www.businessinsider.com/woman-with-same-autoimmune-disease-as-bryan-johnson-shares-symptoms-2026-7",
+          "published": "2026-07-08T09:25:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670331+00:00",
+          "source": "Business Insider"
+        }
+      ]
+    },
+    {
+      "source": "NPR Business",
+      "articles": [
+        {
+          "title": "This factory was severely short on workers. Then it offered flexible work",
+          "summary": "A GE Appliances plant in rural northwest Georgia was short hundreds of workers amid COVID-19. A flexible work option where some workers can sign up for shifts through an app has eased the pain.",
+          "url": "https://www.npr.org/2026/07/08/nx-s1-5876084/manufacturing-flexible-part-time-work",
+          "published": "2026-07-08T09:01:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "Meet 'Project 2029' — and its war on the annoyance economy",
+          "summary": "Remember Project 2025? Democrats are building their own governing blueprint, and one proposal takes aim at the \"annoyance economy\": robocalls, endless hold times, hidden fees and other everyday frustrations.",
+          "url": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy",
+          "published": "2026-07-07T10:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "Hate food waste? 7 creative ways to turn your leftovers into a new meal",
+          "summary": "We asked our audience to share their favorite go-to recipes for leftovers. Here are seven dishes — like stuffed peppers and a biryani casserole — that can help you use up all your fridge scraps.",
+          "url": "https://www.npr.org/2026/07/06/nx-s1-5879248/hate-food-waste-7-creative-ways-to-turn-your-leftovers-into-a-new-meal",
+          "published": "2026-07-06T09:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "Egg producers settle with DOJ, states over price-fixing complaint",
+          "summary": "Seventeen states and the Department of Justice have settled a case of alleged price-fixing by major egg producers. Egg prices soared in recent years but have since fallen sharply.",
+          "url": "https://www.npr.org/2026/07/05/nx-s1-5876239-e1/egg-producers-settle-with-doj-states-over-price-fixing-complaint",
+          "published": "2026-07-05T12:04:29+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "But first, coffee: The drink that energized the American Revolution",
+          "summary": "Colonial Americans were drinking coffee long before they dumped tea into Boston Harbor or fought a war for independence. The establishments that served it were already brewing revolutionary ideas.",
+          "url": "https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party",
+          "published": "2026-07-03T09:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "A hot summer trend in the sharing economy? Rental swimming pools",
+          "summary": "The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.",
+          "url": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
+          "published": "2026-07-03T09:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "A hot summer trend in the sharing economy? Rental swimming pools",
+          "summary": "Don't have a pool during this hot summer? Rent one! Swimply is a platform that lets users rent private pools.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5838050/a-hot-summer-trend-in-the-sharing-economy-rental-swimming-pools",
+          "published": "2026-07-02T20:36:17+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "Trump earned more than $1 billion from crypto — but his investors didn't fare so well",
+          "summary": "President Trump earned more than $1 billion in 2025 from cryptocurrency ventures. But there are thousands of investors who bought into some of those cryptocurrencies, and they stand to lose big.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5878411/trump-earned-more-than-1-billion-from-crypto-but-his-investors-didnt-fare-so-well",
+          "published": "2026-07-02T20:08:42+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "U.S. job market slows in June",
+          "summary": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
+          "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+          "published": "2026-07-02T08:49:28+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        },
+        {
+          "title": "Meta considered buying Kalshi before developing its own prediction market app",
+          "summary": "Mark Zuckerberg met with Kalshi's CEO last year about a potential deal, but talks did not move forward. Now Meta is making its own prediction market app.",
+          "url": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
+          "published": "2026-06-30T20:33:04+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670343+00:00",
+          "source": "NPR Business"
+        }
+      ]
+    },
+    {
+      "source": "BBC Business",
+      "articles": [
+        {
+          "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+          "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+          "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T11:24:05+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+          "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+          "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T09:31:56+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+          "summary": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
+          "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T01:04:44+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+          "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+          "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T12:28:03+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+          "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+          "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T07:53:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
+          "summary": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
+          "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T23:47:33+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Australia dock workers call for 28-hour week in AI talks",
+          "summary": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
+          "url": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T06:06:12+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+          "summary": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
+          "url": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T12:59:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Airbnb data identifies illegal social home sublets",
+          "summary": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
+          "url": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T05:03:28+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The places where it's cheaper to holiday this summer",
+          "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
+          "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T09:43:36+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Severn Trent avoids fine for wastewater failures",
+          "summary": "The water firm took \"genuine accountability\" after breaching wastewater obligations, Ofwat says.",
+          "url": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T13:10:33+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Online gamblers betting more than £1,000 to face new checks",
+          "summary": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
+          "url": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T14:18:25+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "One million more UK homeowners set  to face higher mortgages",
+          "summary": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
+          "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T15:18:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Banks accused of pushing customers away from basic accounts",
+          "summary": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
+          "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T23:29:34+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Amazon bars breastfeeding boss from business course",
+          "summary": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly.",
+          "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T23:31:21+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
+          "summary": "Around the world women are marking their split with new - or repurposed engagement - rings.",
+          "url": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T23:30:40+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Samsung profits jump 1,800% as AI chip sales soar",
+          "summary": "The firm's shares fell sharply on Tuesday as some investors had expected an even stronger performance.",
+          "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T07:28:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
+          "summary": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
+          "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T23:08:51+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "E-bike injury payouts top £110m and push up insurance premiums",
+          "summary": "It is only seven years since the first claim over an injury from a micromobility vehicle was made.",
+          "url": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T09:57:27+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Can China repeat its EV success with robotaxis?",
+          "summary": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
+          "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T22:01:07+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+          "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.",
+          "url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T15:18:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
+          "summary": "Sky boss Dana Strong's comments came as the channel announces it is buying ITV's media and entertainment divisions in a £1.6bn deal.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T14:40:04+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Three things you can do to stop EU border checks at the airport costing you",
+          "summary": "Queues are expected at airports this summer owing to EU's new digital border control system.",
+          "url": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-05T23:18:27+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+          "summary": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+          "url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T11:09:54+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
+          "summary": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
+          "url": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T02:19:25+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Robots available for rent: But what can they do?",
+          "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot.",
+          "url": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T23:48:55+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "AI is 'not smart' so what's next in artificial intelligence?",
+          "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+          "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T23:02:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Why is crucial tech vulnerable to the heat?",
+          "summary": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
+          "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T07:23:12+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The legal fight to get equal pay for Germany's disabled workers",
+          "summary": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24T23:10:28+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Do you know your 'sweat score'? The rise of hydration tech",
+          "summary": "Hydration tracking gadgets are flooding the market but is it too much information?",
+          "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-22T23:01:11+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Is Germany looking again at coal-powered electricity?",
+          "summary": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
+          "url": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-21T23:27:11+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The artificial ice pyramids saving India's mountain villages",
+          "summary": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+          "url": "https://www.bbc.co.uk/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-18T23:11:07+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "'We had to get out of the way': The backlash over delivery robots",
+          "summary": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
+          "url": "https://www.bbc.co.uk/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-17T23:02:05+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "What is Helium-3 and could we get it from the moon?",
+          "summary": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+          "url": "https://www.bbc.co.uk/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-16T00:11:13+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Why I sold my business to my staff",
+          "summary": "As more US company owners reach retirement age many are selling up to their employees.",
+          "url": "https://www.bbc.co.uk/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-14T23:26:01+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "India's 'blue gold' starts a new drinks industry",
+          "summary": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+          "url": "https://www.bbc.co.uk/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-11T23:01:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "New candy stores are popping up across NYC. Why?",
+          "summary": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
+          "url": "https://www.bbc.co.uk/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-10T23:01:54+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Could humanoid robots be heading for the battlefield?",
+          "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off.",
+          "url": "https://www.bbc.co.uk/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-08T23:06:30+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The places where it's cheaper to holiday this summer",
+          "summary": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
+          "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T09:43:36+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "'You have to say no': Families struggling with holiday food costs",
+          "summary": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
+          "url": "https://www.bbc.co.uk/news/articles/ceqder3dydxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T08:18:24+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "One million more UK homeowners set  to face higher mortgages",
+          "summary": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
+          "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T15:18:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Budget Energy announces 9.5% price increase",
+          "summary": "Budget Energy NI says the rise is due to the \"continued volatility\" in wholesale energy markets.",
+          "url": "https://www.bbc.co.uk/news/articles/c78yge1eel0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T12:45:27+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Volunteers racing to save surplus Silverstone food",
+          "summary": "A Towcester community larder is collecting produce from the circuit following the Grand Prix.",
+          "url": "https://www.bbc.co.uk/news/articles/czrxx44e2ndo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T07:55:32+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Why Gen Z are planning for life without a state pension",
+          "summary": "Many younger people do not believe the state pension will exist when they are older",
+          "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30T23:05:19+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The furious dispute over what caused Air India flight 171 to crash",
+          "summary": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+          "url": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-10T23:10:11+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "How the High Street became a window on our political instability",
+          "summary": "High Streets have declined in recent years. What does this tell us about the UK?",
+          "url": "https://www.bbc.co.uk/news/articles/cq5p59286v5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-07T23:00:04+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The £5 coffee that tells a story of global economic turmoil",
+          "summary": "Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam",
+          "url": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-28T06:44:47+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "The threat to summer holidays looming from jet fuel shortages",
+          "summary": "What impact might shortages have on our summer holidays - and what could be done about it?",
+          "url": "https://www.bbc.co.uk/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-03T23:03:41+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "How to find lost bank accounts",
+          "summary": "How to find lost bank accounts",
+          "url": "https://www.bbc.co.uk/videos/ckg8dx51er4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T13:13:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "People Fixing The World",
+          "summary": "The people turning life experience into business ideas with funding and other support",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8t0z?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T07:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Shoppers hit by hidden fees",
+          "summary": "Shoppers hit by hidden fees",
+          "url": "https://www.bbc.co.uk/videos/c872254pj4vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T10:30:54+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        },
+        {
+          "title": "Consumer Fight Back",
+          "summary": "Linzi checks in on 89-year-old Margaret's battle to get her landline reconnected.",
+          "url": "https://www.bbc.co.uk/sounds/play/m002ykhx?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-04T10:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670350+00:00",
+          "source": "BBC Business"
+        }
+      ]
+    },
+    {
+      "source": "Bloomberg",
+      "articles": [
+        {
+          "title": "Oil Tops $80 as Trump Says Iran Truce Over, More Strikes Ahead",
+          "summary": "Oil jumped above $80 a barrel after US President Donald Trump said a tentative ceasefire with Iran was over, reigniting geopolitical risk premium in prices and triggering investor concern about supply disruptions.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/latest-oil-market-news-and-analysis-for-july-8",
+          "published": "2026-07-07T22:01:08+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Canadian Banks Too Rich After Searing 66% Run, Jefferies Says",
+          "summary": "Canada’s biggest bank stocks are running out of runway as valuations have fully priced in future growth, according to analysts with Jefferies Securities Inc.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/canadian-banks-too-rich-after-searing-66-run-jefferies-says",
+          "published": "2026-07-08T15:36:25+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Trump Threatens More Iran Strikes",
+          "summary": "Leslie Vinjamuri, the President and CEO of the Chicago Council on Global Affairs joined Bloomberg Open Interest to explain why President Trump's latest Iran threats are aimed at gaining negotiating leverage rather than launching a full-scale war. She also breaks down NATO's strategy for managing Trump, why Europe is adapting its approach, and why the risk of escalation. and its impact on oil markets and the global economy, remains dangerously high. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/trump-threatens-more-iran-strikes-video",
+          "published": "2026-07-08T15:34:43+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Russia Bans Diesel Exports After Ukraine’s Refinery Attacks",
+          "summary": "Russia banned exports of diesel to avoid domestic shortages after a flurry of attacks by Ukrainian drones on the nation’s refineries. International prices for the fuel surged.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/russia-bans-diesel-exports-after-ukraine-s-refinery-attacks",
+          "published": "2026-07-08T15:07:13+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "IMF Says AI Offsets Middle East Fallout",
+          "summary": "The International Monetary Fund left its global growth forecast largely unchanged for this year, saying that the boom in artificial intelligence helped offset the fallout from conflict in the Middle East. Petya Koeva Brooks, Deputy Director of the IMF's Research Department, discusses the updated World Economic Outlook report on Bloomberg Open Interest. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/imf-says-ai-offsets-middle-east-fallout-video",
+          "published": "2026-07-08T15:31:41+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Big Tech’s $25 Billion Mega Bond Sales Are Pushing Market Limits",
+          "summary": "Once a rare event reserved for historic mega-acquisitions, the jumbo bond sale is increasingly becoming the tech sector’s go-to financing tool.\nDebt offerings of $25 billion or more have quickly shifted into a baseline for tech giants funding their artificial intelligence expansion, with Amazon.com Inc.’s sale on Tuesday marking the seventh time this year alone a technology company has reached that threshold in a single shot. \nVishal Khanduja, Head of Broad Markets Fixed Income at Morgan Stanley Investment Management, discusses how the bond market is pricing in these offerings. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/big-tech-s-25b-mega-bond-sales-push-market-limits-video",
+          "published": "2026-07-08T15:30:38+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Stocks Fall as US-Iran Jitters Spur Rally in Oil",
+          "summary": "A flare-up in geopolitical risks drove stocks lower, bond yields rose and oil climbed as President Donald Trump said a ceasefire with Iran may be over, noting the US would probably launch further strikes.\nFrom New York to London and Tokyo, equities retreated. Almost 400 shares in the S&P 500 dropped, though chipmakers bounced.\nSarah Hunt, Chief Market Strategist at Alpine Saxon Woods, discusses these market gyrations amid geopolitical swings. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/stocks-fall-as-us-iran-jitters-spur-rally-in-oil-video",
+          "published": "2026-07-08T15:17:26+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Bloomberg Surveillance 7/8/2026",
+          "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/bloomberg-surveillance-7-8-2026-video",
+          "published": "2026-07-08T15:07:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "US Two-Year Yield Near 2026 High as Global Bond Selloff Deepens",
+          "summary": "The two-year US Treasury yield climbed back toward last month’s peak amid a selloff in global bond markets as rising oil prices rekindled worries about inflation.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/german-bonds-slide-as-higher-oil-prices-reignite-inflation-fears",
+          "published": "2026-07-08T08:02:25+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Stocks Fall as US-Iran Jitters Spur Rally in Oil: Markets Wrap",
+          "summary": "A flare-up in geopolitical risks drove stocks and bonds lower as oil jumped after President Donald Trump said a ceasefire with Iran may be over, noting the US would probably launch further strikes.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/oil-jumps-on-iran-attack-asian-stocks-set-to-drop-markets-wrap",
+          "published": "2026-07-07T22:10:50+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "¿Por qué el péndulo de Argentina podría romperse en 2027?",
+          "summary": "¿Y si esta vez se termina el péndulo en Argentina? El mercado ya mira hacia 2027 y empieza a ver señales de que el riesgo político que durante décadas espantó a los inversores podría estar cambiando.  (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/-por-que-el-pendulo-de-argentina-podria-romperse-en-2027-mrc7d7o7",
+          "published": "2026-07-08T14:58:18+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Estonia Willing to Contribute to Free Passage in Hormuz, PM Says",
+          "summary": "Estonia's Prime Minister Kristen Michal said the NATO summit in Ankara, Turkey, has been a positive one. He also said his country would be willing to contribute to efforts securing free passage through the Strait of Hormuz. Michal spoke to Bloomberg's Oliver Crook on the sidelines of the summit. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/estonia-says-its-willing-to-assist-with-hormuz-security-video",
+          "published": "2026-07-08T14:42:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Gold Drops on Rate-Hike Fears as Trump Says Iran Ceasefire Over",
+          "summary": "Gold dropped as US President Donald Trump said the ceasefire with Iran has ended, stoking concerns that a renewal of fighting could again drive inflation and push up interest rates.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/gold-holds-drop-as-us-strikes-in-iran-cloud-rate-hike-outlook",
+          "published": "2026-07-07T23:06:49+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Dream Finders Homes Boosts Bid for Beazer to $875 Million",
+          "summary": "Dream Finders Homes Inc. boosted its takeover offer for rival homebuilder Beazer Homes USA Inc., which said it’s received interest from other potential suitors.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/dream-finders-homes-boosts-beazer-bid-to-875-million",
+          "published": "2026-07-08T10:30:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Victoria Signs Deal With Left-Behind Bondholders",
+          "summary": "UK carpet maker Victoria Plc and a group of bondholders left behind in an earlier debt deal have struck an agreement over a balance sheet restructuring.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/uk-carpet-maker-victoria-signs-deal-with-left-behind-bondholders",
+          "published": "2026-07-08T08:47:02+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Emerging-Market Assets Slide as Threats to Iran Ceasefire Mount",
+          "summary": "Emerging-market assets sank Wednesday after the US renewed strikes on Iran and threatened to reimpose a blockade on its oil, pushing the price of crude back up and undermining the fragile ceasefire.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/emerging-market-stocks-drop-as-iran-escalation-adds-to-ai-risks",
+          "published": "2026-07-08T09:00:45+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Suposta Fraude Bancária Cria Nuvem Sobre Império de Edir Macedo",
+          "summary": "Uma suposta fraude em um banco brasileiro está lançando dúvidas sobre a igreja evangélica mais poderosa do país, fundada e liderada por um bispo conservador bilionário. Com Matheus Piovesana. Edição de Patricia Xavier e produção de Mariana Lumy.  (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/suposta-fraude-cria-nuvem-sobre-imperio-de-edir-macedo-video",
+          "published": "2026-07-08T14:34:28+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Big Tech’s $25 Billion Mega Bond Sales Are Pushing Market Limits",
+          "summary": "Once a rare event reserved for historic mega-acquisitions, the jumbo bond sale is increasingly becoming the tech sector’s go-to financing tool.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/big-tech-s-25-billion-mega-bond-sales-are-pushing-market-limits",
+          "published": "2026-07-08T14:19:05+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Cantor, Adam Back’s BSTR Seek New Terms for Bitcoin SPAC Merger",
+          "summary": "A Cantor Fitzgerald-backed blank-check company and Adam Back’s Bitcoin investment company scrapped the original terms of their planned merger and will negotiate a revised deal, as a tougher market for crypto challenges Bitcoin treasury companies.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/cantor-adam-back-s-bstr-seek-new-terms-for-bitcoin-spac-merger",
+          "published": "2026-07-08T14:06:32+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "AI Chip Startup SambaNova Raises Funds at $11 Billion Value",
+          "summary": "Chip startup SambaNova Systems Inc. has raised $1 billion at an $11 billion valuation, underscoring investors’ conviction in rising demand for infrastructure tied to artificial intelligence.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation",
+          "published": "2026-07-08T06:45:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Argentina’s Political Parties Look for Ways to Avoid Extremes",
+          "summary": "For decades, Argentina’s economic pendulum has whipsawed investors by swinging from one ideological extreme to another, as each new administration dismantled the framework built by its predecessor.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/argentina-s-political-parties-look-for-ways-to-avoid-extremes",
+          "published": "2026-07-08T14:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "US Stocks Slide After Trump Says Iran Ceasefire Is Over",
+          "summary": "US equities fell as investors turned risk averse after President Donald Trump said the tentative ceasefire with Iran has ended, fueling concerns of a renewal in fighting.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over",
+          "published": "2026-07-08T10:07:12+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels",
+          "summary": "After losing roughly $1 trillion in market value in less than two months, Nvidia Corp.’s stock is the cheapest it’s been since before the AI boom kicked off and sent the shares into the stratosphere.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels",
+          "published": "2026-07-08T08:43:08+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Allstate Sued by Oklahoma for Alleged Scheme to Curb Claims",
+          "summary": "Oklahoma’s attorney general sued Allstate Corp., alleging the insurer schemed to minimize payouts to homeowners for wind and hailstorm damage in order to boost its profits.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/allstate-sued-by-oklahoma-for-alleged-scheme-to-underpay-claims",
+          "published": "2026-07-07T21:05:14+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Qatar Economic Forum Will Hold New York Event in September",
+          "summary": "The Qatar Economic Forum will hold a leadership event in New York alongside the United Nations General Assembly in September.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/qatar-economic-forum-will-hold-new-york-event-in-september",
+          "published": "2026-07-08T13:29:12+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "One Way to Fix Social Security",
+          "summary": "There’s a way to fix one major issue with Social Security using the gig economy according to economist and Bloomberg Opinion columnist Kathryn Anne Edwards. (Source: Bloomberg)",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-08/opinion-one-way-to-fix-social-security-video",
+          "published": "2026-07-08T13:27:44+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Argentina to Repay $4 Billion, Defying Critics Who Doubted Tack",
+          "summary": "Argentina is set to make a major payment on its dollar bonds this week, pulling off a feat few investors thought possible while the country refuses to tap global debt markets.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/argentina-to-repay-4-billion-defying-critics-who-doubted-tack",
+          "published": "2026-07-08T11:11:12+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Yardeni Says Inflation, Fed Back in Play as Iran Crisis Returns",
+          "summary": "Market strategist Ed Yardeni said the rupture in the ceasefire between the US and Iran risks sparking a fresh acceleration in price growth, which in turn could compel the Federal Reserve to raise interest rates.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/yardeni-says-inflation-fed-back-in-play-as-iran-crisis-returns",
+          "published": "2026-07-08T13:04:48+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Pricey Credit Markets Fuel Funds That Can Buy Anything",
+          "summary": "Bond investors are increasingly betting on flexible funds that can buy whatever they like as lofty credit market valuations leave little margin for error.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/pricey-credit-markets-fuel-rise-of-funds-that-can-buy-anything",
+          "published": "2026-07-08T11:42:53+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "UK Defense Chiefs Push Burnham to Consider Issuing War Bonds",
+          "summary": "Senior defense officials are pushing Andy Burnham to reconsider loosening the UK’s fiscal rules to help fund its military, including by issuing war bonds.",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/uk-defense-chiefs-push-burnham-to-consider-issuing-war-bonds",
+          "published": "2026-07-08T13:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670360+00:00",
+          "source": "Bloomberg"
+        }
+      ]
+    },
+    {
+      "source": "Nasdaq Business",
+      "articles": [
+        {
+          "title": "Stocks Pressured as US-Iran Hostilities Resume",
+          "summary": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.49%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.96%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.19%.  September E-mini S&P futures (ESU26 ) are down -0.49%, and September E-mini Nasdaq futures...",
+          "url": "https://www.nasdaq.com/articles/stocks-pressured-us-iran-hostilities-resume",
+          "published": "2026-07-08T15:58:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Wheat Posting Early Wednesday Strength",
+          "summary": "Wheat is showing 3 to 5 cent gains so far on Wednesday morning. The wheat complex found late session strength on Tuesday. Chicago SRW contracts were 3 ¼ to 7 ¼ cents in the green on the day. Open interest rose 3,610 contracts on Tuesday. KC HRW futures were 1...",
+          "url": "https://www.nasdaq.com/articles/wheat-posting-early-wednesday-strength",
+          "published": "2026-07-08T15:58:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Corn Showing Steady Action on Wednesday",
+          "summary": "Corn price action is steady so far on Wednesday morning. Futures extended the rally to Tuesday, with contracts closing 3 ½ to 6 ¾ cents higher, as July was just 1 ¾ cents higher. Open interest suggested more shorts were covering, down 3,120 contracts on Tuesday. There was just 1...",
+          "url": "https://www.nasdaq.com/articles/corn-showing-steady-action-wednesday",
+          "published": "2026-07-08T15:58:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Cotton Extends Rally to Tuesday, Nearing Limit Gains",
+          "summary": "Cotton futures closed with contracts 99 to 299 points higher, with some contracts hitting the three cent limit at the high. The outside markets were mixed, as Crude oil was up $3.65 following Iran striking vessels in the Strait of Hormuz overnight. The US responded by revoking waivers authorizing Iran...",
+          "url": "https://www.nasdaq.com/articles/cotton-extends-rally-tuesday-nearing-limit-gains",
+          "published": "2026-07-08T15:58:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Wheat Sees Gains on Tuesday",
+          "summary": "The wheat complex found late session strength on Tuesday. Chicago SRW contracts were 3 ¼ to 7 ¼ cents in the green on the day. KC HRW futures were 1 ¼ to 4 ¾ cents higher at the close. MPLS spring wheat was up 1 ¼ to 4 ½ cents...",
+          "url": "https://www.nasdaq.com/articles/wheat-sees-gains-tuesday",
+          "published": "2026-07-08T15:58:09+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Corn Extend Gains to Tuesday",
+          "summary": "Corn futures extended the rally to Tuesday, with contracts closing 3 ½ to 6 ¾ cents higher, as July was just 1 ¾ cents higher. The CmdtyView national average Cash Corn price was a nickel higher at $4.13 3/4.  The weekly Crop Progress report showed 16% of the US corn...",
+          "url": "https://www.nasdaq.com/articles/corn-extend-gains-tuesday",
+          "published": "2026-07-08T15:58:08+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Stock Indexes Fall as Chip Stocks Sink and Crude Soars",
+          "summary": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.45%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.77%.  September E-mini S&P futures (ESU26 ) fell -0.52%, and September E-mini Nasdaq futures...",
+          "url": "https://www.nasdaq.com/articles/stock-indexes-fall-chip-stocks-sink-and-crude-soars",
+          "published": "2026-07-08T15:58:08+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Crude Oil Prices Sharply Higher on Supply Disruptions",
+          "summary": "August WTI crude oil (CLQ26 ) on Tuesday closed up +1.89 (+2.76%), and August RBOB gasoline (RBQ26 ) closed down -0.0494 (-1.64%). Crude oil and gasoline prices settled mixed on Tuesday.  Crude oil prices jumped following attacks on shipping in and around the Strait of Hormuz.  Gasoline prices retreated on...",
+          "url": "https://www.nasdaq.com/articles/crude-oil-prices-sharply-higher-supply-disruptions",
+          "published": "2026-07-08T15:58:08+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Soybeans Extending Rally to Wednesday, Led by the Front Months",
+          "summary": "Soybeans are trading with 8 to 11 cents higher in the nearbys early on Wednesday, with November up 3 cents. Futures found late session strength to post 2 to 9 ¾ cent gains, as nearby July was up 14 ½ cents. Open interest was up 19,506 contracts on Tuesday, implying...",
+          "url": "https://www.nasdaq.com/articles/soybeans-extending-rally-wednesday-led-front-months",
+          "published": "2026-07-08T15:53:25+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Dollar Edges Up on Weak Stocks and Crude Oil Strength",
+          "summary": "The dollar index (DXY00 ) rose by +0.24% on Tuesday.  The dollar rose on Tuesday amid weakness in stocks, boosting liquidity demand for the currency.  Also, higher crude oil prices on Tuesday pushed up inflation expectations and could persuade the Fed to keep monetary policy tight, a supportive factor for...",
+          "url": "https://www.nasdaq.com/articles/dollar-edges-weak-stocks-and-crude-oil-strength",
+          "published": "2026-07-08T15:53:24+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Why Did Sandisk Stock Pop Today?",
+          "summary": "Key PointsSandisk stock sold off on worries about DRAM production in Korea yesterday.",
+          "url": "https://www.nasdaq.com/articles/why-did-sandisk-stock-pop-today-1",
+          "published": "2026-07-08T15:52:07+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "This Low-Cost ETF Is Not the Same as \"Buying the Dow.\" It Might Be Better.",
+          "summary": "Key PointsThe SPDR Dow Jones Industrial Average ETF Trust has delivered 9.13% annualized returns for 28 years, underperforming the S&P 500.",
+          "url": "https://www.nasdaq.com/articles/low-cost-etf-not-same-buying-dow-it-might-be-better",
+          "published": "2026-07-08T15:50:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Cotton Slipping Back on Wednesday Morning",
+          "summary": "Cotton prices are down 19 to 28 points so far on Wednesday morning trade. Futures closed with contracts 99 to 299 points higher, with some contracts hitting the three cent limit at the high. The outside markets were mixed, as Crude oil was up $3.65 following Iran striking vessels in...",
+          "url": "https://www.nasdaq.com/articles/cotton-slipping-back-wednesday-morning-0",
+          "published": "2026-07-08T15:48:50+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Soybeans Post Late Session Gains on Tuesday",
+          "summary": "Soybeans found late session strength to post 2 to 9 ¾ cent gains, as nearby July was up 14 ½ cents. The cmdtyView national average Cash Bean price was up 10 1/4 cents at $11.46. Soymeal futures were $2.30 to $3.40 higher across most contracts, with Soy Oil futures 32...",
+          "url": "https://www.nasdaq.com/articles/soybeans-post-late-session-gains-tuesday",
+          "published": "2026-07-08T15:48:49+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        },
+        {
+          "title": "Cotton Extending the Rally to Tuesday",
+          "summary": "Cotton futures are up 138 to 245 points so far on Tuesday. The outside markets are mixed, as Crude oil is up $1.87, with the US dollar index up $0.155. Monday afternoon’s Crop Progress showed 49% of the US cotton crop squared as of Sunday, 2% ahead of normal. The...",
+          "url": "https://www.nasdaq.com/articles/cotton-extending-rally-tuesday",
+          "published": "2026-07-08T15:48:49+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670373+00:00",
+          "source": "Nasdaq Business"
+        }
+      ]
+    },
+    {
+      "source": "TheStreet",
+      "articles": [
+        {
+          "title": "Comcast aims free offer at T-Mobile customers planning to switch",
+          "summary": "Comcast is looking to capitalize on frustration among T-Mobile customers following recent price hikes.",
+          "url": "https://www.thestreet.com/retail/comcast-xfinity-mobile-free-year-deal-t-mobile-customers",
+          "published": "2026-07-08T15:47:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
+          "summary": "Dish DBS, the satellite TV and wireless subsidiary of EchoStar, filed for prepackaged Chapter 11 bankruptcy on June 30 in federal court in Houston.&nbsp; The filing ends months of speculation about the future of the industry's would-be fourth wireless carrier. More than 88% of Dish's bondholders ...",
+          "url": "https://www.thestreet.com/investing/stocks/att-dish-bankruptcy-echostar-spectrum-deal",
+          "published": "2026-07-08T15:33:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Samsung's now-$100 soundbar improves TV dialogue and overall sound",
+          "summary": "Subtitles aren't your only option to understand the muffled voices.",
+          "url": "https://www.thestreet.com/shopping/soundbars-to-improve-television-audio-at-amazon",
+          "published": "2026-07-08T15:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Your IRA needs urgent attention 5 years before retiring",
+          "summary": "After decades of building an individual retirement account (IRA), retirement may finally be within reach. However, the five years leading up to retirement are far from a passive countdown.&nbsp; Advisors, including Fidelity's Frank Maltais, and researchers such as Wade Pfau have flagged this ...",
+          "url": "https://www.thestreet.com/retirement/ira-pre-retirement-checklist-sequence-risk-roth-irmaa",
+          "published": "2026-07-08T15:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Salesforce bets another $1 billion despite AI spending cratering its stock",
+          "summary": "Salesforce Inc. (CRM) said Tuesday it will invest $1 billion in Switzerland over the next five years to accelerate the country’s adoption of agentic AI, according to a Seeking Alpha report. The pledge comes as Salesforce shares trade near a two-year low, weighed down by investor doubts about ...",
+          "url": "https://www.thestreet.com/latest-news/crm-salesforce-europe-switzerland-agentic-ai",
+          "published": "2026-07-08T15:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Oracle's $638 billion promise comes with one big catch",
+          "summary": "Oracle (ORCL) just booked the strongest sales year in its history, yet investors sold it anyway. The stock trades near $143, down about 27% in 2026 and off more than 50% from its 52-week high near $346. That kind of drop usually follows a bad quarter, but Oracle’s was the opposite of bad. So the ...",
+          "url": "https://www.thestreet.com/investing/stocks/oracles-638-billion-promise-comes-with-one-big-catch",
+          "published": "2026-07-08T14:47:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Veteran analyst drops massive Micron valuation prediction",
+          "summary": "Wall Street is becoming more confident in Micron Technology (MU). A Melius analyst now says the chipmaker could become the sixth-largest public company in the United States.&nbsp; That would make it worth more thanBroadcom (AVGO) and even Taiwan Semiconductor (TSM). The analyst's claim is a bold ...",
+          "url": "https://www.thestreet.com/investing/stocks/mu-micron-trillion-dollar-prediction-melius-research",
+          "published": "2026-07-08T14:33:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Alleged Ford cookie thief responds after losing $200,000 a year job",
+          "summary": "Imagine you are in the middle of a 12-hour workday at your six-figure job. You start to tire so you head down to the cafeteria to pick up a snack that will boost your blood sugar levels and get you through your shift. Now imagine the less-than-$2 cookie you purchase costs you your job. Kurt Kromm, ...",
+          "url": "https://www.thestreet.com/automotive/alleged-ford-cookie-thief-responds-after-losing-200000-a-year-job",
+          "published": "2026-07-08T14:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Popular burger chain closed over 300 restaurants then disappeared",
+          "summary": "During my childhood in the 1980s, my family sometimes ate out at a cafeteria-style steak chain that has almost entirely disappeared. Before that chain collapsed down to a single restaurant, I got a chance to eat there in the 2000s. It was basically what I remembered, and while I could see what ...",
+          "url": "https://www.thestreet.com/restaurants/65-year-old-red-barn-burger-chain-closed-all-its-restaurants",
+          "published": "2026-07-08T14:08:58+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "86-year-old nationwide ice cream chain closes 46 locations",
+          "summary": "The ice cream shop sector has not escaped the financial distress that the overall restaurant industry has faced over the last year. Several ice cream chains have shut down underperforming locations to reduce losses. Popular ice cream chain Dairy Queen has closed at least 46 locations across the ...",
+          "url": "https://www.thestreet.com/restaurants/dairy-queen-franchisee-closes-several-shops",
+          "published": "2026-07-08T14:07:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Southwest drops the one thing customers actually liked",
+          "summary": "Southwest Airlines built its business on being an airline that allowed its employees, even encouraged them, to have personality. Before it dropped its in-flight magazine during the Covid pandemic, that publication had a section featuring stories about flight attendants, pilots, gate workers, and ...",
+          "url": "https://www.thestreet.com/travel/southwest-quietly-drops-key-customer-service-feature",
+          "published": "2026-07-08T14:06:38+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Costco quietly makes a key credit card change",
+          "summary": "Costco treats credit cards differently from pretty much any other major retailer. Instead of taking any credit card and offering its own branded card with bonus perks, the chain has an exclusive credit card partner. For a long time, the warehouse club worked exclusively with American Express and ...",
+          "url": "https://www.thestreet.com/retail/costco-quietly-makes-a-key-credit-card-change",
+          "published": "2026-07-08T14:01:37+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "The Social Security talk every 50-something couple needs to have",
+          "summary": "Imagine the scene. It's date night, only instead of going out for an overpriced meal at a loud restaurant, you and your spouse decide to cook dinner at home. You'll pop open a nice bottle of wine, sit out on the deck, and enjoy your food with the backdrop of a fresh breeze. In the course of that ...",
+          "url": "https://www.thestreet.com/personal-finance/the-social-security-talk-every-50-something-couple-needs-to-have",
+          "published": "2026-07-08T13:47:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Morgan Stanley sends strong signal on SpaceX stock price target",
+          "summary": "SpaceX priced its IPO at $135 on June 12, raised $85.7 billion, and watched the stock run to $225 in its first week of trading before it pulled back to $160. Twenty-five days later, the mandatory quiet period for IPO underwriters expired. The analyst notes started landing at dawn on July 7. By the ...",
+          "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-sends-strong-signal-on-spacex-stock-price-target",
+          "published": "2026-07-08T13:33:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Massive cottage cheese recall expands after 1 death, 12 illnesses",
+          "summary": "Soft cheese recalls can be especially serious because the products are often eaten without further cooking. For restaurants, small grocery stores, and specialty markets that sell refrigerated cheese products for everyday meals, it is critical to monitor recalls. And anyone who purchases soft ...",
+          "url": "https://www.thestreet.com/retail/cottage-cheese-recall-illnesses-listeria-fda",
+          "published": "2026-07-08T13:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Walmart is selling a $150 dehumidifier that covers up to 1,000 square feet",
+          "summary": "\"It does a great job removing excess moisture from the air and has made my home feel much more comfortable.\"",
+          "url": "https://www.thestreet.com/deals/waykar-30-pint-dehumidifier-walmart-sale",
+          "published": "2026-07-08T13:15:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Toyota is spending $3.6B to undo a move from 5 years ago",
+          "summary": "Big companies almost never admit a mistake out loud. When the admission comes, it rarely arrives in words. It arrives in money. For three decades, the auto industry's money moved in one direction. The North American Free Trade Agreement, and later the United States-Mexico-Canada Agreement (USMCA), ...",
+          "url": "https://www.thestreet.com/automotive/toyota-is-spending-3-6b-to-undo-a-move-from-5-years-ago",
+          "published": "2026-07-08T13:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Tesla driver faces manslaughter charge after fatal crash",
+          "summary": "While Tesla is just beginning to experience the civil fallout from the fatal crash in a Houston, Texas, suburb last month, the driver of the vehicle is now facing legal consequences for his role. The Model 3 of Michael David Butler, 44, crashed into a home, killing a 76-year-old woman. Footage of ...",
+          "url": "https://www.thestreet.com/automotive/tesla-driver-faces-manslaughter-charge-after-fatal-crash",
+          "published": "2026-07-08T12:39:32+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Tourists stranded as travel agency files bankruptcy, cancels trips",
+          "summary": "Although numerous airlines did not survive the spike in gas prices over the Iran war, running a travel agency is an even tougher business, given the double whammy of rising operating costs and the ease with which travelers can book their own trips online. Particularly in the United Kingdom, the ...",
+          "url": "https://www.thestreet.com/travel/tourists-stranded-after-travel-agency-files-for-bankruptcy-and-cancels-all-trips",
+          "published": "2026-07-08T12:18:45+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "JPMorgan sees the writing on the wall for silver stock investors",
+          "summary": "Silver rose more than 130% in 2025. It hit an all-time high of $121.78 an ounce on Jan. 29, 2026. Solar panels needed it. Electric vehicles needed it. AI data centers needed it. For a metal that spent decades in gold's shadow, 2025 looked like the year silver finally stepped out. Then Kevin Warsh ...",
+          "url": "https://www.thestreet.com/investing/jpmorgan-cuts-silver-price-target-investors",
+          "published": "2026-07-08T12:15:13+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "A new wave of French restaurants has come to NYC",
+          "summary": "As French cuisine is known around the world for everything from its intricate flavors and meticulous presentation to the modern kitchen brigade system, these associations can sometimes push away newcomers who associate it exclusively with fine dining. While New York City is home to longstanding ...",
+          "url": "https://www.thestreet.com/travel/a-new-wave-of-french-restaurants-has-come-to-nyc",
+          "published": "2026-07-08T11:44:14+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "JPMorgan, big banks seek to unlock value in struggling payments stock",
+          "summary": "Fiserv’s debit network is drawing reported interest as banks seek more control over card payments.",
+          "url": "https://www.thestreet.com/investing/stocks/jpmorgan-big-banks-fiserv-debit-payment-network",
+          "published": "2026-07-08T11:37:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Fertilizer, Fuel, and Beef: How Costs Ripple Through Grocery Prices",
+          "summary": "Texas A&M University's David Anderson discusses the USDA’s 18-month forecast. Grocery prices are likely to stay higher, largely because food and energy costs have outsized influence and can be harder to predict. The discussion emphasizes that forecasts aren’t magic—major shocks like drought, ...",
+          "url": "https://www.thestreet.com/retirement/fertilizer-fuel-and-beef-how-costs-ripple-through-grocery-prices",
+          "published": "2026-07-08T11:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Luxury shampoo brand recalled over bacteria risk",
+          "summary": "A shampoo recall may not sound as urgent as a food or drug recall, but personal-care products are still part of consumers' health routines. Shampoo is applied directly to the scalp, often several times a week, and many shoppers pay premium prices for salon- and luxury-haircare brands because they ...",
+          "url": "https://www.thestreet.com/retail/oribe-luxury-shampoo-recall-bacteria-risk",
+          "published": "2026-07-08T11:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Box CEO reveals why AI boom is still early innings",
+          "summary": "Most Artificial Intelligence (AI) commentary I read falls into either of two camps: everything is at peak hype, and a correction is coming, or the AI boom is just beginning, and spending will compound for decades.&nbsp; Box CEO Aaron Levie posted something on X (formerly Twitter) this week that I ...",
+          "url": "https://www.thestreet.com/investing/stocks/box-box-stock-ceo-aaron-levie-says-frontier-specialized-ai-models-will-keep-growing-enterprise-adoption-scales-years-ahead",
+          "published": "2026-07-08T11:08:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Amazon's $6 noise-canceling earbuds are making AI accessible to everyone",
+          "summary": "\"It helps bridge the language gap.\"",
+          "url": "https://www.thestreet.com/deals/kasioo-ai-enabled-noise-canceling-earbuds-amazon-sale-july-2026",
+          "published": "2026-07-08T10:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Why Walmart's 2-in-1 touchscreen laptop is worth adding to your cart",
+          "summary": "The versatility allows for maximum productivity.",
+          "url": "https://www.thestreet.com/shopping/golzer-16-inch-2-in-1-laptop-walmart-sale",
+          "published": "2026-07-08T10:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "AARP study addresses common fear that Social Security will end",
+          "summary": "Millions of Americans nearing retirement may be making one of the most significant financial decisions of their lives based on inaccurate information. They believe Social Security will vanish entirely once its trust fund runs dry, and that belief is pushing many to claim benefits years too early. A ...",
+          "url": "https://www.thestreet.com/personal-finance/aarp-study-social-security-trust-fund-depletion-2032",
+          "published": "2026-07-08T08:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Walmart is selling $4 linen lounge pants that come in 30 colors",
+          "summary": "\"I have told everyone about their style, their comfort, and their versatility.\"",
+          "url": "https://www.thestreet.com/deals/viadha-cotton-linen-lounge-pants-walmart-sale",
+          "published": "2026-07-08T08:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Vanguard sends wake-up call to every retiree",
+          "summary": "Every retirement plan is really just a bet on a number. For the past century, that number has been about 10%, the average annual return U.S. stocks have delivered through wars, recessions, inflation scares, and at least two full-blown manias. An entire generation built its financial life on that ...",
+          "url": "https://www.thestreet.com/personal-finance/vanguard-wake-up-call-low-market-returns-for-retirees",
+          "published": "2026-07-08T06:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Walmart has a 2-door outdoor storage shed for just $132",
+          "summary": "\"It's perfect for outdoor storage.\"",
+          "url": "https://www.thestreet.com/deals/asofer-storage-shed-walmart-sale-july-2026",
+          "published": "2026-07-08T05:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "World Cup losses pour cold water on beer's big summer",
+          "summary": "Wall Street loves a catalyst, and while earnings dates can slip and Federal Reserve meetings disappoint, a global sporting event shows up exactly on schedule, with billions of eyeballs and a thirst to match. For the beverage business, no date on that calendar is bigger than the World Cup. This ...",
+          "url": "https://www.thestreet.com/retail/world-cup-beer-stocks-morgan-stanley-bud-stz",
+          "published": "2026-07-08T01:37:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "OPEC, Saudi Arabia share a signal on where oil is headed",
+          "summary": "The oil market rarely needs a translator. Producers hold meetings and publish statements, but the messages that matter are written in barrels shipped and invoices sent. When the people who control the world's crude want you to know where prices are headed, they show you rather than tell you. For ...",
+          "url": "https://www.thestreet.com/markets/opec-saudi-arabia-share-a-signal-on-where-oil-is-headed",
+          "published": "2026-07-08T01:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Dave Ramsey has new blunt words on buying a car",
+          "summary": "If you are working hard to stay away from debt but still find yourself tied to a monthly payment, you are not alone. But personal finance author and radio host Dave Ramsey often reminds his followers that carrying debt of any kind is an unnecessary risk — especially when your income isn't ...",
+          "url": "https://www.thestreet.com/personal-finance/dave-ramsey-shares-blunt-advice-on-your-car-loan",
+          "published": "2026-07-08T00:44:10+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Rivian's good news came with a catch investors hated",
+          "summary": "Growth companies rarely get to enjoy their wins for long. Every milestone arrives with a bill attached, and the money to pay it has to come from somewhere. More often than not, it comes out of shareholders' pockets. Electric vehicle (EV) startups know this better than anyone. Building cars is one ...",
+          "url": "https://www.thestreet.com/automotive/rivian-75-million-share-offering-disappoints-investors",
+          "published": "2026-07-08T00:33:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "How many employees does Meta have in 2026? Its workforce, locations, & layoffs explained",
+          "summary": "Time was, the future looked so bright for Meta Platforms that founder Mark Zuckerberg had to wear shades—AI-powered smart glasses, that is. In Zuckerberg’s words, 2023 wasn’t just Meta’s “year of efficiency” — it was actually the company’s best year ever. Shares surged 178% as the digital ...",
+          "url": "https://www.thestreet.com/investing/stocks/meta-employees",
+          "published": "2026-07-08T00:18:43+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Student loan borrowers face growing default threat",
+          "summary": "Millions of borrowers who had managed their payments for years have slipped into default since late 2025, and the federal government is preparing to resume seizing wages, tax refunds, and Social Security benefits to collect debts after a pause the Education Department announced in January 2026. ...",
+          "url": "https://www.thestreet.com/personal-finance/student-loan-default-wave-ny-fed-wage-garnishment",
+          "published": "2026-07-08T00:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Broadcom extends Apple chip deal through 2031",
+          "summary": "Broadcom Inc. (AVGO) just extended its chip supply agreement with Apple through 2031, according to a regulatory filing reported by Bloomberg. This partnership is not a new development. Apple and Broadcom have a long-standing supply relationship and previously made headlines back in 2023 when Apple ...",
+          "url": "https://www.thestreet.com/technology/broadcom-extends-apple-chip-deal-through-2031",
+          "published": "2026-07-08T00:07:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Trump accounts’ Palantir sale hides a bigger AI shift",
+          "summary": "President Donald Trump’s investment accounts just put a familiar artificial intelligence trade next to a less obvious one. That doesn’t mean Trump himself did the trading. According to the source, external parties handled the accounts, and outside managers made the buying and selling choices. ...",
+          "url": "https://www.thestreet.com/investing/trump-accounts-palantir-sale-hides-a-bigger-ai-shift",
+          "published": "2026-07-07T23:47:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Top U.S. firm acquires EasyJet after huge losses",
+          "summary": "In 2021, EasyJet shares were trading at 820 pence (approximately $10.99 U.S.). The pandemic had hurt the airline badly, but investors still believed in the recovery. Five years later, the Iran conflict drove fuel costs through the roof, the airline racked up a £552 million loss in the first half of ...",
+          "url": "https://www.thestreet.com/markets/castlelake-acquires-easyjet-after-huge-losses",
+          "published": "2026-07-07T23:33:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Target balances fashion-forward and price-conscious",
+          "summary": "Back-to-school shopping isn't just about filling a backpack anymore.&nbsp; Parents want affordable basics. But they also want clothes and accessories their kids will actually be excited to wear. In 2025, families with students in elementary through high school were aiming to spend an average of ...",
+          "url": "https://www.thestreet.com/retail/target-back-to-school-strategy-shoppers",
+          "published": "2026-07-07T23:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Tesla's new SUV could be its smartest profit play yet",
+          "summary": "Tesla (TSLA) has introduced the stretched Model Y L electric SUV in the U.S., effectively expanding its most successful EV into another segment. It can cost billions to develop an all-new car from scratch. Rather than go that route, Tesla has stretched the Model Y platform to target the popular ...",
+          "url": "https://www.thestreet.com/automotive/tesla-new-suv-model-y-l-could-be-smart-profit-play",
+          "published": "2026-07-07T23:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Jim Cramer says it’s time to buy another aerospace stock before it takes off",
+          "summary": "Over the July 4, 2026, weekend, I covered Jim Cramer's buy call on AST SpaceMobile. He was clear that it wasn’t something to flip fast. He called it a great speculative stock with a two-year money-making window.&nbsp; Monday morning, July 7, Cramer was back with another aerospace name, and this one ...",
+          "url": "https://www.thestreet.com/investing/stocks/hona-honeywell-aerospace-stock-jim-cramer-says-its-time-to-buy-alongside-boeing-and-ge-aerospace",
+          "published": "2026-07-07T22:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Delaying Social Security to a certain age could cost you $144,000",
+          "summary": "Financial planners have spent years pushing one message to pre-retirees: wait until 70 to claim Social Security for the biggest possible monthly check. That guidance carries a price tag most retirement calculators do not show, and the total may be large enough to change your claiming strategy. ...",
+          "url": "https://www.thestreet.com/retirement/social-security-age-70-hidden-cost-144000",
+          "published": "2026-07-07T21:37:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Amazon has an $800 HP laptop for 65% off",
+          "summary": "This laptop is great for everyday tasks.",
+          "url": "https://www.thestreet.com/deals/hp-essentials-4gb-windows-11-laptop-amazon-sale",
+          "published": "2026-07-07T21:30:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Micron’s Ford deal shows automakers racing to outbid AI for chips",
+          "summary": "Micron Technology signed a long-term supply agreement with Ford Motor on Monday, July 6, locking in memory-chip output for Ford’s next generation of vehicles. The deal comes as global memory prices climb at their fastest pace in years, driven largely by AI data centers. Automakers that once treated ...",
+          "url": "https://www.thestreet.com/latest-news/micron-ford-deal-automakers-racing-to-outbid-ai-for-chips",
+          "published": "2026-07-07T21:03:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Trim tech winners now - here’s what to buy instead",
+          "summary": "Transcript: Caroline Woods:My next guest says the market is rotating, not topping out. Victoria Fernandez is chief market strategist at Smart Global Investments and joins us now. Victoria, so good to have you. Great to have you back. Victoria Fernandez:Pleasure to be here. Caroline Woods:So ...",
+          "url": "https://www.thestreet.com/economy/trim-tech-winners-now-heres-what-to-buy-instead",
+          "published": "2026-07-07T21:01:35+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Anker's fast charger is selling by the thousands while on sale for just $26 at Amazon",
+          "summary": "This charger adapts to your specific phone and charges it in different modes based on your needs.",
+          "url": "https://www.thestreet.com/deals/anker-smart-display-45w-charger-amazon-sale-july-2026",
+          "published": "2026-07-07T20:45:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Goldman Sachs sends a bearish message on a rising metal",
+          "summary": "War trades follow a script. A supply shock hits, prices go vertical, and money that never cared about the underlying market suddenly cares about nothing else. The entry is the easy part. The hard part is knowing when the story that made you money stops being true. For three months, one industrial ...",
+          "url": "https://www.thestreet.com/investing/goldman-sachs-sends-a-bearish-message-on-a-rising-metal",
+          "published": "2026-07-07T20:17:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Jefferies joins Barclays in backing major gold miner",
+          "summary": "Panic is a lousy appraiser. When fear sweeps through a sector, the selling rarely distinguishes between businesses that deserve the beating and businesses that simply got caught in the crowd. That gap between price and quality is where professional investors build careers, and it tends to open ...",
+          "url": "https://www.thestreet.com/markets/jefferies-joins-barclays-in-backing-agnico-eagle-gold-miner",
+          "published": "2026-07-07T20:00:00+00:00",
+          "fetched_at": "2026-07-08T16:02:18.670379+00:00",
+          "source": "TheStreet"
+        }
+      ]
+    }
+  ],
+  "errors": []
 }
