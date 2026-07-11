@@ -1,16 +1,169 @@
 {
-  "collected_at": "2026-07-10T12:06:45.222397Z",
-  "total_articles": 110,
+  "collected_at": "2026-07-11T12:06:37.120053+00:00",
+  "total_articles": 109,
   "results": [
     {
       "source": "FT Markets",
       "articles": [
         {
+          "title": "UK inflation is not distributed equally",
+          "summary": "The poorest pay the most in an energy shock",
+          "url": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d",
+          "published": "2026-07-11T09:30:08+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "policy"
+        },
+        {
+          "title": "Europe’s slow electrification is a ‘major mistake’, warns IEA chief",
+          "summary": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
+          "url": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
+          "published": "2026-07-11T04:00:41+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "Prepare for a perilous summer in markets",
+          "summary": "Potential hotspots include a reformist new Fed chair, weak Japanese yen and high-stakes earnings season",
+          "url": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
+          "published": "2026-07-11T04:00:41+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "earnings"
+        },
+        {
+          "title": "Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich",
+          "summary": "Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending",
+          "url": "https://www.ft.com/content/3bf40c45-ff42-48f8-86ee-c39b7e4f839d",
+          "published": "2026-07-11T04:00:34+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "ipo"
+        },
+        {
+          "title": "Why the chips are down despite the AI boom",
+          "summary": "Some believe the boom-bust cycle in memory chips has ended — the market thinks otherwise",
+          "url": "https://www.ft.com/content/3990d688-f716-46d0-8508-0318265431f5",
+          "published": "2026-07-11T04:00:34+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "SK Hynix’s US shares jump 13% on Nasdaq debut",
+          "summary": "South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149",
+          "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
+          "published": "2026-07-10T20:23:24+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "ipo"
+        },
+        {
+          "title": "Bezos-backed fusion start-up to become first to go public",
+          "summary": "General Fusion’s ‘steampunk’ approach to the technology is under scrutiny ahead of Nasdaq debut",
+          "url": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
+          "published": "2026-07-10T19:57:18+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "ipo"
+        },
+        {
+          "title": "‘It’s all about the number’: how Apollo gazumped Castlelake’s easyJet bid",
+          "summary": "Takeover battle for UK budget airline took a last-minute twist after US investment giant outbid rival",
+          "url": "https://www.ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44",
+          "published": "2026-07-10T17:20:05+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "The superpower of public equity",
+          "summary": "Liquidity is tempting companies back to the public markets — but it is not available to all",
+          "url": "https://www.ft.com/content/ff1a4f4f-5b19-4ee4-9f5d-e59511d84644",
+          "published": "2026-07-10T17:00:01+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "Apollo’s profitability challenge: turn easyJet into Ryanair",
+          "summary": "If the PE firm wants to raise revenue and cut costs at the airline, there’s room for manoeuvre",
+          "url": "https://www.ft.com/content/ae1663ce-7487-4844-ba05-70933a42e3ff",
+          "published": "2026-07-10T16:34:44+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "earnings"
+        },
+        {
+          "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
+          "summary": "Waning demand highlights scepticism over sector’s long-term profitability",
+          "url": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
+          "published": "2026-07-10T16:29:50+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "earnings"
+        },
+        {
+          "title": "Circle wins licence for some US banking activities",
+          "summary": "Shares in stablecoin company rise after regulator grants approval to operate as trust bank",
+          "url": "https://www.ft.com/content/21ea4940-52a5-4cf9-8d14-f809a47ca38b",
+          "published": "2026-07-10T15:45:58+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs",
+          "summary": "Leading investment platforms say banks and brokers are looking to boost retail participation in upcoming launches",
+          "url": "https://www.ft.com/content/faa11fec-9ac5-40cb-a0f4-96a5c1e5f678",
+          "published": "2026-07-10T15:02:23+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "ipo"
+        },
+        {
+          "title": "Apollo trumps Castlelake with £5.7bn deal to buy easyJet",
+          "summary": "Low-cost airline says offer ‘delivers a superior outcome for easyJet shareholders’",
+          "url": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
+          "published": "2026-07-10T14:35:56+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "UK regulators to scrutinise top US cloud groups",
+          "summary": "Designating Microsoft, Google, Amazon and Oracle as ‘critical third parties’ will help improve resilience, says Treasury",
+          "url": "https://www.ft.com/content/87895bfb-df47-49c7-a339-e5e849b9b271",
+          "published": "2026-07-10T14:02:26+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
+          "title": "Shein wins Chinese approval for long-awaited IPO",
+          "summary": "China’s securities regulator grants permission for fast-fashion retailer to list in Hong Kong after years of delays",
+          "url": "https://www.ft.com/content/ccf814fb-d8fe-46f0-b6e4-de8cbe06e028",
+          "published": "2026-07-10T13:53:15+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "earnings"
+        },
+        {
+          "title": "What are Farage’s allies doing in ‘beautiful’ and ‘cheap’ Montenegro?",
+          "summary": "Reform UK figures have been deepening their presence in the Balkan country since 2023",
+          "url": "https://www.ft.com/content/d6cb1fbf-0bf9-4219-9593-50c79348caa4",
+          "published": "2026-07-10T13:43:52+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
+          "source": "FT Markets",
+          "category": "macro"
+        },
+        {
           "title": "IEA warns of petrol and diesel supply crunch",
           "summary": "Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high",
           "url": "https://www.ft.com/content/54261075-72c5-4b47-9d53-8c94738201e3",
           "published": "2026-07-10T12:06:16+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "macro"
         },
@@ -19,7 +172,7 @@
           "summary": "A hot new active vs passive paper just dropped",
           "url": "https://www.ft.com/content/2f744d02-cf06-4fec-b4d1-271854270da7",
           "published": "2026-07-10T11:22:34+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "macro"
         },
@@ -28,205 +181,52 @@
           "summary": "Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei",
           "url": "https://www.ft.com/content/2f46b60d-fef3-48bb-93ba-45bc71df8703",
           "published": "2026-07-10T11:01:05+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "macro"
         },
         {
-          "title": "Bayer sells stake in contraceptives business to Apollo in \u20ac3bn financing deal",
+          "title": "Bayer sells stake in contraceptives business to Apollo in €3bn financing deal",
           "summary": "Sale will help German pharmaceuticals group to bolster its balance sheet after years of litigation over Roundup weedkiller",
           "url": "https://www.ft.com/content/2ac9c03f-f810-4514-a11e-5802e86c0d12",
           "published": "2026-07-10T08:47:49+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "macro"
         },
         {
           "title": "EasyJet: orange upstart that changed flying prepares to go private",
-          "summary": "Pivotal moment for Europe\u2019s low-cost pioneer as US suitors circle",
+          "summary": "Pivotal moment for Europe’s low-cost pioneer as US suitors circle",
           "url": "https://www.ft.com/content/d16e92f7-268a-4d46-9525-483318c9ba4b",
           "published": "2026-07-10T07:47:10+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "macro"
         },
         {
-          "title": "Apollo trumps Castlelake with \u00a35.7bn deal to buy easyJet",
-          "summary": "Low-cost airline says offer \u2018delivers a superior outcome for easyJet shareholders\u2019",
-          "url": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
-          "published": "2026-07-10T07:43:58+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "SK Hynix raises $26.5bn in US market debut",
-          "summary": "South Korean memory chipmaker completes largest-ever US listing by a foreign company",
-          "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
-          "published": "2026-07-10T07:08:11+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "ipo"
-        },
-        {
-          "title": "Erika McEntarfer: \u2018You really can just fire the BLS commissioner\u2019",
+          "title": "Erika McEntarfer: ‘You really can just fire the BLS commissioner’",
           "summary": "The former labour statistics chief on the fragility (and strength) of US economic data",
           "url": "https://www.ft.com/content/cf382c4f-f6c8-4f2a-9461-32c850b63415",
           "published": "2026-07-10T05:30:03+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "earnings"
         },
         {
-          "title": "New EU \u2018scale-up\u2019 fund expects to burst past its \u20ac5bn target size",
+          "title": "New EU ‘scale-up’ fund expects to burst past its €5bn target size",
           "summary": "Also in this newsletter: IEA urges Brussels to reconsider its opposition to Arctic oil and gas exploration",
           "url": "https://www.ft.com/content/7c6a4e30-26b2-4e55-ad44-8450939e57b7",
           "published": "2026-07-10T05:00:03+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "commodities"
         },
         {
           "title": "Japan finance minister urges giant pension fund to invest more at home",
-          "summary": "Yen, bonds and stocks buoyed by Satsuki Katayama\u2019s call for investors to shift from foreign to domestic assets",
+          "summary": "Yen, bonds and stocks buoyed by Satsuki Katayama’s call for investors to shift from foreign to domestic assets",
           "url": "https://www.ft.com/content/f06e2bec-bab6-4633-a88f-376729fdc914",
           "published": "2026-07-10T04:30:30+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "Wall Street\u2019s giant memory windfall",
-          "summary": "The blockbuster listing of South Korean chipmaker SK Hynix could earn investment bankers nine figures in fees",
-          "url": "https://www.ft.com/content/eca588b0-2729-4c8e-8319-ee1d9eee4d95",
-          "published": "2026-07-10T04:00:26+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "ipo"
-        },
-        {
-          "title": "Founder of energy group DCC blasts board for backing takeover \u2018on the cheap\u2019",
-          "summary": "Jim Flavin joins other major shareholders of FTSE 100 company in rejecting \u00a35.7bn private equity offer",
-          "url": "https://www.ft.com/content/7e97139f-4b7a-4a72-bc33-1311e4cb20ad",
-          "published": "2026-07-10T04:00:26+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "UBS helped trigger exodus from Blue Owl private credit fund",
-          "summary": "Bank advised some clients to cut exposure, hitting a fund it had been instrumental in setting up",
-          "url": "https://www.ft.com/content/4c75ea97-8411-445d-b1fd-393b2b4222f8",
-          "published": "2026-07-10T04:00:19+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "SK Hynix\u2019s jumbo share sale a sign of overheated times",
-          "summary": "Perhaps it will be some comfort to those with longer time horizons that market anomalies don\u2019t last for ever",
-          "url": "https://www.ft.com/content/3986c7e5-01bc-4d24-a41f-3b8030ac2bd8",
-          "published": "2026-07-10T04:00:19+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "Why AI could be a financial \u2018sludge\u2019 buster",
-          "summary": "Regulators want to use the technology in their bid to cut red tape",
-          "url": "https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f",
-          "published": "2026-07-10T04:00:16+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "Battersea Power Station accounting claims probed by UK watchdog",
-          "summary": "FRC is scrutinising allegations of financial misreporting at London landmark development",
-          "url": "https://www.ft.com/content/865acdaf-9ff8-4665-a4bd-a303322aaab2",
-          "published": "2026-07-10T04:00:16+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "All you never wanted to know about corporate bond market issuance",
-          "summary": "How the debt capital markets sausage gets made",
-          "url": "https://www.ft.com/content/47a66129-548e-45c6-8855-0691616e92da",
-          "published": "2026-07-10T04:00:16+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "Reformation listing presents \u2018acid test\u2019 for fashion brands",
-          "summary": "Sustainable clothing label\u2019s proposed IPO comes after a series of troubled offerings by apparel groups in recent years",
-          "url": "https://www.ft.com/content/d4c7f7f6-fbcb-4444-a617-e41d9b9fadc1",
-          "published": "2026-07-10T04:00:04+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "ipo"
-        },
-        {
-          "title": "Labour MPs push for permanent ban on crypto political donations",
-          "summary": "Proposals come amid controversy over Reform UK funding",
-          "url": "https://www.ft.com/content/b6e1ca13-b401-4557-aeef-85527ab0bdd7",
-          "published": "2026-07-09T23:16:02+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "crypto"
-        },
-        {
-          "title": "The Fed\u2019s silent treatment",
-          "summary": "Markets are experiencing bursts of volatility, so why is the new Fed chair keeping quiet?",
-          "url": "https://www.ft.com/content/bf418d15-f7f3-48d7-8e17-93d86d71ac9d",
-          "published": "2026-07-09T20:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "policy"
-        },
-        {
-          "title": "Goldman limits prediction-market betting for employees",
-          "summary": "Nascent platforms such as Kalshi and Polymarket pose challenges to compliance policies at heavily regulated banks",
-          "url": "https://www.ft.com/content/7a2a3200-763f-4141-8372-f2f6afba521d",
-          "published": "2026-07-09T19:55:10+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "commodities"
-        },
-        {
-          "title": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
-          "summary": "Deal underscores bright spot for private equity portfolio company sales amid strong demand for AI infrastructure",
-          "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873",
-          "published": "2026-07-09T19:00:05+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "Suspicious trading before 41% of takeovers sets new UK record",
-          "summary": "Annual FCA data shows abnormal trades hitting new highs amid deal frenzy for UK companies",
-          "url": "https://www.ft.com/content/2478afc6-e7af-4ebe-8d87-e7bf0f4f3052",
-          "published": "2026-07-09T17:06:27+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "World faces growing diesel supply crunch as Russia cuts off exports",
-          "summary": "Ukraine drone strikes have hammered Russia\u2019s refineries",
-          "url": "https://www.ft.com/content/48959ee1-ccb9-48dc-8d85-1422a63ec234",
-          "published": "2026-07-09T15:30:59+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
-          "source": "FT Markets",
-          "category": "macro"
-        },
-        {
-          "title": "CME launches new product to simplify controversial Treasury bets",
-          "summary": "Instrument set to cut cost of popular hedge fund \u2018basis trade\u2019 strategy that has been blamed for adding to market volatility",
-          "url": "https://www.ft.com/content/2d8ca3f0-6bff-40d9-9b74-a1831e887a77",
-          "published": "2026-07-09T13:22:58+00:00",
-          "fetched_at": "2026-07-10T12:06:31.132441+00:00",
+          "fetched_at": "2026-07-11T12:06:34.385012+00:00",
           "source": "FT Markets",
           "category": "macro"
         }
@@ -244,272 +244,272 @@
       "source": "Seeking Alpha",
       "articles": [
         {
-          "title": "Entra ASA (ENTOF) Q2 2026 Earnings Call Transcript",
-          "summary": "[topics: ENTOF, SA Transcripts]",
-          "url": "https://seekingalpha.com/article/4921103-entra-asa-entof-q2-2026-earnings-call-transcript?source=feed_all_articles",
-          "published": "2026-07-10T12:01:46+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "earnings"
-        },
-        {
-          "title": "Simulations Plus, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-          "summary": "[topics: SLP, SA Transcripts]",
-          "url": "https://seekingalpha.com/article/4921148-simulations-plus-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-          "published": "2026-07-10T12:00:49+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "earnings"
-        },
-        {
-          "title": "Porsche: I Remain Long, Given The Attractive Risk/Reward",
-          "summary": "[topics: POAHY, POAHF, DRPRY]",
-          "url": "https://seekingalpha.com/article/4921071-porsche-stock-i-remain-long-given-the-attractive-risk-reward?source=feed_all_articles",
-          "published": "2026-07-10T12:00:03+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Seaport Entertainment: Bill Ackman's Hidden Gem",
+          "summary": "[topics: SEG, Brad Thomas]",
+          "url": "https://seekingalpha.com/article/4921280-seaport-entertainment-bill-ackmans-hidden-gem?source=feed_all_articles",
+          "published": "2026-07-11T12:00:00+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Vulcan Materials: This Vulcan Bleeds Green Too",
-          "summary": "[topics: VMC, Treading Softly, Kody's Dividends]",
-          "url": "https://seekingalpha.com/article/4920387-vulcan-materials-this-vulcan-bleeds-green-too?source=feed_all_articles",
-          "published": "2026-07-10T12:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "AZZ Inc.: The Grid Boom May Not Be Enough To Justify Buying Here",
-          "summary": "[topics: AZZ, Grassroots Trading]",
-          "url": "https://seekingalpha.com/article/4921049-azz-the-grid-boom-may-not-be-enough-to-justify-buying-here?source=feed_all_articles",
-          "published": "2026-07-10T12:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "UniFirst Corporation's Upside Isn't Worth Waiting Around For, As Its Merger With Cintas Nears Completion",
-          "summary": "[topics: CTAS, UNF, Daniel Jones]",
-          "url": "https://seekingalpha.com/article/4921065-unifirst-corporations-upside-isnt-worth-waiting-around-for-as-its-merger-with-cintas-nears-completion?source=feed_all_articles",
-          "published": "2026-07-10T12:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "Start Investing At 60 And Retire On Dividends Forever",
-          "summary": "[topics: ENB, OHI, BMY]",
-          "url": "https://seekingalpha.com/article/4921075-start-investing-at-60-and-retire-on-dividends-forever?source=feed_all_articles",
-          "published": "2026-07-10T12:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "MGE Energy: Quality Utility, But The Entry Point Has Closed",
-          "summary": "[topics: MGEE, Lucas Martins]",
-          "url": "https://seekingalpha.com/article/4921140-mge-energy-quality-utility-but-the-entry-point-has-closed?source=feed_all_articles",
-          "published": "2026-07-10T11:59:36+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "Credo: Strong AI-Led Growth Proposition",
-          "summary": "[topics: CRDO, The Asian Investor]",
-          "url": "https://seekingalpha.com/article/4921139-credo-strong-ai-led-growth-proposition?source=feed_all_articles",
-          "published": "2026-07-10T11:57:45+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "macro"
-        },
-        {
-          "title": "Union Pacific: Buying Now Feels Too Late (Rating Downgrade)",
-          "summary": "[topics: UNP, Andres Veurink]",
-          "url": "https://seekingalpha.com/article/4921134-union-pacific-buying-now-feels-too-late-rating-downgrade?source=feed_all_articles",
-          "published": "2026-07-10T11:38:17+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "Tesla: A Pivot That Doesn't Fix The Price",
-          "summary": "[topics: TSLA, TSLA:CA, ZTSL:CA]",
-          "url": "https://seekingalpha.com/article/4921133-tesla-a-pivot-that-doesnt-fix-the-price?source=feed_all_articles",
-          "published": "2026-07-10T11:38:11+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "Gaming and Leisure Properties: Buy The Dip On This High Yield",
-          "summary": "[topics: GLPI, Gen Alpha, Hoya Capital]",
-          "url": "https://seekingalpha.com/article/4921079-gaming-leisure-properties-buy-dip-on-this-high-yield-stock?source=feed_all_articles",
-          "published": "2026-07-10T11:30:12+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "Labor Market Frozen, Fed PUT On Ice",
+          "title": "Weekly Indicators: Consumer Spending Continues To Blow Its Stack",
           "summary": "[topics: AFMC, AFSM, ARKK]",
-          "url": "https://seekingalpha.com/article/4921097-labor-market-frozen-fed-put-on-ice?source=feed_all_articles",
-          "published": "2026-07-10T11:30:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "policy"
-        },
-        {
-          "title": "10% Average Income - 2 High-Yield Gems Every Investor Should Know",
-          "summary": "[topics: MPLX, HTGC, Leo Nelissen]",
-          "url": "https://seekingalpha.com/article/4920406-10-percent-average-income-2-high-yield-gems-every-investor-should-know?source=feed_all_articles",
-          "published": "2026-07-10T11:30:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "url": "https://seekingalpha.com/article/4921282-weekly-indicators-consumer-spending-continues-to-blow-its-stack?source=feed_all_articles",
+          "published": "2026-07-11T12:00:00+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Disney: Time To Be Greedy",
-          "summary": "[topics: DIS, DIS:CA, Jonathan Weber]",
-          "url": "https://seekingalpha.com/article/4921056-disney-stock-time-to-be-greedy?source=feed_all_articles",
-          "published": "2026-07-10T11:30:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "CF Industries: Iran War Beneficiary, 20% Dividend Hike, But Rally Requires Caution",
-          "summary": "[topics: CF, Dividend Collection Agency, Hoya Capital]",
-          "url": "https://seekingalpha.com/article/4921070-cf-industries-iran-war-beneficiary-20-percent-dividend-hike-but-rally-requires-caution?source=feed_all_articles",
-          "published": "2026-07-10T11:30:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "Wall Street Breakfast Podcast: SK Hynix Historic ADR Sale",
-          "summary": "[topics: SKHY, PEP, USO]",
-          "url": "https://seekingalpha.com/article/4921131-wall-street-breakfast-podcast-sk-hynix-historic-adr-sale?source=feed_all_articles",
-          "published": "2026-07-10T11:21:46+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "The Bitmine Immersion Discount Is Dangerous (Upgrade)",
-          "summary": "[topics: ETH-USD, BMNP, BMNR]",
-          "url": "https://seekingalpha.com/article/4921130-the-bitmine-immersion-discount-is-dangerous-upgrade?source=feed_all_articles",
-          "published": "2026-07-10T11:17:08+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "crypto"
-        },
-        {
-          "title": "My Biggest Regret As A High-Yield Investor",
-          "summary": "[topics: GNL, O, NNN]",
-          "url": "https://seekingalpha.com/article/4920050-my-biggest-regret-as-a-high-yield-investor?source=feed_all_articles",
-          "published": "2026-07-10T11:15:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "markets"
-        },
-        {
-          "title": "AI Capex Risk Cuts Both Ways In The American Economy",
-          "summary": "[topics: SPX, SP500, DJI]",
-          "url": "https://seekingalpha.com/article/4921141-ai-capex-risk-cuts-both-ways-in-american-economy?source=feed_all_articles",
-          "published": "2026-07-10T11:10:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Citigroup: Traders Are Getting Too Excited About Capital Markets Growth (Rating Downgrade)",
+          "summary": "[topics: C, CITI:CA, Ian Bezek]",
+          "url": "https://seekingalpha.com/article/4921300-citigroup-traders-are-getting-too-excited-about-capital-markets-growth?source=feed_all_articles",
+          "published": "2026-07-11T12:00:00+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "macro"
         },
         {
-          "title": "Historic U.S. Debut For Another AI Winner",
-          "summary": "[topics: Wall Street Breakfast]",
-          "url": "https://seekingalpha.com/article/4921125-historic-u-s-debut-for-another-ai-winner?source=feed_all_articles",
-          "published": "2026-07-10T11:07:44+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Mesoblast: The Commercial Proof Is Now Becoming The Investment Thesis",
+          "summary": "[topics: MESO, Equity Eagle]",
+          "url": "https://seekingalpha.com/article/4921361-mesoblast-the-commercial-proof-is-now-becoming-the-investment-thesis?source=feed_all_articles",
+          "published": "2026-07-11T11:59:12+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Atlanticus Holdings: Profitable Fintech Growth At A Reasonable Valuation",
+          "summary": "[topics: ATLC, DCF Value Investor]",
+          "url": "https://seekingalpha.com/article/4921358-atlanticus-holdings-profitable-fintech-growth-at-a-reasonable-valuation?source=feed_all_articles",
+          "published": "2026-07-11T11:28:45+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "earnings"
+        },
+        {
+          "title": "Firefly Aerospace: Potential Next Space Winner To Buy",
+          "summary": "[topics: FLY, Dhierin Bechai]",
+          "url": "https://seekingalpha.com/article/4921357-firefly-aerospace-potential-next-space-winner-to-buy?source=feed_all_articles",
+          "published": "2026-07-11T11:21:59+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "ipo"
         },
         {
-          "title": "Enterprise Products Partners: What This Paltry Distribution Increase Really Means",
-          "summary": "[topics: EPD, MPLX, AMLP]",
-          "url": "https://seekingalpha.com/article/4921117-enterprise-products-partners-what-paltry-distribution-increase-really-means?source=feed_all_articles",
-          "published": "2026-07-10T11:05:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "The REIT Strategy I Would Use To Retire Today",
+          "summary": "[topics: VNQ, REIT, JRE]",
+          "url": "https://seekingalpha.com/article/4920041-reit-strategy-i-would-use-to-retire-today?source=feed_all_articles",
+          "published": "2026-07-11T11:15:00+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Orkla ASA (ORKLY) Shareholder/Analyst Call Prepared Remarks Transcript",
-          "summary": "[topics: ORKLY, ORKLF, SA Transcripts]",
-          "url": "https://seekingalpha.com/article/4921115-orkla-asa-orkly-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles",
-          "published": "2026-07-10T11:01:46+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Pfizer: The AI Hedge That Pays You To Stay Defensive",
+          "summary": "[topics: PFE, PFE:CA, ZPFE:CA]",
+          "url": "https://seekingalpha.com/article/4921356-pfizer-the-ai-hedge-that-pays-you-to-stay-defensive?source=feed_all_articles",
+          "published": "2026-07-11T11:09:31+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Terrestrial Energy: A $343M Narrative Premium On A $290M Cash Floor",
-          "summary": "[topics: IMSR, Maya Gupta]",
-          "url": "https://seekingalpha.com/article/4921126-terrestrial-energy-a-343m-narrative-premium-on-a-290m-cash-floor?source=feed_all_articles",
-          "published": "2026-07-10T11:01:27+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "7-10% Yields I'm Betting Big On For Early Retirement",
+          "summary": "[topics: ET, PFFA, Samuel Smith]",
+          "url": "https://seekingalpha.com/article/4921308-7-10-percent-yields-i-am-betting-big-on-for-early-retirement?source=feed_all_articles",
+          "published": "2026-07-11T11:05:28+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Italian Industrial Production Posts A Small Contraction In May",
-          "summary": "[topics: EWI, ING Economic and Financial Analysis]",
-          "url": "https://seekingalpha.com/article/4921135-italian-industrial-production-posts-small-contraction-in-may?source=feed_all_articles",
-          "published": "2026-07-10T10:50:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Why I Prioritize My HSA Over My IRA For Maximum Tax Alpha",
+          "summary": "[topics: BRK.B, BRK.A, SCHD]",
+          "url": "https://seekingalpha.com/article/4921355-why-i-prioritize-my-hsa-over-my-ira-for-maximum-tax-alpha?source=feed_all_articles",
+          "published": "2026-07-11T10:56:21+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Jet2 plc 2026 Q4 - Results - Earnings Call Presentation",
-          "summary": "[topics: DRTGF, SA Transcripts]",
-          "url": "https://seekingalpha.com/article/4921137-jet2-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-          "published": "2026-07-10T10:42:19+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
-          "source": "Seeking Alpha",
-          "category": "earnings"
-        },
-        {
-          "title": "CECO Environmental: Trades At A Premium Multiple, But I Think It Is Justified",
-          "summary": "[topics: CECO, Redfox Capital Ideas]",
-          "url": "https://seekingalpha.com/article/4921121-ceco-environmental-trades-at-a-premium-multiple-but-i-think-it-is-justified?source=feed_all_articles",
-          "published": "2026-07-10T10:37:54+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "What Moved Markets This Week",
+          "summary": "[topics: Wall Street Breakfast]",
+          "url": "https://seekingalpha.com/article/4921360-what-moved-markets-this-week?source=feed_all_articles",
+          "published": "2026-07-11T10:44:55+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Amphenol Is A Force To Reckon With",
-          "summary": "[topics: APH, APH:CA, Fountainhead]",
-          "url": "https://seekingalpha.com/article/4921120-amphenol-is-a-force-to-reckon-with?source=feed_all_articles",
-          "published": "2026-07-10T10:37:12+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Powerlaw: Discount To NAV - Check, What Now?",
+          "summary": "[topics: PWRL, SPCX, NVDA]",
+          "url": "https://seekingalpha.com/article/4921354-powerlaw-discount-to-nav-check-what-now?source=feed_all_articles",
+          "published": "2026-07-11T10:39:40+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "European Consumers Still Aren't Consuming, But The Way They Save Is Changing",
-          "summary": "[topics: VGK, FEZ, IEV]",
-          "url": "https://seekingalpha.com/article/4921132-european-consumers-arent-consuming-way-they-save-changing?source=feed_all_articles",
-          "published": "2026-07-10T10:35:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "Corning: Double Downgrading To Sell, It's Time To Take A Breather",
+          "summary": "[topics: GLW, Passage Research]",
+          "url": "https://seekingalpha.com/article/4921352-corning-double-downgrading-to-sell-its-time-to-take-a-breather?source=feed_all_articles",
+          "published": "2026-07-11T10:33:09+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "commodities"
+        },
+        {
+          "title": "CoreWeave's Biggest Fear Looks Overdone",
+          "summary": "[topics: CRWV, CRWV:CA, Pythia Research]",
+          "url": "https://seekingalpha.com/article/4921350-coreweave-biggest-fear-looks-overdone?source=feed_all_articles",
+          "published": "2026-07-11T10:29:08+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         },
         {
-          "title": "Home BancShares: High Quality, Growing, And Still Worth Buying",
-          "summary": "[topics: HOMB, Daniel Jones]",
-          "url": "https://seekingalpha.com/article/4921119-home-bancshares-high-quality-growing-and-still-worth-buying?source=feed_all_articles",
-          "published": "2026-07-10T10:33:31+00:00",
-          "fetched_at": "2026-07-10T12:06:32.181733+00:00",
+          "title": "SentinelOne: Great Price For AI Security Tailwinds",
+          "summary": "[topics: S, Gary Alexander]",
+          "url": "https://seekingalpha.com/article/4921349-sentinelone-great-price-for-ai-security-tailwinds?source=feed_all_articles",
+          "published": "2026-07-11T10:27:06+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "policy"
+        },
+        {
+          "title": "Palantir: An Elite Bet On The Software Recovery",
+          "summary": "[topics: PLTR, PLTR:CA, ZPLT:CA]",
+          "url": "https://seekingalpha.com/article/4921348-palantir-an-elite-bet-on-the-software-recovery?source=feed_all_articles",
+          "published": "2026-07-11T10:14:22+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "July Graham Value All-Stars (GVAS) Emit 10 Beaming Buys",
+          "summary": "[topics: IRS, WB, VZ]",
+          "url": "https://seekingalpha.com/article/4921347-july-graham-value-all-stars-gvas-emit-10-beaming-buys?source=feed_all_articles",
+          "published": "2026-07-11T10:01:57+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "InterDigital: A More Predictable Licensing Engine Is Emerging",
+          "summary": "[topics: IDCC, Petri Dish Reports]",
+          "url": "https://seekingalpha.com/article/4921346-interdigital-a-more-predictable-licensing-engine-is-emerging?source=feed_all_articles",
+          "published": "2026-07-11T09:50:33+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Pfizer: The Post-Pandemic Turnaround Is Already Underway",
+          "summary": "[topics: PFE, PFE:CA, ZPFE:CA]",
+          "url": "https://seekingalpha.com/article/4921345-pfizer-the-post-pandemic-turnaround-is-already-underway?source=feed_all_articles",
+          "published": "2026-07-11T09:45:18+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Haverty Furniture Company: A Focus On Affluent Customers Could Pay Off Big",
+          "summary": "[topics: HVT, Ryan Canady]",
+          "url": "https://seekingalpha.com/article/4921344-haverty-furniture-company-a-focus-on-affluent-customers-could-pay-off-big?source=feed_all_articles",
+          "published": "2026-07-11T09:41:05+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Fresenius Medical: High Yield, Utilities-Like Stock At Valuation Lows",
+          "summary": "[topics: FMS, FMCQF, Curonian Research]",
+          "url": "https://seekingalpha.com/article/4921341-fresenius-medical-high-yield-utilities-like-stock-at-valuation-lows?source=feed_all_articles",
+          "published": "2026-07-11T09:28:48+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "GAM: Strong History Without Strong Reasons To Own It",
+          "summary": "[topics: GAM, Rubicon Research]",
+          "url": "https://seekingalpha.com/article/4921338-gam-strong-history-without-strong-reasons-to-own-it?source=feed_all_articles",
+          "published": "2026-07-11T09:03:41+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Adobe: 5 Signs AI Is Topping, SaaS In Play",
+          "summary": "[topics: ADBE, META, SPCX]",
+          "url": "https://seekingalpha.com/article/4921309-adobe-5-signs-ai-topping-saas-in-play?source=feed_all_articles",
+          "published": "2026-07-11T09:00:00+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Intel's Turnaround Is Accelerating (Rating Upgrade)",
+          "summary": "[topics: INTC, INTC:CA, ZINT:CA]",
+          "url": "https://seekingalpha.com/article/4921337-intels-turnaround-is-accelerating?source=feed_all_articles",
+          "published": "2026-07-11T08:58:11+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Lifetime Brands: Higher Base Effect Starting In 2H26",
+          "summary": "[topics: LCUT, Sorrento Research]",
+          "url": "https://seekingalpha.com/article/4921336-lifetime-brands-higher-base-effect-starting-in-2h26?source=feed_all_articles",
+          "published": "2026-07-11T08:48:11+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "The Small-Cap Rally Could Be Rolling Over, IWMI Isn't",
+          "summary": "[topics: IWMI, Jack Bowman]",
+          "url": "https://seekingalpha.com/article/4921335-the-small-cap-rally-could-be-rolling-over-iwmi-isnt?source=feed_all_articles",
+          "published": "2026-07-11T08:40:07+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "Gold Pullback: Why The Long-Term Investment Case Remains Intact",
+          "summary": "[topics: GLD, IAU, GLDM]",
+          "url": "https://seekingalpha.com/article/4921342-gold-pullback-long-term-investment-case-remains-intact?source=feed_all_articles",
+          "published": "2026-07-11T08:40:00+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "commodities"
+        },
+        {
+          "title": "SSR Mining's American Rebirth Unlocks Great Value",
+          "summary": "[topics: SSRM, SSRM:CA, Sidharth Kumar]",
+          "url": "https://seekingalpha.com/article/4921334-ssr-minings-american-rebirth-unlocks-great-value?source=feed_all_articles",
+          "published": "2026-07-11T08:35:32+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "markets"
+        },
+        {
+          "title": "IShares U.S. Insurance ETF: Separating Financial Sector Winners From Losers",
+          "summary": "[topics: IAK, David Trainer]",
+          "url": "https://seekingalpha.com/article/4921332-separating-financial-sector-winners-from-losers-ishares-us-insurance-etf?source=feed_all_articles",
+          "published": "2026-07-11T08:16:30+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
+          "source": "Seeking Alpha",
+          "category": "policy"
+        },
+        {
+          "title": "ManpowerGroup: Needs To Show The Rally Is Warranted",
+          "summary": "[topics: MAN, MarketGyrations]",
+          "url": "https://seekingalpha.com/article/4921330-manpowergoup-needs-to-show-the-rally-is-warranted?source=feed_all_articles",
+          "published": "2026-07-11T08:05:58+00:00",
+          "fetched_at": "2026-07-11T12:06:35.471785+00:00",
           "source": "Seeking Alpha",
           "category": "markets"
         }
@@ -521,11 +521,56 @@
       "source": "CoinDesk",
       "articles": [
         {
+          "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+          "summary": "[by Omkar Godbole]",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+          "published": "2026-07-11T02:30:00+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
+          "source": "CoinDesk",
+          "category": "crypto"
+        },
+        {
+          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+          "summary": "[by Sam Ewen]",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+          "published": "2026-07-10T21:26:55+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
+          "source": "CoinDesk",
+          "category": "crypto"
+        },
+        {
+          "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+          "summary": "[by Jesse Hamilton]",
+          "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+          "published": "2026-07-10T16:02:21+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
+          "source": "CoinDesk",
+          "category": "crypto"
+        },
+        {
+          "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+          "summary": "[by Olivier Acuna]",
+          "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+          "published": "2026-07-10T15:26:43+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
+          "source": "CoinDesk",
+          "category": "crypto"
+        },
+        {
+          "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+          "summary": "[by Ian Allison]",
+          "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
+          "published": "2026-07-10T12:29:08+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
+          "source": "CoinDesk",
+          "category": "crypto"
+        },
+        {
           "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
           "summary": "[by Olivier Acuna]",
           "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
           "published": "2026-07-10T11:41:47+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -534,7 +579,7 @@
           "summary": "[by Omkar Godbole]",
           "url": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
           "published": "2026-07-10T11:37:31+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -543,7 +588,7 @@
           "summary": "[by Omkar Godbole]",
           "url": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
           "published": "2026-07-10T10:37:44+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -552,7 +597,7 @@
           "summary": "[by Olivier Acuna]",
           "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
           "published": "2026-07-10T09:35:21+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -561,7 +606,7 @@
           "summary": "[by James Van Straten]",
           "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
           "published": "2026-07-10T09:16:52+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -570,7 +615,7 @@
           "summary": "[by Omkar Godbole]",
           "url": "https://www.coindesk.com/markets/2026/07/10/metaplanet-explores-bringing-bitcoin-backed-digital-credit-to-japan",
           "published": "2026-07-10T09:08:20+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -579,16 +624,16 @@
           "summary": "[by Omkar Godbole]",
           "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
           "published": "2026-07-10T06:49:13+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
         {
-          "title": "Live markets: Bitcoin tops $64,000 as selling pressure on Coinbase eases",
-          "summary": "[by James Van Straten]",
+          "title": "Live updates: Bitcoin rises to $64,000 as SK Hynix opens for trade after $26.5 billion IPO",
+          "summary": "[by Helene Braun]",
           "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
           "published": "2026-07-10T06:21:34+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -597,7 +642,7 @@
           "summary": "[by Shaurya Malwa]",
           "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
           "published": "2026-07-10T05:13:48+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -606,7 +651,7 @@
           "summary": "[by Omkar Godbole]",
           "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
           "published": "2026-07-10T04:34:06+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -615,7 +660,7 @@
           "summary": "[by Shaurya Malwa]",
           "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
           "published": "2026-07-10T03:57:58+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -624,7 +669,7 @@
           "summary": "[by Jesse Hamilton]",
           "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
           "published": "2026-07-09T22:19:54+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -633,7 +678,7 @@
           "summary": "[by Helene Braun]",
           "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
           "published": "2026-07-09T20:42:49+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -642,7 +687,7 @@
           "summary": "[by Jesse Hamilton]",
           "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
           "published": "2026-07-09T20:31:39+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "policy"
         },
@@ -651,7 +696,7 @@
           "summary": "[by Krisztian Sandor]",
           "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
           "published": "2026-07-09T20:28:51+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -660,7 +705,7 @@
           "summary": "[by Nikhilesh De]",
           "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
           "published": "2026-07-09T19:34:24+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -669,7 +714,7 @@
           "summary": "[by Omkar Godbole]",
           "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
           "published": "2026-07-09T18:13:04+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -678,7 +723,7 @@
           "summary": "[by Helene Braun]",
           "url": "https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues",
           "published": "2026-07-09T15:53:42+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -687,7 +732,7 @@
           "summary": "[by Margaux Nijkerk]",
           "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
           "published": "2026-07-09T14:58:55+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         },
@@ -696,52 +741,7 @@
           "summary": "[by Krisztian Sandor]",
           "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
           "published": "2026-07-09T13:01:38+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
-          "source": "CoinDesk",
-          "category": "crypto"
-        },
-        {
-          "title": "Age verification is the surveillance nobody voted for",
-          "summary": "[by Evin McMullen]",
-          "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
-          "published": "2026-07-09T13:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
-          "source": "CoinDesk",
-          "category": "crypto"
-        },
-        {
-          "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
-          "summary": "[by Francisco Rodrigues]",
-          "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
-          "published": "2026-07-09T12:00:00+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
-          "source": "CoinDesk",
-          "category": "crypto"
-        },
-        {
-          "title": "Pricing houses in bitcoin exposes dollar's loss of value",
-          "summary": "[by Omkar Godbole]",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
-          "published": "2026-07-09T11:27:10+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
-          "source": "CoinDesk",
-          "category": "crypto"
-        },
-        {
-          "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-          "summary": "[by Olivier Acuna]",
-          "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
-          "published": "2026-07-09T11:08:37+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
-          "source": "CoinDesk",
-          "category": "crypto"
-        },
-        {
-          "title": "Latin America\u2019s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-          "summary": "[by Francisco Rodrigues]",
-          "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-          "published": "2026-07-09T10:55:37+00:00",
-          "fetched_at": "2026-07-10T12:06:32.784949+00:00",
+          "fetched_at": "2026-07-11T12:06:36.064160+00:00",
           "source": "CoinDesk",
           "category": "crypto"
         }
@@ -753,11 +753,155 @@
       "source": "CoinTelegraph",
       "articles": [
         {
+          "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bonzo Lend loses $9M in oracle exploit on Hedera\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-image-for-evergreenguide-about-iota-price-prediction-1.jpg\" /></p><p>An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.</p>",
+          "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-11T11:56:54+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bull-or-bear-how-sec-actions-correlate-with-market-prices2-1.jpg\" /></p><p>Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.</p>",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-11T11:21:07+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dollar stablecoins could improve FX access but amplify currency runs: IMF paper\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-governments-and-central-banks-pay-very-close-attention-to-stablecoins.jpg\" /></p><p>An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate",
+          "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-11T09:14:12+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood says its AI agent feature will ‘soon’ be assisting crypto traders\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/robinhood-us.jpg\" /></p><p>More than 70,000 agentic accounts have already been created by Robinhood equities and options traders since late May, when Robinhood launched a beta version of the product. </p>",
+          "url": "https://cointelegraph.com/news/robinhood-says-ai-agents-will-be-trading-for-crypto-users-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-11T04:12:30+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-an-exit-scam-doj-1.jpg\" /></p><p>Matthew Goettsche was set to face trial in October for conspiracy to commit wire fraud and selling unregistered securities.</p>",
+          "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-11T01:30:31+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "earnings"
+        },
+        {
+          "title": "Kraken to overhaul app with AI investing assistant",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken to overhaul app with AI investing assistant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-2.png\" /></p><p>The redesigned app will use AI to recommend trades and tailor investing tools around users' financial goals as Kraken expands into broader financial services.</p>",
+          "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T21:07:39+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-hearing-on-23rd.jpg\" /></p><p>Five senators called for committee hearings to investigate US President Donald Trump’s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities.</p>",
+          "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T21:03:57+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US CBDC ban to go into effect without Trump signoff on housing bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/top-10-congresspeople-involved-in-crypto-cbdc.png\" /></p><p>Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday.</p>",
+          "url": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T19:33:03+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "New Hampshire council votes down $100M Bitcoin bonds",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Hampshire council votes down $100M Bitcoin bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-replace-bonds-in-institutional-portfolios.png\" /></p><p>State representative Keith Ammon said the New Hampshire executive council's vote against Bitcoin-backed bonds was “short-sighted,” urging the body to reconsider the measure.</p>",
+          "url": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T17:23:10+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Backpack joins race for 24/7 stock markets with tokenized equities\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sponsor-screen-traid2.png\" /></p><p>The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading.</p>",
+          "url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T16:36:36+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Crypto Biz: How stablecoins found their niche",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: How stablecoins found their niche\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference-1.jpg\" /></p><p>Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.</p>",
+          "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T15:37:37+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin whales sent BTC price to $64K as Coinbase Premium broke key level: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-experts-discuss-what-the-current-number-of-whales-interest-in-futures-means-for-the-market1.jpg\" /></p><p>Bitcoin price gains came thanks to US whales propeling the Coinbase Premium above a key trend line, new analysis from CryptoQuant reported. </p>",
+          "url": "https://cointelegraph.com/markets/bitcoin-whales-sent-btc-price-to-64k-as-coinbase-premium-broke-key-level-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T14:59:30+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/09marcandreessen.jpg\" /></p><p>The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review.</p>",
+          "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T14:12:53+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "policy"
+        },
+        {
+          "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA licensing only the beginning as crypto custodians face scrutiny\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cia2.jpg\" /></p><p>A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.</p>",
+          "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T13:54:50+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will the crypto lobby's $189M campaign get CLARITY over the line?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-lobby.jpg\" /></p><p>As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story.</p>",
+          "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T13:30:00+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
+          "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US charges prisoner over alleged laundering of seized Kraken crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-an-exit-scam-doj.jpg\" /></p><p>US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 in forfeited crypto from a Kraken account.</p>",
+          "url": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-07-10T12:27:40+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
+          "source": "CoinTelegraph",
+          "category": "crypto"
+        },
+        {
           "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street banks tighten prediction market rules for staff as insider fears spread\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-evergreen-guide-about-wall-street-pepe-general-information.jpg\" /></p><p>Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting employee prediction market trades as insider trading fears spread across Polymarket and Kalshi.</p>",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street banks tighten prediction market rules for staff as insider fears spread\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/with-monopoly-character.jpg\" /></p><p>Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting employee prediction market trades as insider trading fears spread across Polymarket and Kalshi.</p>",
           "url": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T11:51:02+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "commodities"
         },
@@ -766,7 +910,7 @@
           "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC issuer Circle wins final approval for US national trust bank charter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-circle-wants-to-launch-americas-first-digital-currency-bank-heres-what-it-could-offer-1.jpg\" /></p><p>Circle announces it received final OCC approval for a national trust bank that will initially serve the company and affiliates, with possible future custody services f",
           "url": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T11:37:25+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
@@ -775,7 +919,7 @@
           "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japanese lender launches Bitcoin-backed loans of up to $6.2M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/loan-cash-bitcoin-yen.jpg\" /></p><p>CRYL is offering Bitcoin-backed loans to individuals and businesses as Japanese firms explore broader uses for BTC in lending and credit markets.</p>",
           "url": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T11:24:06+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
@@ -784,7 +928,7 @@
           "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TeraWulf eyes $3.5B debt raise for Anthropic-linked data center: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-decentralized-web-hosting-and-how-does-it-work22.jpg\" /></p><p>Bitcoin miner TeraWulf is reportedly seeking $3.5 billion in debt financing led by Morgan Stanley for its Kentucky data center campus leased by AI company Anthropic.</p>",
           "url": "https://cointelegraph.com/news/terawulf-3-5-billion-debt-raise-anthropic-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T10:14:51+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
@@ -793,61 +937,61 @@
           "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet explores Bitcoin-backed digital credit with JPYC in Japan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-sell-bitcoins2.jpg\" /></p><p>Metaplanet said it is studying Bitcoin-backed digital credit products in Japan with JPYC and Progmat, but no product has been launched.</p>",
           "url": "https://cointelegraph.com/news/metaplanet-studies-bitcoin-digital-bonds-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T09:58:10+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
         {
-          "title": "Bitcoin returns to $64.3K with new three-week BTC price highs imminent",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin returns to $64.3K with new three-week BTC price highs imminent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/behind-bitcoins-1k-bounce-1.jpg\" /></p><p>Bitcoin bulls faced \"crucial resistance\" at $65,000 next as BTC price action diverged from oil and US dollar strength.</p>",
+          "title": "Bitcoin returns to $64.3K with new 3-week BTC price highs imminent",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin returns to $64.3K with new 3-week BTC price highs imminent\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/behind-bitcoins-1k-bounce-1.jpg\" /></p><p>Bitcoin bulls faced \"crucial resistance\" at $65,000 next as BTC price action diverged from oil and US dollar strength.</p>",
           "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T09:32:23+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
         {
-          "title": "EU parliament passes \u2018chat control,\u2019 allowing private chat scans until 2028",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU parliament passes \u2018chat control,\u2019 allowing private chat scans until 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-setup-matters-for-cryptocurrency-privacy2.jpg\" /></p><p>EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.</p>",
+          "title": "EU parliament passes ‘chat control,’ allowing private chat scans until 2028",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU parliament passes ‘chat control,’ allowing private chat scans until 2028\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-setup-matters-for-cryptocurrency-privacy2.jpg\" /></p><p>EU lawmakers have again allowed tech firms to scan chats for abuse material, but exempted end-to-end encrypted messages.</p>",
           "url": "https://cointelegraph.com/news/eu-parliament-passes-chat-control-allowing-private-chat-scans-to-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T06:05:38+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
         {
           "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood Chain sees over $70M in ETH bridged during first week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-trading-platform-l2.jpg\" /></p><p>Robinhood\u2019s choice to use Ethereum further solidifies its position as the \u201cultimate settlement layer and liquidity foundation for tokenized assets,\u201d said HashKey Group\u2019s Tim Sun. </p>",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood Chain sees over $70M in ETH bridged during first week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-robin-hood-join-trading-platform-l2.jpg\" /></p><p>Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun. </p>",
           "url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T05:44:20+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
         {
           "title": "Zcash targets July 28 launch for Ironwood network upgrade",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash targets July 28 launch for Ironwood network upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/zcash.jpg\" /></p><p>Zcash\u2019s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.</p>",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash targets July 28 launch for Ironwood network upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/zcash.jpg\" /></p><p>Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.</p>",
           "url": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T04:25:27+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
         {
-          "title": "Hackers tried to backdoor Injective npm package to steal wallet keys",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hackers tried to backdoor Injective npm package to steal wallet keys \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet.jpg\" /></p><p>The incident is significant for developers and applications that handle Injective wallet workflows, Socket researchers said. </p>",
+          "title": "Hackers tried to backdoor Injective NPM package to steal wallet keys",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hackers tried to backdoor Injective NPM package to steal wallet keys \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet.jpg\" /></p><p>Injective said the security vulnerability was patched up immediately and claims there were no downloads of the malicious package. </p>",
           "url": "https://cointelegraph.com/news/hackers-compromise-injective-npm-package-with-malware-to-steal-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T03:07:47+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
-          "category": "crypto"
+          "category": "policy"
         },
         {
-          "title": "DeFi may be \u2018quietly re-rating\u2019 given outperformance against Bitcoin: Bitwise",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DeFi may be \u2018quietly re-rating\u2019 given outperformance against Bitcoin: Bitwise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/defi-adoption-survey-by-ct-consulting1.jpg\" /></p><p>\u201cDeFi usually swings much harder than Bitcoin, so holding up this well is unusual,\u201d says Bitwise, as DeFi tokens have outperformed Bitcoin.</p>",
+          "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/defi-adoption-survey-by-ct-consulting1.jpg\" /></p><p>“DeFi usually swings much harder than Bitcoin, so holding up this well is unusual,” says Bitwise, as DeFi tokens have outperformed Bitcoin.</p>",
           "url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-10T02:30:44+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
@@ -856,7 +1000,7 @@
           "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase chief legal officer to transition to advisory role on July 31\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-vs-us-court-follow-up.jpg\" /></p><p>The soon-to-be former chief legal officer did not announce the details of his next move but said that he would continue working with the Board of Coinbase National Trust Company.</p>",
           "url": "https://cointelegraph.com/news/coinbase-chief-legal-officer-stepping-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-09T21:35:12+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         },
@@ -865,166 +1009,13 @@
           "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitdeer stock jumps 14% as company expands US mining hardware production\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-114514-bitdeer-losses-widen-q2-after-one-time-33-m-listing-fee-shares-up-44.jpg\" /></p><p>Bitdeer shares rallied after the company announced a $36 million Nevada manufacturing facility that will produce its SEALMINER Bitcoin mining machines and expand its ha",
           "url": "https://cointelegraph.com/news/bitdeer-stock-jumps-14-bitcoin-mining-hardware-maker-expands-us-manufacturing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "published": "2026-07-09T20:19:15+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Here\u2019s what happened in crypto today",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>",
-          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T20:17:33+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "White House says it received no Democratic response related to SEC, CFTC vacancies",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House says it received no Democratic response related to SEC, CFTC vacancies\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-cftc.jpg\" /></p><p>Both US financial regulators are understaffed at the leadership level and lacking Democratic commissioners, with no announcement from President Donald Trump on filling the roles.</p>",
-          "url": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T19:48:37+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-cftc.jpg\" /></p><p>The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries.</p>",
-          "url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T19:36:52+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai.jpg\" /></p><p>As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbrid",
-          "url": "https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T17:09:01+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-uks-digital-gilt-instrument-digit.jpg\" /></p><p>Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage.<",
-          "url": "https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T16:42:18+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Can Bitcoin hold $62K ahead of Friday\u2019s $1.4 billion options expiry?",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Can Bitcoin hold $62K ahead of Friday\u2019s $1.4 billion options expiry?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-options-expiry-explained-what-it-means-for-traders.jpg\" /></p><p>US 10-year Treasury yields nears dangerous level while major Deribit Bitcoin options expiry approaches. </p>",
-          "url": "https://cointelegraph.com/markets/can-bitcoin-hold-62k-ahead-of-fridays-14-billion-options-expiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T16:31:10+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MARA shares surge after 2 GW Texas infrastructure deal expands AI ambitions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining-ai.png\" /></p><p>The Bitcoin miner's shares climbed about 15% after announcing it's acquiring a Texas site with up to 2 GW of power capacity to expand its AI and digital infrastructure strategy.</p>",
-          "url": "https://cointelegraph.com/news/mara-shares-jump-10-after-2-gw-texas-infrastructure-deal-expands-ai-ambitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T16:26:33+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders reveal key levels as BTC price passes $63K after Trump Iran 'deal' comments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-79195-iran-to-allow-crypto-payments-for-international-trade-report.jpg\" /></p><p>Bitcoin gained new upside targets for the daily close and beyond after US president Donald Trump said that Iran \"wants to make a deal.\"</p>",
-          "url": "https://cointelegraph.com/markets/bitcoin-traders-reveal-key-levels-as-btc-price-passes-63k-after-trump-iran-deal-comments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T15:56:59+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Bitcoin\u2019s quantum dilemma: Bigger blocks or STARK proofs?",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin\u2019s quantum dilemma: Bigger blocks or STARK proofs? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-zk-starks-can-solve-bitcoins-quantum-problems-copy-1.jpg\" /></p><p>Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.</p>",
-          "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T13:30:00+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong regulator orders new anti-phishing measures for crypto platforms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure.jpg\" /></p><p>Hong Kong\u2019s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.</p>",
-          "url": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T12:53:44+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Sony Bank gets US regulator nod to issue stablecoins",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sony Bank gets US regulator nod to issue stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/digital-bank-1.jpg\" /></p><p>Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.</p>",
-          "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T11:18:41+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Interpol operation exposes $122M crypto wallet tied to romance scam laundering\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-anti-pig-butchering-policy-in-crypto-cambodia.jpg\" /></p><p>Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.</p>",
-          "url": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T11:18:21+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut says USDT delisting is limited to EEA, Switzerland\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-dash-aims-to-correct-its-misclassification-as-a-privacy-coin-following-shapeshift-delisting1.jpg\" /></p><p>Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.</p>",
-          "url": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T10:23:24+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "ipo"
-        },
-        {
-          "title": "Hyperliquid shows how onchain perps could challenge Wall Street: Pantera",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid shows how onchain perps could challenge Wall Street: Pantera\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid.jpg\" /></p><p>Perpetual futures and Hyperliquid\u2019s blockchain infrastructure are expanding into traditional asset classes with around-the-clock trading, according to Pantera Capital.</p>",
-          "url": "https://cointelegraph.com/news/hyperliquid-onchain-perps-absorbing-tradfi-markets-pantera-capital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T10:02:32+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs end 'most overwhelming' $2.7B sell-off amid new $85M net outflow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/photo5366486023912757477y.jpg\" /></p><p>Bitcoin spot ETFs posted a fresh net outflow on Wednesday as analysis said that their \"most overwhelming\" outflow streak had ended without a clear demand recovery.</p>",
-          "url": "https://cointelegraph.com/markets/bitcoin-etfs-end-most-overwhelming-sell-off-amid-new-85m-net-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T09:58:07+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.jpg\" /></p><p>The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea\u2019s digital ass",
-          "url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T09:19:38+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
-          "source": "CoinTelegraph",
-          "category": "crypto"
-        },
-        {
-          "title": "Swift launches blockchain ledger with 17-bank tokenized deposit pilot",
-          "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swift launches blockchain ledger with 17-bank tokenized deposit pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-time-to-challenge-swift.jpg\" /></p><p>Swift launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.</p>",
-          "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "published": "2026-07-09T08:51:48+00:00",
-          "fetched_at": "2026-07-10T12:06:33.342733+00:00",
+          "fetched_at": "2026-07-11T12:06:36.617641+00:00",
           "source": "CoinTelegraph",
           "category": "crypto"
         }
       ],
       "error": null,
-      "article_count": 30
+      "article_count": 29
     }
   ]
 }
