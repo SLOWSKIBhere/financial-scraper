@@ -105,3 +105,16 @@ All automatable maintenance completed successfully. 7 repos now fully documented
 - ⚠️ workout-app: 85/100 (missing LICENSE — now added)
 
 **GitHub Status:** All Actions passing. Zero failures. Dashboard live.
+
+## [2026-07-14 00:21 UTC] — workout-app Python/Swift bug fix
+
+*Action:* Autonomous fix (standing approval — SAT prep period)
+*Repo:* SLOWSKIBhere/workout-app
+*Commit:* 1360bd74c9
+*File:* services/api/app/services/coach_memory_service.py
+
+Bug: `_find_skipped_exercises` read `segment.get("exercise_id")` — wrong field per TimelineSegment contract (camelCase "exerciseId").
+Fix: Fallback chain `exerciseId → exercise_id → asset_id` — now matches iOS Swift CoachMemoryEngine.
+Impact: Python + iOS now agree on disliked exercise detection.
+Source: Audit of ios_engine_context.txt upload.
+
