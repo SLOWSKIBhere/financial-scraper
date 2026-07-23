@@ -30,6 +30,7 @@ import os
 import time
 import hashlib
 import argparse
+import re
 from datetime import datetime, timezone
 from typing import List, Optional, Tuple
 
@@ -123,7 +124,10 @@ def classify_category(title: str, summary: str, default: str) -> str:
     """
     text = (title + " " + (summary or "")).lower()
     for category, keywords in CATEGORY_KEYWORDS.items():
-        if any(kw in text for kw in keywords):
+        if any(
+            re.search(rf"(?<!\w){re.escape(keyword)}(?!\w)", text)
+            for keyword in keywords
+        ):
             return category
     return default
 
@@ -185,50 +189,49 @@ class CommunityFeedsScraper:
 
             feed = feedparser.parse(response.text)
             articles: List[NewsArticle] = []
+            source_seen: set[str] = set()
             fetched_at = datetime.now(timezone.utc).isoformat()
 
             for entry in feed.entries[:50]:  # cap per source
-                article_url = getattr(entry, "link", "")
-                if not article_url or not article_url.startswith("https://"):
-                    continue
-
-                # Dedup check
-                uhash = url_hash(article_url)
-                if uhash in self.seen_urls:
-                    continue
-                self.seen_urls.add(uhash)
-
-                title = getattr(entry, "title", "").replace("\n", " ").replace("\r", " ").strip()
-                # Multi-step summary extraction:
-                # 1. summary/description field (strip empty strings — WSJ/CoinDesk send "")
-                raw_summary = getattr(entry, "summary", None) or getattr(entry, "description", None)
-                summary = raw_summary.strip() if raw_summary and raw_summary.strip() else None
-                # 2. content blocks (Atom feeds — check value is non-empty)
-                if not summary and hasattr(entry, "content") and entry.content:
-                    for block in entry.content:
-                        val = block.get("value", "").strip() if isinstance(block, dict) else ""
-                        if val:
-                            summary = val
-                            break
-                # 3. Author as context hint (Seeking Alpha / CoinDesk have author field)
-                if not summary:
-                    author = getattr(entry, "author", None)
-                    if author and author.strip():
-                        summary = f"[by {author.strip()}]"
-                # 4. Tags as context hint (Seeking Alpha has rich tags)
-                if not summary:
-                    tags = getattr(entry, "tags", [])
-                    if tags:
-                        tag_terms = [t.get("term","") for t in tags[:3] if isinstance(t, dict) and t.get("term")]
-                        if tag_terms:
-                            summary = f"[topics: {', '.join(tag_terms)}]"
-                if summary:
-                    summary = summary[:500].replace("\n", " ").strip()
-
-                category = classify_category(title, summary or "", default_category)
-
                 try:
-                    articles.append(NewsArticle(
+                    article_url = getattr(entry, "link", "")
+                    if not article_url or not article_url.startswith("https://"):
+                        continue
+
+                    # Dedup check; only commit this URL after the article validates.
+                    uhash = url_hash(article_url)
+                    if uhash in self.seen_urls or uhash in source_seen:
+                        continue
+
+                    title = getattr(entry, "title", "").replace("\n", " ").replace("\r", " ").strip()
+                    # Multi-step summary extraction:
+                    # 1. summary/description field (strip empty strings — WSJ/CoinDesk send "")
+                    raw_summary = getattr(entry, "summary", None) or getattr(entry, "description", None)
+                    summary = raw_summary.strip() if raw_summary and raw_summary.strip() else None
+                    # 2. content blocks (Atom feeds — check value is non-empty)
+                    if not summary and hasattr(entry, "content") and entry.content:
+                        for block in entry.content:
+                            val = block.get("value", "").strip() if isinstance(block, dict) else ""
+                            if val:
+                                summary = val
+                                break
+                    # 3. Author as context hint (Seeking Alpha / CoinDesk have author field)
+                    if not summary:
+                        author = getattr(entry, "author", None)
+                        if author and author.strip():
+                            summary = f"[by {author.strip()}]"
+                    # 4. Tags as context hint (Seeking Alpha has rich tags)
+                    if not summary:
+                        tags = getattr(entry, "tags", [])
+                        if tags:
+                            tag_terms = [t.get("term","") for t in tags[:3] if isinstance(t, dict) and t.get("term")]
+                            if tag_terms:
+                                summary = f"[topics: {', '.join(tag_terms)}]"
+                    if summary:
+                        summary = summary[:500].replace("\n", " ").strip()
+
+                    category = classify_category(title, summary or "", default_category)
+                    article = NewsArticle(
                         title=title,
                         summary=summary,
                         url=article_url,
@@ -236,11 +239,18 @@ class CommunityFeedsScraper:
                         fetched_at=fetched_at,
                         source=name,
                         category=category,
-                    ))
+                    )
                 except ValidationError as ve:
                     logger.warning(f"Validation error on {name}: {ve}")
                     continue
+                except Exception as e:
+                    logger.warning(f"Skipping malformed article from {name}: {e}")
+                    continue
 
+                articles.append(article)
+                source_seen.add(uhash)
+
+            self.seen_urls.update(source_seen)
             logger.info(f"{name}: {len(articles)} new articles")
             return SourceResult(source=name, articles=articles, article_count=len(articles))
 
