@@ -1,6 +1,6 @@
 """
 notion_sync_sandbox.py
-Sandbox-native sync — reads NOTION_ACCESS_TOKEN from environment (no .env needed).
+Sandbox-native sync — reads Notion credentials from environment (no .env needed).
 Handles both RSS (financial_report.json) and community (community_report.json).
 Deduplicates by URL before pushing.
 """
@@ -8,8 +8,16 @@ Deduplicates by URL before pushing.
 import json, os, re, time, requests
 from datetime import datetime
 
-TOKEN = os.environ.get('NOTION_ACCESS_TOKEN', '')
-DB_ID = "38b2959f-6c14-819f-bff0-d31ea03e66ae"
+REQUEST_TIMEOUT_SECONDS = 15
+
+
+def get_notion_token():
+    """Use the canonical token name while preserving older deployments."""
+    return os.environ.get("NOTION_TOKEN") or os.environ.get("NOTION_ACCESS_TOKEN", "")
+
+
+TOKEN = get_notion_token()
+DB_ID = os.environ.get("NOTION_DB_ID", "38b2959f-6c14-819f-bff0-d31ea03e66ae")
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Notion-Version": "2022-06-28",
@@ -44,7 +52,8 @@ def get_existing_urls():
         body = {"page_size": 100}
         if cursor: body["start_cursor"] = cursor
         r = requests.post(f"https://api.notion.com/v1/databases/{DB_ID}/query",
-                          headers=HEADERS, json=body)
+                          headers=HEADERS, json=body,
+                          timeout=REQUEST_TIMEOUT_SECONDS)
         if not r.ok:
             print(f"  Query error: {r.status_code}")
             break
@@ -81,7 +90,9 @@ def push_article(a, feed_type, existing_urls):
             props["Published date"] = {"date": {"start": dt.strftime("%Y-%m-%d")}}
 
     r = requests.post("https://api.notion.com/v1/pages",
-                      headers=HEADERS, json={"parent": {"database_id": DB_ID}, "properties": props})
+                      headers=HEADERS,
+                      json={"parent": {"database_id": DB_ID}, "properties": props},
+                      timeout=REQUEST_TIMEOUT_SECONDS)
     if r.ok:
         existing_urls.add(url)
         return 'pushed'
