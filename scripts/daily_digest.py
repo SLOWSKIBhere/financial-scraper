@@ -16,8 +16,13 @@ Signal scoring logic:
 import os, re, requests
 from datetime import datetime, timezone, timedelta
 
-TOKEN    = os.environ.get("NOTION_ACCESS_TOKEN", "")
-DB_ID    = "38b2959f-6c14-819f-bff0-d31ea03e66ae"
+def get_notion_token() -> str:
+    """Use the canonical token name while preserving older deployments."""
+    return os.environ.get("NOTION_TOKEN") or os.environ.get("NOTION_ACCESS_TOKEN", "")
+
+
+TOKEN    = get_notion_token()
+DB_ID    = os.environ.get("NOTION_DB_ID", "38b2959f-6c14-819f-bff0-d31ea03e66ae")
 HEADERS  = {
     "Authorization": f"Bearer {TOKEN}",
     "Notion-Version": "2022-06-28",
@@ -38,7 +43,7 @@ def score_article(title: str, summary: str, category: str, source: str) -> int:
     if TICKER.search(text):
         score += 3
     score += len(HIGH_IMPACT.findall(text)) * 2
-    score = min(score, 6)           # cap keyword contribution
+    score = min(score, 7)           # cap ticker + high-impact contribution
     if category == "earnings":
         score += 2
     elif category in ("policy", "crypto"):
@@ -47,7 +52,7 @@ def score_article(title: str, summary: str, category: str, source: str) -> int:
         score += 1
     if source.lower() in ("unknown", ""):
         score -= 1
-    return max(score, 0)
+    return min(max(score, 0), 10)
 
 
 def fetch_recent_articles(hours: int = 24) -> list:
