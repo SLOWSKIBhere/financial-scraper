@@ -22,6 +22,11 @@ config.json          — Source configuration
 ## Categories
 crypto · macro · earnings · policy · markets · commodities
 
+## Configuration
+Set `NOTION_TOKEN` and `NOTION_DB_ID` in the runtime environment or a local
+`.env` file. Existing deployments using `NOTION_ACCESS_TOKEN` remain supported,
+but `NOTION_TOKEN` is the canonical name.
+
 ## Automations
 - 12:05 PM ET — Community feeds run + Notion sync
 - 4:00 PM ET  — RSS scraper run + Notion sync
