@@ -308,7 +308,8 @@ class ResilientScraper:
         logger.info("Starting autonomous financial news collection pipeline...")
 
         limits = httpx.Limits(max_keepalive_connections=5, max_connections=10)
-        async with httpx.AsyncClient(limits=limits, verify=False) as client:
+        # Keep certificate verification enabled (httpx's secure default).
+        async with httpx.AsyncClient(limits=limits) as client:
             tasks = [self.scrape_source(client, src) for src in self.sources]
             results = await asyncio.gather(*tasks)
 
@@ -349,4 +350,3 @@ if __name__ == "__main__":
     loop_output = asyncio.run(ResilientScraper().run_pipeline())
     print("\n--- PIPELINE EXECUTION OUTPUT ---\n")
     print(json.dumps(loop_output, indent=2))
-
