@@ -26,27 +26,28 @@ except ImportError:
 
 # ── env ──────────────────────────────────────────────────────────────────────
 
+REQUEST_TIMEOUT_SECONDS = 15
+
+
+def get_notion_token():
+    """Use the canonical token name while preserving older deployments."""
+    return os.getenv("NOTION_TOKEN") or os.getenv("NOTION_ACCESS_TOKEN")
+
+
 def load_env():
     env_path = Path(__file__).parent.parent / ".env"
-    if not env_path.exists():
-        print("ERROR: .env file not found.")
-        print("\nCreate this file:")
-        print(f"  {env_path}")
-        print("\nWith this content:")
-        print("  NOTION_TOKEN=secret_...")
-        print("  NOTION_DB_ID=38b2959f-6c14-819f-bff0-d31ea03e66ae")
-        print("\nThen run: python scripts/sync_to_notion.py")
-        sys.exit(1)
+    if env_path.exists():
+        load_dotenv(env_path)
 
-    load_dotenv(env_path)
-    token = os.getenv("NOTION_TOKEN")
+    token = get_notion_token()
     db_id = os.getenv("NOTION_DB_ID")
 
     if not token or not db_id:
-        print("ERROR: NOTION_TOKEN or NOTION_DB_ID missing in .env")
-        print("\nYour .env should contain:")
+        print("ERROR: Notion credentials are missing.")
+        print("\nSet environment variables or add them to .env:")
         print("  NOTION_TOKEN=secret_...")
         print("  NOTION_DB_ID=38b2959f-6c14-819f-bff0-d31ea03e66ae")
+        print("\nNOTION_ACCESS_TOKEN remains supported as a legacy token name.")
         sys.exit(1)
 
     return token, db_id
@@ -62,7 +63,13 @@ def notion_request(method, endpoint, token, payload=None, retries=3):
         "Content-Type": "application/json",
     }
     for attempt in range(retries):
-        resp = requests.request(method, url, headers=headers, json=payload)
+        resp = requests.request(
+            method,
+            url,
+            headers=headers,
+            json=payload,
+            timeout=REQUEST_TIMEOUT_SECONDS,
+        )
         if resp.status_code == 429:
             wait = int(resp.headers.get("Retry-After", 2))
             print(f"  Rate limited — waiting {wait}s...")
