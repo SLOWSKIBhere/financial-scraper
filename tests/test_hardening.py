@@ -75,6 +75,12 @@ class HardeningTests(unittest.TestCase):
             clear=True,
         ):
             self.assertEqual(module.get_notion_token(), "legacy")
+        with patch.dict(
+            os.environ,
+            {"NOTION_API_KEY": "older-legacy"},
+            clear=True,
+        ):
+            self.assertEqual(module.get_notion_token(), "older-legacy")
 
     def test_local_sync_sets_request_timeout(self):
         fake_requests = FakeRequests()

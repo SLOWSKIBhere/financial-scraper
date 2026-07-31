@@ -5,7 +5,7 @@ Handles both RSS (financial_report.json) and community (community_report.json).
 Deduplicates by URL before pushing.
 """
 
-import json, os, re, time, requests
+import json, os, re, sys, time, requests
 from datetime import datetime
 
 REQUEST_TIMEOUT_SECONDS = 15
@@ -13,7 +13,11 @@ REQUEST_TIMEOUT_SECONDS = 15
 
 def get_notion_token():
     """Use the canonical token name while preserving older deployments."""
-    return os.environ.get("NOTION_TOKEN") or os.environ.get("NOTION_ACCESS_TOKEN", "")
+    return (
+        os.environ.get("NOTION_TOKEN")
+        or os.environ.get("NOTION_ACCESS_TOKEN")
+        or os.environ.get("NOTION_API_KEY", "")
+    )
 
 
 TOKEN = get_notion_token()
@@ -129,15 +133,7 @@ def sync(report_path, feed_type, existing_urls):
     return pushed, skipped, errors
 
 if __name__ == '__main__':
-    print("Fetching existing Notion URLs...")
-    existing = get_existing_urls()
-    print(f"Existing: {len(existing)}")
+    # The old sandbox-specific /tmp paths and fail-open behavior are retired.
+    from notion_sync import main as reliable_main
 
-    r1p, r1s, r1e = sync('/tmp/fscraper/financial_report.json', 'RSS', existing)
-    print(f"RSS: {r1p} pushed | {r1s} skipped | {r1e} errors")
-
-    r2p, r2s, r2e = sync('/tmp/fscraper/community_report.json', 'Community', existing)
-    print(f"Community: {r2p} pushed | {r2s} skipped | {r2e} errors")
-
-    total = r1p + r2p
-    print(f"\nTotal pushed: {total} | Total in Notion: ~{len(existing)}")
+    sys.exit(reliable_main())

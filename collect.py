@@ -4,6 +4,7 @@ import logging
 import os
 import random
 import re
+import sys
 import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -39,6 +40,7 @@ class NewsArticle(BaseModel):
     published: Optional[str] = Field(default=None, description="ISO 8601 formatted datetime string, or null if unknown")
     fetched_at: str = Field(..., description="ISO 8601 timestamp when the article was collected")
     source: str = Field(..., min_length=1, description="The name of the source website")
+    category: str = Field(default="markets", description="Normalized article category")
 
 class SourceResult(BaseModel):
     source: str
@@ -46,7 +48,39 @@ class SourceResult(BaseModel):
 
 class FinalOutput(BaseModel):
     results: List[SourceResult]
-    errors: List[str] = []
+    errors: List[str] = Field(default_factory=list)
+
+
+CATEGORY_KEYWORDS = {
+    "crypto": ("bitcoin", "ethereum", "crypto", "blockchain", "defi", "btc", "eth"),
+    "earnings": ("earnings", "revenue", "profit", "eps", "quarterly", "guidance"),
+    "policy": ("fed", "federal reserve", "interest rate", "inflation", "tariff", "regulation"),
+    "commodities": ("oil", "gold", "silver", "commodity", "crude", "natural gas"),
+    "macro": ("gdp", "unemployment", "jobs report", "economy", "recession", "trade deficit"),
+}
+
+
+def classify_category(title: str, summary: Optional[str]) -> str:
+    """Classify RSS articles with boundary-aware keyword matching."""
+    text = f"{title} {summary or ''}".lower()
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(re.search(rf"(?<!\w){re.escape(word)}(?!\w)", text) for word in keywords):
+            return category
+    return "markets"
+
+
+def atomic_write_text(path: str, content: str) -> None:
+    """Replace an output only after its complete content is on disk."""
+    temp_path = f"{path}.tmp"
+    try:
+        with open(temp_path, "w", encoding="utf-8") as handle:
+            handle.write(content)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp_path, path)
+    finally:
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
 
 # List of common realistic User-Agents to prevent bot detection
 USER_AGENTS = [
@@ -215,6 +249,7 @@ class ResilientScraper:
                     "published": published,
                     "fetched_at": fetched_at,
                     "source": source_name,
+                    "category": classify_category(title, summary),
                 })
 
         if not articles and parsed.feed:
@@ -297,8 +332,7 @@ class ResilientScraper:
             "global_errors": errors_list,
         }
         try:
-            with open(METRICS_FILE_PATH, "w", encoding="utf-8") as f:
-                json.dump(payload, f, indent=2)
+            atomic_write_text(METRICS_FILE_PATH, json.dumps(payload, indent=2))
             logger.info(f"Collection metrics saved to {METRICS_FILE_PATH}.")
         except Exception as e:
             logger.critical(f"Failed to write metrics file: {e}")
@@ -317,6 +351,7 @@ class ResilientScraper:
         errors_list = []
         self.source_metrics = []
         total_articles = 0
+        seen_urls: set[str] = set()
 
         for name, source_res, err, metrics in results:
             self.source_metrics.append(metrics)
@@ -324,18 +359,44 @@ class ResilientScraper:
                 logger.error(err)
                 errors_list.append(err)
             elif source_res:
+                unique_articles = []
+                for article in source_res.articles:
+                    canonical_url = article.url.split("#", 1)[0].strip()
+                    if canonical_url in seen_urls:
+                        continue
+                    seen_urls.add(canonical_url)
+                    article.url = canonical_url
+                    unique_articles.append(article)
+                source_res.articles = unique_articles
                 final_results.append(source_res)
-                total_articles += len(source_res.articles)
+                total_articles += len(unique_articles)
+
+        minimum_sources = int(os.getenv("MIN_RSS_SOURCES", "3"))
+        minimum_articles = int(os.getenv("MIN_RSS_ARTICLES", "25"))
+        healthy = len(final_results) >= minimum_sources and total_articles >= minimum_articles
+        if not healthy:
+            health_error = (
+                "RSS health check failed: "
+                f"{len(final_results)} healthy sources/{minimum_sources} required, "
+                f"{total_articles} unique articles/{minimum_articles} required"
+            )
+            logger.critical(health_error)
+            errors_list.append(health_error)
+
+        self.last_run_healthy = healthy
 
         output_data = FinalOutput(results=final_results, errors=errors_list)
 
-        try:
-            with open(OUTPUT_FILE_PATH, "w", encoding="utf-8") as f:
-                f.write(output_data.model_dump_json(indent=2))
-            logger.info(f"Successfully compiled all facts. Results saved to {OUTPUT_FILE_PATH}.")
-        except Exception as e:
-            logger.critical(f"Failed to write final output to file: {e}")
-            errors_list.append(f"Write failure: {str(e)}")
+        if healthy:
+            try:
+                atomic_write_text(OUTPUT_FILE_PATH, output_data.model_dump_json(indent=2))
+                logger.info(f"Successfully compiled all facts. Results saved to {OUTPUT_FILE_PATH}.")
+            except Exception as e:
+                logger.critical(f"Failed to write final output to file: {e}")
+                errors_list.append(f"Write failure: {str(e)}")
+                self.last_run_healthy = False
+        else:
+            logger.error("Preserving the previous financial report because this run was unhealthy.")
 
         self.write_metrics(total_articles, errors_list)
         return output_data.model_dump()
@@ -347,6 +408,9 @@ if __name__ == "__main__":
     except ImportError:
         logger.info("Google Antigravity SDK not installed. Running under local resilient runtime framework.")
 
-    loop_output = asyncio.run(ResilientScraper().run_pipeline())
+    scraper = ResilientScraper()
+    loop_output = asyncio.run(scraper.run_pipeline())
     print("\n--- PIPELINE EXECUTION OUTPUT ---\n")
     print(json.dumps(loop_output, indent=2))
+    if not scraper.last_run_healthy:
+        sys.exit(1)

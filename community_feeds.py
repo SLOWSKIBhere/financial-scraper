@@ -30,7 +30,9 @@ import os
 import time
 import hashlib
 import argparse
+import html
 import re
+import sys
 from datetime import datetime, timezone
 from typing import List, Optional, Tuple
 
@@ -91,6 +93,7 @@ class SourceResult(BaseModel):
     articles: List[NewsArticle] = Field(default_factory=list)
     error: Optional[str] = None
     article_count: int = 0
+    fetched_entry_count: int = 0
 
 class FinalOutput(BaseModel):
     collected_at: str
@@ -114,6 +117,30 @@ def save_seen_urls(seen: set) -> None:
     """Persist the dedup URL set back to disk."""
     with open(SEEN_URLS_PATH, "w", encoding="utf-8") as f:
         json.dump(list(seen), f)
+
+
+def clean_text(value: object) -> str:
+    """Remove feed markup and normalize text before it reaches JSON/HTML."""
+    text = re.sub(r"<[^>]+>", " ", str(value or ""))
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+
+def canonical_url(value: str) -> str:
+    """Drop URL fragments, which never identify a different article."""
+    return (value or "").split("#", 1)[0].strip()
+
+
+def atomic_write_json(path: str, payload: object) -> None:
+    temp_path = f"{path}.tmp"
+    try:
+        with open(temp_path, "w", encoding="utf-8") as handle:
+            json.dump(payload, handle, indent=2, ensure_ascii=False)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp_path, path)
+    finally:
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
 
 
 def classify_category(title: str, summary: str, default: str) -> str:
@@ -149,7 +176,7 @@ def parse_published(entry) -> Optional[str]:
 
 def url_hash(url: str) -> str:
     """SHA-256 hash of a URL — used as the dedup key in seen_urls.json."""
-    return hashlib.sha256(url.encode()).hexdigest()
+    return hashlib.sha256(canonical_url(url).encode()).hexdigest()
 
 
 # ─── Scraper ──────────────────────────────────────────────────────────────────
@@ -168,7 +195,29 @@ class CommunityFeedsScraper:
             ),
             "Accept": "application/rss+xml, application/xml, text/xml, */*",
         }
-        self.seen_urls = load_seen_urls()
+        # Reports are current-feed snapshots for the dashboard. Cross-run URL
+        # deduplication happens in Notion; optional persisted state is retained
+        # only for legacy callers that explicitly enable it.
+        self.persist_seen_urls = os.getenv("PERSIST_SEEN_URLS", "").lower() == "true"
+        self.seen_urls = load_seen_urls() if self.persist_seen_urls else set()
+
+    def get_with_retry(self, client: httpx.Client, url: str) -> httpx.Response:
+        """Retry transient feed errors, then surface the final failure."""
+        for attempt in range(3):
+            try:
+                response = client.get(url, timeout=15)
+                status_code = getattr(response, "status_code", 200)
+                if status_code == 429 or status_code >= 500:
+                    if attempt < 2:
+                        time.sleep(2 ** attempt)
+                        continue
+                response.raise_for_status()
+                return response
+            except httpx.RequestError:
+                if attempt == 2:
+                    raise
+                time.sleep(2 ** attempt)
+        raise RuntimeError(f"Failed to fetch {url}")
 
     def fetch_source(
         self,
@@ -184,17 +233,20 @@ class CommunityFeedsScraper:
         """
         try:
             logger.info(f"Fetching {name}...")
-            response = client.get(url, timeout=12)
-            response.raise_for_status()
+            response = self.get_with_retry(client, url)
 
             feed = feedparser.parse(response.text)
+            if getattr(feed, "bozo", False) and not feed.entries:
+                raise ValueError(f"Feed parse error: {getattr(feed, 'bozo_exception', 'unknown')}")
+            if not feed.entries:
+                raise ValueError("Feed contained no entries")
             articles: List[NewsArticle] = []
             source_seen: set[str] = set()
             fetched_at = datetime.now(timezone.utc).isoformat()
 
             for entry in feed.entries[:50]:  # cap per source
                 try:
-                    article_url = getattr(entry, "link", "")
+                    article_url = canonical_url(getattr(entry, "link", ""))
                     if not article_url or not article_url.startswith("https://"):
                         continue
 
@@ -203,15 +255,17 @@ class CommunityFeedsScraper:
                     if uhash in self.seen_urls or uhash in source_seen:
                         continue
 
-                    title = getattr(entry, "title", "").replace("\n", " ").replace("\r", " ").strip()
+                    title = clean_text(getattr(entry, "title", ""))
                     # Multi-step summary extraction:
                     # 1. summary/description field (strip empty strings — WSJ/CoinDesk send "")
                     raw_summary = getattr(entry, "summary", None) or getattr(entry, "description", None)
-                    summary = raw_summary.strip() if raw_summary and raw_summary.strip() else None
+                    if raw_summary is not None and not isinstance(raw_summary, str):
+                        raise TypeError("Feed summary must be text")
+                    summary = clean_text(raw_summary) if raw_summary and raw_summary.strip() else None
                     # 2. content blocks (Atom feeds — check value is non-empty)
                     if not summary and hasattr(entry, "content") and entry.content:
                         for block in entry.content:
-                            val = block.get("value", "").strip() if isinstance(block, dict) else ""
+                            val = clean_text(block.get("value", "")) if isinstance(block, dict) else ""
                             if val:
                                 summary = val
                                 break
@@ -228,7 +282,7 @@ class CommunityFeedsScraper:
                             if tag_terms:
                                 summary = f"[topics: {', '.join(tag_terms)}]"
                     if summary:
-                        summary = summary[:500].replace("\n", " ").strip()
+                        summary = clean_text(summary)[:500]
 
                     category = classify_category(title, summary or "", default_category)
                     article = NewsArticle(
@@ -252,7 +306,12 @@ class CommunityFeedsScraper:
 
             self.seen_urls.update(source_seen)
             logger.info(f"{name}: {len(articles)} new articles")
-            return SourceResult(source=name, articles=articles, article_count=len(articles))
+            return SourceResult(
+                source=name,
+                articles=articles,
+                article_count=len(articles),
+                fetched_entry_count=len(feed.entries),
+            )
 
         except Exception as e:
             logger.error(f"{name} failed: {e}")
@@ -271,9 +330,25 @@ class CommunityFeedsScraper:
                 results.append(result)
                 time.sleep(0.5)  # polite rate limiting
 
-        save_seen_urls(self.seen_urls)
-
         total = sum(r.article_count for r in results)
+        healthy_sources = sum(
+            1 for result in results
+            if result.error is None and result.fetched_entry_count > 0
+        )
+        minimum_sources = int(os.getenv("MIN_COMMUNITY_SOURCES", "2"))
+        minimum_articles = int(os.getenv("MIN_COMMUNITY_ARTICLES", "5"))
+        self.last_run_healthy = (
+            healthy_sources >= minimum_sources and total >= minimum_articles
+        )
+        if not self.last_run_healthy:
+            logger.critical(
+                "Community health check failed: %d healthy sources/%d required, "
+                "%d articles/%d required",
+                healthy_sources,
+                minimum_sources,
+                total,
+                minimum_articles,
+            )
         logger.info(f"Community feeds complete — {total} new articles across {len(results)} sources")
 
         return FinalOutput(
@@ -293,8 +368,10 @@ def merge_into_financial_report(output: FinalOutput) -> None:
         try:
             with open(MERGED_OUTPUT_PATH, "r", encoding="utf-8") as f:
                 existing = json.load(f)
-        except Exception:
-            existing = {}
+        except (OSError, json.JSONDecodeError) as exc:
+            raise RuntimeError(
+                f"Refusing to replace unreadable financial report: {exc}"
+            ) from exc
 
     # financial_report.json stores: {results: [{source, articles: [...]}]}
     existing_results: List[dict] = existing.get("results", [])
@@ -315,8 +392,7 @@ def merge_into_financial_report(output: FinalOutput) -> None:
         len(r.get("articles", [])) for r in existing["results"]
     )
 
-    with open(MERGED_OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(existing, f, indent=2, ensure_ascii=False)
+    atomic_write_json(MERGED_OUTPUT_PATH, existing)
 
     logger.info(f"Merged into {MERGED_OUTPUT_PATH} — total {existing['total_articles']} articles")
 
@@ -329,9 +405,14 @@ def main():
     scraper = CommunityFeedsScraper()
     output = scraper.run()
 
+    if not scraper.last_run_healthy:
+        logger.error("Preserving the previous community report because this run was unhealthy.")
+        return 1
+
     # Always write standalone community report
-    with open(OUTPUT_FILE_PATH, "w", encoding="utf-8") as f:
-        json.dump(output.model_dump(), f, indent=2, ensure_ascii=False)
+    atomic_write_json(OUTPUT_FILE_PATH, output.model_dump())
+    if scraper.persist_seen_urls:
+        save_seen_urls(scraper.seen_urls)
 
     total = output.total_articles
     logger.info(f"Community report saved to {OUTPUT_FILE_PATH} — {total} articles")
@@ -348,8 +429,9 @@ def main():
         print(f"  {r.source}: {status}")
     print(f"\nTotal new articles: {total}")
     print("=" * 50)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
 

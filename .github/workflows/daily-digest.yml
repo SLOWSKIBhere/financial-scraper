@@ -1,0 +1,68 @@
+name: Daily financial digest
+
+on:
+  schedule:
+    - cron: "7 8 * * *"
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-financial-digest
+  cancel-in-progress: false
+
+env:
+  NOTION_TOKEN: ${{ secrets.NOTION_TOKEN || secrets.NOTION_ACCESS_TOKEN || secrets.NOTION_API_KEY }}
+  NOTION_DB_ID: ${{ secrets.NOTION_DB_ID || vars.NOTION_DB_ID }}
+  NOTION_DATA_SOURCE_ID: ${{ secrets.NOTION_DATA_SOURCE_ID || vars.NOTION_DATA_SOURCE_ID }}
+  TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+  TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+  TWILIO_WHATSAPP_FROM: ${{ secrets.TWILIO_WHATSAPP_FROM }}
+  TWILIO_WHATSAPP_TO: ${{ secrets.TWILIO_WHATSAPP_TO }}
+  DIGEST_WEBHOOK_URL: ${{ secrets.DIGEST_WEBHOOK_URL }}
+  DIGEST_WEBHOOK_TOKEN: ${{ secrets.DIGEST_WEBHOOK_TOKEN }}
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Build and deliver digest
+        shell: bash
+        run: |
+          args=()
+          if [[ "${{ vars.REQUIRE_DIGEST_DELIVERY }}" == "true" ]]; then
+            args+=(--require-delivery)
+          fi
+          python scripts/digest.py "${args[@]}"
+
+      - name: Add digest to run summary
+        if: always()
+        shell: bash
+        run: |
+          if [[ -f daily_digest.txt ]]; then
+            echo "## Daily financial digest" >> "$GITHUB_STEP_SUMMARY"
+            cat daily_digest.txt >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload digest
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: daily-digest-${{ github.run_id }}
+          if-no-files-found: ignore
+          retention-days: 14
+          path: daily_digest.txt

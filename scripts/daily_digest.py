@@ -18,7 +18,11 @@ from datetime import datetime, timezone, timedelta
 
 def get_notion_token() -> str:
     """Use the canonical token name while preserving older deployments."""
-    return os.environ.get("NOTION_TOKEN") or os.environ.get("NOTION_ACCESS_TOKEN", "")
+    return (
+        os.environ.get("NOTION_TOKEN")
+        or os.environ.get("NOTION_ACCESS_TOKEN")
+        or os.environ.get("NOTION_API_KEY", "")
+    )
 
 
 TOKEN    = get_notion_token()
@@ -159,4 +163,6 @@ def build_digest() -> str:
 
 
 if __name__ == "__main__":
-    print(build_digest())
+    from digest import main as reliable_main
+
+    raise SystemExit(reliable_main())

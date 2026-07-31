@@ -26,12 +26,16 @@ except ImportError:
 
 # ── env ──────────────────────────────────────────────────────────────────────
 
-REQUEST_TIMEOUT_SECONDS = 15
+REQUEST_TIMEOUT_SECONDS = 20
 
 
 def get_notion_token():
     """Use the canonical token name while preserving older deployments."""
-    return os.getenv("NOTION_TOKEN") or os.getenv("NOTION_ACCESS_TOKEN")
+    return (
+        os.getenv("NOTION_TOKEN")
+        or os.getenv("NOTION_ACCESS_TOKEN")
+        or os.getenv("NOTION_API_KEY")
+    )
 
 
 def load_env():
@@ -288,4 +292,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # Preserve the historical entry point while routing all real executions to
+    # the current, fail-fast data-source implementation.
+    from notion_sync import main as reliable_main
+
+    raise SystemExit(reliable_main())
