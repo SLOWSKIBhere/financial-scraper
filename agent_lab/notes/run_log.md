@@ -559,3 +559,16 @@ Audited 16 owned repositories via authenticated GitHub API.
 - workoutapp-public: 100/100; last=2026-08-02T13:03:56Z; branches=1; stale=0; PRs=0; issues=0; missing=none; artifacts=0
 - xAi-dario: 95/100; last=2026-08-01T17:04:36Z; branches=1; stale=0; PRs=0; issues=0; missing=LICENSE; artifacts=0
 Actions: clarity-weather: added MIT LICENSE; my-project-name: added MIT LICENSE; pinch-lite-verifier: added MIT LICENSE; scholara-portal: added MIT LICENSE; xAi-dario: added MIT LICENSE
+
+## [2026-08-03 20:29 UTC] — Omniguide: configured-vs-ready provider fix
+
+*Action:* Direct request, explicit checklist given — implemented + tested + pushed
+*Repo:* SLOWSKIBhere/Omniguide
+*Commits:* a8c6717161 (providers.py), bd4ab05b3a (tests/test_pipeline.py)
+
+Bug: ProviderRouter conflated "configured" (API key set) with "ready" (dependency importable). If Gemini were the only configured provider and google-genai wasn't installed, it would show the generic "No compatible model provider is configured" message instead of the real cause.
+
+Fix: split into is_configured() / dependency_ready() / configured_for(vision) / available_for(vision) across both providers. Router now gates on configured_for (attempts the call, surfaces the specific error) while available_for (configured AND ready) drives /health reporting only.
+
+Tests: 3 new regression tests (failover-with-fallback, gemini-only-raises-specific-error, both generate_text + generate_json paths) + 1 new /health test confirming configured=true, dependency_ready=false, available=false. Full suite run locally: 13/13 passing before push.
+
